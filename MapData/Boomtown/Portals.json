@@ -1,0 +1,5583 @@
+[
+    {
+        "Transform": {
+            "Position": {
+                "X": 0.0862816945,
+                "Y": 6.18,
+                "Z": -14.7562332
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.707095861,
+                "Z": 0.0,
+                "W": -0.7071177
+            },
+            "Scale": {
+                "X": 0.999999642,
+                "Y": 1.0,
+                "Z": 0.999999642
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": -2.29,
+                "Y": -2.67,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 1.72,
+                "Y": 5.0,
+                "Z": 15.24
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 5.44,
+                "Y": -5.69,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 1.98,
+                "Y": 5.0,
+                "Z": 18.22
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 2.5796206,
+                    "Y": -2.92,
+                    "Z": 1.03667417E-05
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "UpCostFactor": 1.0,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 10.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -10.1004219,
+                "Y": 21.38,
+                "Z": -32.238533
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.997177541,
+                "Z": 0.0,
+                "W": 0.07507947
+            },
+            "Scale": {
+                "X": 0.999999642,
+                "Y": 1.0,
+                "Z": 0.999999642
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": -8.28,
+                "Y": -5.97,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 1.2,
+                "Y": 5.0,
+                "Z": 5.0
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": -0.31,
+                "Y": -9.14,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.6,
+                "Y": 5.0,
+                "Z": 6.0
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": -2.836188,
+                    "Y": -6.13,
+                    "Z": -2.098084E-05
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "UpCostFactor": 1.0,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 14.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -58.1169853,
+                "Y": 5.22,
+                "Z": 35.6629372
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -1.0,
+                "Z": 0.0,
+                "W": 2.83122063E-06
+            },
+            "Scale": {
+                "X": 1.00000024,
+                "Y": 1.0,
+                "Z": 1.00000024
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": -4.46,
+                "Y": 6.97,
+                "Z": -2.32
+            },
+            "Size": {
+                "X": 3.00000048,
+                "Y": 5.0,
+                "Z": 3.00000048
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": -0.42,
+                "Y": -2.07,
+                "Z": 14.65
+            },
+            "Size": {
+                "X": 3.00000048,
+                "Y": 5.0,
+                "Z": 3.00000048
+            }
+        },
+        "ExclusiveTo": 257,
+        "Action": {
+            "$type": "PortalActionWallRun",
+            "Wall": {
+                "X": 4.47,
+                "Y": 0.0,
+                "Z": 5.34
+            },
+            "Path": [
+                {
+                    "X": 1.84937215,
+                    "Y": 5.39945364,
+                    "Z": 1.49524808
+                },
+                {
+                    "X": 1.8526051,
+                    "Y": 3.080915,
+                    "Z": 9.168621
+                }
+            ],
+            "UseGlobalCostFactor": false,
+            "CostFactor": 0.25
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 37.4762573,
+                "Y": 9.129997,
+                "Z": -14.3962326
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -0.793360949,
+                "Z": 0.0,
+                "W": -0.608751535
+            },
+            "Scale": {
+                "X": 0.999999762,
+                "Y": 1.0,
+                "Z": 0.999999762
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": 0.0,
+                "Y": -2.67,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 1.2,
+                "Y": 5.0,
+                "Z": 5.0
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 5.44,
+                "Y": -8.19,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.6,
+                "Y": 5.0,
+                "Z": 12.12
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 3.307751,
+                    "Y": -2.92,
+                    "Z": -3.69660556E-05
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "UpCostFactor": 1.0,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 8.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 39.10627,
+                "Y": 12.14,
+                "Z": 20.1837444
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -0.7071161,
+                "Z": 0.0,
+                "W": -0.7070974
+            },
+            "Scale": {
+                "X": 0.9999997,
+                "Y": 1.0,
+                "Z": 0.9999997
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": 0.0,
+                "Y": -6.03,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 2.0,
+                "Y": 5.0,
+                "Z": 3.18
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 5.44,
+                "Y": -6.22,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.6,
+                "Y": 5.0,
+                "Z": 3.46
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 3.3005352,
+                    "Y": -4.74,
+                    "Z": -2.005481E-05
+                }
+            ],
+            "UseGlobalCostFactor": false,
+            "UpCostFactor": 0.5,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 8.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -56.2137566,
+                "Y": 9.129997,
+                "Z": 21.2937737
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -1.54972076E-05,
+                "Z": 0.0,
+                "W": -1.0
+            },
+            "Scale": {
+                "X": 0.99999994,
+                "Y": 1.0,
+                "Z": 0.99999994
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": 0.0,
+                "Y": -6.04,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 1.2,
+                "Y": 5.0,
+                "Z": 5.0
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 5.44,
+                "Y": -8.19,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.6,
+                "Y": 5.0,
+                "Z": 6.0
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 3.30654454,
+                    "Y": -5.21,
+                    "Z": 2.86102249E-06
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "UpCostFactor": 1.0,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 8.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -18.560421,
+                "Y": 15.37,
+                "Z": -34.19854
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.997177541,
+                "Z": 0.0,
+                "W": 0.07507947
+            },
+            "Scale": {
+                "X": 0.9999998,
+                "Y": 1.0,
+                "Z": 0.9999998
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": -4.89,
+                "Y": -2.85,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 1.2,
+                "Y": 5.0,
+                "Z": 5.0
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": -0.31,
+                "Y": -9.14,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.6,
+                "Y": 5.0,
+                "Z": 6.0
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": -1.01231861,
+                    "Y": -3.04,
+                    "Z": -1.26361847E-05
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "UpCostFactor": 1.0,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 14.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -7.59380674,
+                "Y": 9.1,
+                "Z": 17.9838
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.3826826,
+                "Z": 0.0,
+                "W": 0.9238798
+            },
+            "Scale": {
+                "X": 0.9999999,
+                "Y": 1.0,
+                "Z": 0.9999999
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": -1.88,
+                "Y": -2.77,
+                "Z": -6.36
+            },
+            "Size": {
+                "X": 3.00000048,
+                "Y": 5.0,
+                "Z": 3.00000048
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": -3.9,
+                "Y": -2.77,
+                "Z": 14.7
+            },
+            "Size": {
+                "X": 3.00000048,
+                "Y": 13.78,
+                "Z": 3.00000048
+            }
+        },
+        "ExclusiveTo": 257,
+        "Action": {
+            "$type": "PortalActionWallRun",
+            "Wall": {
+                "X": -7.46,
+                "Y": 0.0,
+                "Z": -2.8
+            },
+            "Path": [
+                {
+                    "X": -3.88973069,
+                    "Y": 0.761885643,
+                    "Z": -4.73701334
+                },
+                {
+                    "X": -4.72542667,
+                    "Y": 2.10564613,
+                    "Z": -0.612900138
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "CostFactor": 0.5
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -56.1537437,
+                "Y": 9.129997,
+                "Z": -10.8162365
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -0.707097948,
+                "Z": 0.0,
+                "W": 0.7071156
+            },
+            "Scale": {
+                "X": 0.9999999,
+                "Y": 1.0,
+                "Z": 0.9999999
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": 0.0,
+                "Y": -2.67,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 1.2,
+                "Y": 5.0,
+                "Z": 5.0
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 6.42,
+                "Y": -8.19,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.6,
+                "Y": 5.0,
+                "Z": 5.38
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 3.328125,
+                    "Y": -2.92,
+                    "Z": 6.22868538E-06
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "UpCostFactor": 1.0,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 8.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 10.0262737,
+                "Y": 12.05,
+                "Z": -41.1562462
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 1.01029873E-05,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": -3.56,
+                "Y": -2.67,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 5.28,
+                "Y": 5.0,
+                "Z": 4.0
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 3.69,
+                "Y": -5.69,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.6,
+                "Y": 5.0,
+                "Z": 4.0
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 1.22730315,
+                    "Y": -1.2699995,
+                    "Z": 1.70469248E-05
+                }
+            ],
+            "UseGlobalCostFactor": false,
+            "UpCostFactor": 0.5,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 10.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 35.323246,
+                "Y": 8.76,
+                "Z": -23.146841
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.382683128,
+                "Z": 0.0,
+                "W": 0.9238797
+            },
+            "Scale": {
+                "X": 0.9999995,
+                "Y": 1.0,
+                "Z": 0.9999995
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": -1.69,
+                "Y": -7.98,
+                "Z": 1.01
+            },
+            "Size": {
+                "X": 3.00000048,
+                "Y": 5.0,
+                "Z": 2.1
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": -0.42,
+                "Y": -2.07,
+                "Z": 14.93
+            },
+            "Size": {
+                "X": 3.00000048,
+                "Y": 5.0,
+                "Z": 3.00000048
+            }
+        },
+        "ExclusiveTo": 257,
+        "Action": {
+            "$type": "PortalActionWallRun",
+            "Wall": {
+                "X": -4.73,
+                "Y": 0.0,
+                "Z": 11.72
+            },
+            "Path": [
+                {
+                    "X": -1.64860356,
+                    "Y": -0.5933018,
+                    "Z": 9.549774
+                },
+                {
+                    "X": -1.68115056,
+                    "Y": -0.5933018,
+                    "Z": 13.1427622
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "CostFactor": 0.5
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 10.8729277,
+                "Y": 9.1,
+                "Z": 20.4130135
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -0.258818626,
+                "Z": 0.0,
+                "W": 0.965925932
+            },
+            "Scale": {
+                "X": 1.00000012,
+                "Y": 1.0,
+                "Z": 1.00000012
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": -0.37,
+                "Y": -2.77,
+                "Z": -5.64
+            },
+            "Size": {
+                "X": 3.00000048,
+                "Y": 5.0,
+                "Z": 3.00000048
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": -3.9,
+                "Y": -2.77,
+                "Z": 14.7
+            },
+            "Size": {
+                "X": 3.00000048,
+                "Y": 13.78,
+                "Z": 3.00000048
+            }
+        },
+        "ExclusiveTo": 257,
+        "Action": {
+            "$type": "PortalActionWallRun",
+            "Wall": {
+                "X": 4.52,
+                "Y": 0.0,
+                "Z": -1.36
+            },
+            "Path": [
+                {
+                    "X": 0.34538877,
+                    "Y": 0.42229557,
+                    "Z": -3.0557034
+                },
+                {
+                    "X": 0.3783137,
+                    "Y": 2.63025379,
+                    "Z": 1.35353327
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "CostFactor": 0.5
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 25.4362545,
+                "Y": 6.18,
+                "Z": -2.35624218
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -0.707116544,
+                "Z": 0.0,
+                "W": -0.707097
+            },
+            "Scale": {
+                "X": 0.9999998,
+                "Y": 1.0,
+                "Z": 0.9999998
+            }
+        },
+        "Type": 2,
+        "Direction": 1,
+        "PortalOne": {
+            "Center": {
+                "X": -4.65,
+                "Y": 6.21,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 1.2,
+                "Y": 5.0,
+                "Z": 5.0
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 7.43,
+                "Y": -3.08,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 2.22,
+                "Y": 5.0,
+                "Z": 4.26
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 0.222864181,
+                    "Y": 6.57,
+                    "Z": -1.867173E-05
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "UpCostFactor": 1.0,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 12.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 39.3762741,
+                "Y": 9.129997,
+                "Z": 21.9137516
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.7070978,
+                "Z": 0.0,
+                "W": -0.7071157
+            },
+            "Scale": {
+                "X": 0.9999997,
+                "Y": 1.0,
+                "Z": 0.9999997
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": 0.0,
+                "Y": -2.95,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 2.0,
+                "Y": 5.0,
+                "Z": 5.0
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 5.44,
+                "Y": -8.19,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.6,
+                "Y": 5.0,
+                "Z": 10.46
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 3.33341026,
+                    "Y": -3.47000027,
+                    "Z": 1.87972619E-05
+                }
+            ],
+            "UseGlobalCostFactor": false,
+            "UpCostFactor": 0.5,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 8.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -37.7478867,
+                "Y": 9.129997,
+                "Z": -43.5399971
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -0.707100034,
+                "Z": 0.0,
+                "W": 0.7071135
+            },
+            "Scale": {
+                "X": 0.9999997,
+                "Y": 1.0,
+                "Z": 0.9999997
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": 0.0,
+                "Y": -5.21,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 1.2,
+                "Y": 5.0,
+                "Z": 3.34
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 5.44,
+                "Y": -8.19,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.6,
+                "Y": 5.0,
+                "Z": 2.22
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 3.38431621,
+                    "Y": -2.92,
+                    "Z": 1.81691757E-05
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "UpCostFactor": 1.0,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 11.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -17.90374,
+                "Y": 12.14,
+                "Z": 3.313751
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -0.707100034,
+                "Z": 0.0,
+                "W": 0.7071135
+            },
+            "Scale": {
+                "X": 1.00000072,
+                "Y": 1.0,
+                "Z": 1.00000072
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": -1.69,
+                "Y": -2.67,
+                "Z": -2.51
+            },
+            "Size": {
+                "X": 1.2,
+                "Y": 5.0,
+                "Z": 3.18
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 5.96,
+                "Y": -6.22,
+                "Z": -2.76
+            },
+            "Size": {
+                "X": 3.6,
+                "Y": 5.0,
+                "Z": 3.46
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 3.66415381,
+                    "Y": -3.2005682,
+                    "Z": -2.68495655
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "UpCostFactor": 1.0,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 9.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -36.7237434,
+                "Y": 12.39,
+                "Z": 2.33375669
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -1.0,
+                "Z": 0.0,
+                "W": 1.27255917E-05
+            },
+            "Scale": {
+                "X": 0.9999998,
+                "Y": 1.0,
+                "Z": 0.9999998
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": 0.0,
+                "Y": -5.93,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 1.2,
+                "Y": 5.0,
+                "Z": 5.0
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 4.26,
+                "Y": -8.19,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.6,
+                "Y": 5.0,
+                "Z": 6.94
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 3.3418963,
+                    "Y": -5.62,
+                    "Z": -7.15255828E-06
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "UpCostFactor": 1.0,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 8.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -57.8937569,
+                "Y": 11.12,
+                "Z": 27.973774
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -0.7071168,
+                "Z": 0.0,
+                "W": -0.707096756
+            },
+            "Scale": {
+                "X": 0.9999997,
+                "Y": 1.0,
+                "Z": 0.9999997
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": 0.0,
+                "Y": -4.87,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.0,
+                "Y": 5.0,
+                "Z": 5.0
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 5.44,
+                "Y": -8.19,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.6,
+                "Y": 5.0,
+                "Z": 6.0
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 4.147649,
+                    "Y": -5.21,
+                    "Z": -5.135685E-06
+                }
+            ],
+            "UseGlobalCostFactor": false,
+            "UpCostFactor": 0.5,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 8.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -18.5737476,
+                "Y": 6.18,
+                "Z": 9.753775
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.210838452,
+                "Z": 0.0,
+                "W": -0.9775209
+            },
+            "Scale": {
+                "X": 0.999999642,
+                "Y": 1.0,
+                "Z": 0.999999642
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": -4.65,
+                "Y": 5.78,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 1.2,
+                "Y": 5.0,
+                "Z": 5.0
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 3.15,
+                "Y": 0.81,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 2.22,
+                "Y": 5.0,
+                "Z": 4.26
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": -0.117776453,
+                    "Y": 6.24000025,
+                    "Z": 1.64359844E-05
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "UpCostFactor": 1.0,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 12.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -31.6137352,
+                "Y": 6.18,
+                "Z": -1.34624434
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -0.991443157,
+                "Z": 0.0,
+                "W": 0.130539089
+            },
+            "Scale": {
+                "X": 1.00000072,
+                "Y": 1.0,
+                "Z": 1.00000072
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": -4.65,
+                "Y": 0.0,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 1.2,
+                "Y": 5.0,
+                "Z": 3.08
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 3.53,
+                "Y": 0.0,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 2.22,
+                "Y": 5.0,
+                "Z": 3.36
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 0.0308597777,
+                    "Y": 1.25999975,
+                    "Z": -1.0058276E-07
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "UpCostFactor": 1.0,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 10.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 30.82313,
+                "Y": 2.7,
+                "Z": -5.05686235
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -0.7071097,
+                "Z": 0.0,
+                "W": -0.707103848
+            },
+            "Scale": {
+                "X": 0.9999995,
+                "Y": 1.0,
+                "Z": 0.9999995
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": -2.26,
+                "Y": 3.45,
+                "Z": -3.25
+            },
+            "Size": {
+                "X": 3.00000048,
+                "Y": 5.0,
+                "Z": 2.1
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": -0.42,
+                "Y": -2.07,
+                "Z": 16.35
+            },
+            "Size": {
+                "X": 3.00000048,
+                "Y": 5.0,
+                "Z": 3.00000048
+            }
+        },
+        "ExclusiveTo": 257,
+        "Action": {
+            "$type": "PortalActionWallRun",
+            "Wall": {
+                "X": -5.46,
+                "Y": 0.0,
+                "Z": 4.77
+            },
+            "Path": [
+                {
+                    "X": -2.829394,
+                    "Y": 2.785792,
+                    "Z": 2.119666
+                },
+                {
+                    "X": -2.73143387,
+                    "Y": 2.497802,
+                    "Z": 6.984266
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "CostFactor": 0.5
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 10.6162758,
+                "Y": 8.95,
+                "Z": 7.44375658
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -1.0,
+                "Z": 0.0,
+                "W": 1.07884407E-05
+            },
+            "Scale": {
+                "X": 0.9999999,
+                "Y": 1.0,
+                "Z": 0.9999999
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": -1.69,
+                "Y": -2.67,
+                "Z": -2.51
+            },
+            "Size": {
+                "X": 1.2,
+                "Y": 5.0,
+                "Z": 3.18
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 5.96,
+                "Y": -8.46,
+                "Z": -2.76
+            },
+            "Size": {
+                "X": 3.6,
+                "Y": 5.0,
+                "Z": 3.46
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 3.66299748,
+                    "Y": -3.2005682,
+                    "Z": -2.68494916
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "UpCostFactor": 1.0,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 9.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 10.1695747,
+                "Y": 21.38,
+                "Z": -32.2385368
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0557233058,
+                "Z": 0.0,
+                "W": 0.9984462
+            },
+            "Scale": {
+                "X": 0.999999762,
+                "Y": 1.0,
+                "Z": 0.999999762
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": -8.28,
+                "Y": -5.97,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 1.2,
+                "Y": 5.0,
+                "Z": 5.0
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": -0.31,
+                "Y": -9.14,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.6,
+                "Y": 5.0,
+                "Z": 6.0
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": -2.83798456,
+                    "Y": -6.13,
+                    "Z": 1.16825131E-05
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "UpCostFactor": 1.0,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 14.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 48.78626,
+                "Y": 9.129997,
+                "Z": -10.8162413
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -0.707097948,
+                "Z": 0.0,
+                "W": 0.7071156
+            },
+            "Scale": {
+                "X": 0.9999997,
+                "Y": 1.0,
+                "Z": 0.9999997
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": 0.0,
+                "Y": -2.67,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 1.2,
+                "Y": 5.0,
+                "Z": 5.0
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 7.04,
+                "Y": -8.19,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.6,
+                "Y": 5.0,
+                "Z": 5.38
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 3.32513046,
+                    "Y": -2.92,
+                    "Z": 1.3783836E-05
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "UpCostFactor": 1.0,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 8.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -19.2904263,
+                "Y": 15.37,
+                "Z": -33.6885262
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.998446465,
+                "Z": 0.0,
+                "W": -0.0557192825
+            },
+            "Scale": {
+                "X": 0.9999998,
+                "Y": 1.0,
+                "Z": 0.9999998
+            }
+        },
+        "Type": 2,
+        "Direction": 1,
+        "PortalOne": {
+            "Center": {
+                "X": -4.89,
+                "Y": -2.6,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 1.2,
+                "Y": 5.0,
+                "Z": 5.0
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 5.44,
+                "Y": -15.3,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.6,
+                "Y": 5.0,
+                "Z": 6.0
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 1.48483646,
+                    "Y": -5.21,
+                    "Z": -7.62939453E-06
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "UpCostFactor": 1.0,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 14.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 58.4661827,
+                "Y": 11.12,
+                "Z": 27.9737587
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -0.7071168,
+                "Z": 0.0,
+                "W": -0.707096756
+            },
+            "Scale": {
+                "X": 0.9999999,
+                "Y": 1.0,
+                "Z": 0.9999999
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": 0.0,
+                "Y": -4.87,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.0,
+                "Y": 5.0,
+                "Z": 5.0
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 5.44,
+                "Y": -8.19,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.6,
+                "Y": 5.0,
+                "Z": 6.0
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 4.148176,
+                    "Y": -5.21,
+                    "Z": -2.41942835E-05
+                }
+            ],
+            "UseGlobalCostFactor": false,
+            "UpCostFactor": 0.5,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 8.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 14.7762785,
+                "Y": 10.039999,
+                "Z": -2.766248
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -0.9662044,
+                "Z": 0.0,
+                "W": 0.257776976
+            },
+            "Scale": {
+                "X": 0.9999999,
+                "Y": 1.0,
+                "Z": 0.9999999
+            }
+        },
+        "Type": 0,
+        "Direction": 1,
+        "PortalOne": {
+            "Center": {
+                "X": -0.4,
+                "Y": 8.32,
+                "Z": 31.35
+            },
+            "Size": {
+                "X": 1.24,
+                "Y": 11.32,
+                "Z": 4.46
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 0.0,
+                "Y": 1.87,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 1.86,
+                "Y": 8.14,
+                "Z": 6.8
+            }
+        },
+        "ExclusiveTo": 257,
+        "Action": {
+            "$type": "PortalActionZipline",
+            "Path": [],
+            "ShortcutAreaA": {
+                "Position": {
+                    "X": 36.7,
+                    "Y": 0.43,
+                    "Z": 4.9
+                },
+                "Radius": 24.4
+            },
+            "ShortcutAreaB": {
+                "Position": {
+                    "X": -20.0,
+                    "Y": 0.43,
+                    "Z": -42.8
+                },
+                "Radius": 31.5
+            },
+            "UseGlobalCostFactor": true,
+            "CostFactor": 1.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 9.605709,
+                "Y": 6.75,
+                "Z": 46.933876
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.608775556,
+                "Z": 0.0,
+                "W": 0.793342531
+            },
+            "Scale": {
+                "X": 0.999999344,
+                "Y": 1.0,
+                "Z": 0.999999344
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": -3.0,
+                "Y": -0.44,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 4.0,
+                "Y": 5.0,
+                "Z": 4.0
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 11.0,
+                "Y": -5.77,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 4.0,
+                "Y": 5.0,
+                "Z": 4.5
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 3.44604135,
+                    "Y": 0.03000021,
+                    "Z": -5.6363674E-06
+                }
+            ],
+            "UseGlobalCostFactor": false,
+            "UpCostFactor": 10.0,
+            "DownCostFactor": 1.0,
+            "MaxHorizontalDistance": 18.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -55.433754,
+                "Y": 9.129997,
+                "Z": 19.3537731
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -0.382697225,
+                "Z": 0.0,
+                "W": -0.923873842
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": -1.37,
+                "Y": -6.04,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.0,
+                "Y": 5.0,
+                "Z": 5.0
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 5.44,
+                "Y": -8.19,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.6,
+                "Y": 5.0,
+                "Z": 6.0
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 3.30204129,
+                    "Y": -5.21,
+                    "Z": -1.54972054E-06
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "UpCostFactor": 1.0,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 8.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -10.4037247,
+                "Y": 12.05,
+                "Z": -40.94624
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -1.0,
+                "Z": 0.0,
+                "W": 1.07884407E-05
+            },
+            "Scale": {
+                "X": 0.999999762,
+                "Y": 1.0,
+                "Z": 0.999999762
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": -3.56,
+                "Y": -2.67,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.96,
+                "Y": 5.0,
+                "Z": 4.0
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 3.69,
+                "Y": -5.69,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.6,
+                "Y": 5.0,
+                "Z": 4.0
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 2.26413727,
+                    "Y": -2.92,
+                    "Z": -1.597405E-05
+                }
+            ],
+            "UseGlobalCostFactor": false,
+            "UpCostFactor": 0.5,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 10.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 47.37624,
+                "Y": 9.129997,
+                "Z": -15.766222
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -0.7071155,
+                "Z": 0.0,
+                "W": -0.707098067
+            },
+            "Scale": {
+                "X": 0.9999997,
+                "Y": 1.0,
+                "Z": 0.9999997
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": 0.0,
+                "Y": -2.67,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 1.2,
+                "Y": 5.0,
+                "Z": 5.0
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 5.44,
+                "Y": -8.19,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.6,
+                "Y": 5.0,
+                "Z": 5.38
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 3.310154,
+                    "Y": -2.92,
+                    "Z": -2.97329971E-05
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "UpCostFactor": 1.0,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 8.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 0.329518676,
+                "Y": 14.01,
+                "Z": 12.38149
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.7071068,
+                "Z": 0.0,
+                "W": 0.7071067
+            },
+            "Scale": {
+                "X": 0.9999999,
+                "Y": 1.0,
+                "Z": 0.9999999
+            }
+        },
+        "Type": 0,
+        "Direction": 1,
+        "PortalOne": {
+            "Center": {
+                "X": 41.59999,
+                "Y": 3.91,
+                "Z": -1.52587891E-05
+            },
+            "Size": {
+                "X": 3.0,
+                "Y": 11.32,
+                "Z": 4.46
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": -35.8,
+                "Y": -3.52,
+                "Z": -1.52587891E-05
+            },
+            "Size": {
+                "X": 3.0,
+                "Y": 10.2,
+                "Z": 6.8
+            }
+        },
+        "ExclusiveTo": 257,
+        "Action": {
+            "$type": "PortalActionZipline",
+            "Path": [],
+            "ShortcutAreaA": {
+                "Position": {
+                    "X": 0.0,
+                    "Y": 6.8,
+                    "Z": 54.3
+                },
+                "Radius": 20.1
+            },
+            "ShortcutAreaB": {
+                "Position": {
+                    "X": 0.24,
+                    "Y": 22.0,
+                    "Z": -29.3
+                },
+                "Radius": 42.04
+            },
+            "UseGlobalCostFactor": false,
+            "CostFactor": 0.5
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 0.08628353,
+                "Y": 6.18,
+                "Z": 28.3037567
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.707118,
+                "Z": 0.0,
+                "W": 0.707095563
+            },
+            "Scale": {
+                "X": 0.999999642,
+                "Y": 1.0,
+                "Z": 0.999999642
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": -2.29,
+                "Y": 0.09,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 4.0,
+                "Y": 5.0,
+                "Z": 8.0
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 5.44,
+                "Y": -5.69,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 4.0,
+                "Y": 5.0,
+                "Z": 8.0
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 2.839969,
+                    "Y": 0.25,
+                    "Z": -9.635486E-06
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "UpCostFactor": 1.0,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 10.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 26.4662666,
+                "Y": 9.32,
+                "Z": -8.026247
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -0.7071154,
+                "Z": 0.0,
+                "W": -0.7070981
+            },
+            "Scale": {
+                "X": 0.999999642,
+                "Y": 1.0,
+                "Z": 0.999999642
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": -1.69,
+                "Y": -2.67,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 1.2,
+                "Y": 5.0,
+                "Z": 3.18
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 3.09,
+                "Y": -6.29,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 1.92,
+                "Y": 5.0,
+                "Z": 3.46
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 1.12989438,
+                    "Y": -2.92,
+                    "Z": -3.76107237E-05
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "UpCostFactor": 1.0,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 8.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -26.22374,
+                "Y": 11.64,
+                "Z": -6.00625324
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -0.7071157,
+                "Z": 0.0,
+                "W": -0.7070978
+            },
+            "Scale": {
+                "X": 0.9999995,
+                "Y": 1.0,
+                "Z": 0.9999995
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": 0.0,
+                "Y": -5.55,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 1.2,
+                "Y": 5.0,
+                "Z": 3.52
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 5.44,
+                "Y": -8.19,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 2.78,
+                "Y": 5.0,
+                "Z": 4.66
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 3.25364423,
+                    "Y": -5.29,
+                    "Z": -1.75366567E-05
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "UpCostFactor": 1.0,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 8.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -47.923748,
+                "Y": 9.129997,
+                "Z": -15.7662315
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -0.7071155,
+                "Z": 0.0,
+                "W": -0.707098067
+            },
+            "Scale": {
+                "X": 0.9999999,
+                "Y": 1.0,
+                "Z": 0.9999999
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": 0.0,
+                "Y": -2.67,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 1.2,
+                "Y": 5.0,
+                "Z": 5.0
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 5.44,
+                "Y": -8.19,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.6,
+                "Y": 5.0,
+                "Z": 5.38
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 3.317749,
+                    "Y": -2.92,
+                    "Z": -6.659204E-06
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "UpCostFactor": 1.0,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 8.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -38.59374,
+                "Y": 12.14,
+                "Z": 20.62375
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -0.7071161,
+                "Z": 0.0,
+                "W": -0.7070974
+            },
+            "Scale": {
+                "X": 0.9999999,
+                "Y": 1.0,
+                "Z": 0.9999999
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": 0.0,
+                "Y": -6.22,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 2.0,
+                "Y": 5.0,
+                "Z": 3.18
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 5.44,
+                "Y": -6.22,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.6,
+                "Y": 5.0,
+                "Z": 3.46
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 3.153469,
+                    "Y": -4.72,
+                    "Z": -8.661751E-06
+                }
+            ],
+            "UseGlobalCostFactor": false,
+            "UpCostFactor": 0.5,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 8.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 13.7729731,
+                "Y": 9.1,
+                "Z": 23.5330276
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -0.258818626,
+                "Z": 0.0,
+                "W": 0.965925932
+            },
+            "Scale": {
+                "X": 0.999999762,
+                "Y": 1.0,
+                "Z": 0.999999762
+            }
+        },
+        "Type": 2,
+        "Direction": 1,
+        "PortalOne": {
+            "Center": {
+                "X": -0.37,
+                "Y": -2.77,
+                "Z": -5.64
+            },
+            "Size": {
+                "X": 3.00000048,
+                "Y": 5.0,
+                "Z": 3.00000048
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": -2.0,
+                "Y": 0.65,
+                "Z": 18.33
+            },
+            "Size": {
+                "X": 3.00000048,
+                "Y": 13.78,
+                "Z": 3.00000048
+            }
+        },
+        "ExclusiveTo": 257,
+        "Action": {
+            "$type": "PortalActionWallRun",
+            "Wall": {
+                "X": -3.73,
+                "Y": 0.0,
+                "Z": -1.01
+            },
+            "Path": [
+                {
+                    "X": -1.6195569,
+                    "Y": 0.42229557,
+                    "Z": -3.20106459
+                },
+                {
+                    "X": -1.74560809,
+                    "Y": 2.63025379,
+                    "Z": 0.970280647
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "CostFactor": 0.5
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -0.103735633,
+                "Y": 17.87,
+                "Z": -33.88624
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -0.7071155,
+                "Z": 0.0,
+                "W": -0.707098067
+            },
+            "Scale": {
+                "X": 0.999999762,
+                "Y": 1.0,
+                "Z": 0.999999762
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": -1.74,
+                "Y": -2.67,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.48,
+                "Y": 5.0,
+                "Z": 5.0
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 7.23,
+                "Y": -8.19,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 4.16,
+                "Y": 5.0,
+                "Z": 5.38
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 3.094563,
+                    "Y": -1.59000015,
+                    "Z": -1.95043922E-05
+                }
+            ],
+            "UseGlobalCostFactor": false,
+            "UpCostFactor": 0.5,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 9.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -41.5037422,
+                "Y": 9.129997,
+                "Z": 20.7637558
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -1.0,
+                "Z": 0.0,
+                "W": 1.27255917E-05
+            },
+            "Scale": {
+                "X": 0.9999999,
+                "Y": 1.0,
+                "Z": 0.9999999
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": 0.0,
+                "Y": -2.7,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 2.0,
+                "Y": 5.0,
+                "Z": 5.0
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 5.44,
+                "Y": -8.19,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.6,
+                "Y": 5.0,
+                "Z": 10.46
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 3.316036,
+                    "Y": -0.13999939,
+                    "Z": -4.053116E-06
+                }
+            ],
+            "UseGlobalCostFactor": false,
+            "UpCostFactor": 0.5,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 8.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -31.04697,
+                "Y": 2.7,
+                "Z": -2.58707571
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -0.707105756,
+                "Z": 0.0,
+                "W": 0.7071078
+            },
+            "Scale": {
+                "X": 0.9999997,
+                "Y": 1.0,
+                "Z": 0.9999997
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": -0.5,
+                "Y": 3.57,
+                "Z": -3.93
+            },
+            "Size": {
+                "X": 3.00000048,
+                "Y": 5.0,
+                "Z": 2.1
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": -0.42,
+                "Y": -2.07,
+                "Z": 16.63
+            },
+            "Size": {
+                "X": 3.00000048,
+                "Y": 5.0,
+                "Z": 3.00000048
+            }
+        },
+        "ExclusiveTo": 257,
+        "Action": {
+            "$type": "PortalActionWallRun",
+            "Wall": {
+                "X": 4.54,
+                "Y": 0.0,
+                "Z": 4.3
+            },
+            "Path": [
+                {
+                    "X": 0.34549886,
+                    "Y": 2.77466369,
+                    "Z": 3.300554
+                },
+                {
+                    "X": 0.349242568,
+                    "Y": 2.497802,
+                    "Z": 7.01001263
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "CostFactor": 0.5
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 34.0021057,
+                "Y": 9.129997,
+                "Z": -43.5500031
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -0.707100034,
+                "Z": 0.0,
+                "W": 0.7071135
+            },
+            "Scale": {
+                "X": 0.9999995,
+                "Y": 1.0,
+                "Z": 0.9999995
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": 0.0,
+                "Y": -5.21,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 1.2,
+                "Y": 5.0,
+                "Z": 3.34
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 5.44,
+                "Y": -8.19,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.6,
+                "Y": 5.0,
+                "Z": 2.22
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 3.38419461,
+                    "Y": -2.92,
+                    "Z": 3.34256656E-05
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "UpCostFactor": 1.0,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 11.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 34.3462639,
+                "Y": 11.8,
+                "Z": 2.33376217
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -1.56760216E-05,
+                "Z": 0.0,
+                "W": -1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": 2.88,
+                "Y": -5.55,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 1.2,
+                "Y": 5.0,
+                "Z": 5.0
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 5.44,
+                "Y": -8.19,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 1.46,
+                "Y": 5.0,
+                "Z": 5.86
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 4.65546,
+                    "Y": -5.59,
+                    "Z": 7.15255555E-06
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "UpCostFactor": 1.0,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 8.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -47.583744,
+                "Y": 9.129997,
+                "Z": -10.8162384
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -0.707097948,
+                "Z": 0.0,
+                "W": 0.7071156
+            },
+            "Scale": {
+                "X": 0.9999999,
+                "Y": 1.0,
+                "Z": 0.9999999
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": 0.0,
+                "Y": -2.67,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 1.2,
+                "Y": 5.0,
+                "Z": 5.0
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 6.68,
+                "Y": -8.19,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.6,
+                "Y": 5.0,
+                "Z": 5.38
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 3.39193726,
+                    "Y": -2.92,
+                    "Z": 7.810944E-06
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "UpCostFactor": 1.0,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 8.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 56.61619,
+                "Y": 9.129997,
+                "Z": 19.8637619
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -0.92388463,
+                "Z": 0.0,
+                "W": -0.382670969
+            },
+            "Scale": {
+                "X": 0.999999762,
+                "Y": 1.0,
+                "Z": 0.999999762
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": 0.0,
+                "Y": -5.55,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.0,
+                "Y": 5.0,
+                "Z": 5.0
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 7.68,
+                "Y": -8.19,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.6,
+                "Y": 5.0,
+                "Z": 6.94
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 3.32146168,
+                    "Y": -4.75,
+                    "Z": -1.74045563E-05
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "UpCostFactor": 1.0,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 8.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 19.7162838,
+                "Y": 12.14,
+                "Z": -2.00623918
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -0.179960281,
+                "Z": 0.0,
+                "W": -0.9836739
+            },
+            "Scale": {
+                "X": 0.999999762,
+                "Y": 1.0,
+                "Z": 0.999999762
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": -1.69,
+                "Y": -2.67,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 1.2,
+                "Y": 5.0,
+                "Z": 3.18
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 5.44,
+                "Y": -6.29,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 1.92,
+                "Y": 5.0,
+                "Z": 3.46
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 2.59440231,
+                    "Y": -2.92,
+                    "Z": -8.225441E-06
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "UpCostFactor": 1.0,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 8.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -31.2069588,
+                "Y": 2.7,
+                "Z": 11.1429234
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -0.707105756,
+                "Z": 0.0,
+                "W": 0.7071078
+            },
+            "Scale": {
+                "X": 0.9999999,
+                "Y": 1.0,
+                "Z": 0.9999999
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": -5.92,
+                "Y": 3.56,
+                "Z": 3.7
+            },
+            "Size": {
+                "X": 3.00000048,
+                "Y": 5.0,
+                "Z": 3.00000048
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": -0.42,
+                "Y": -2.07,
+                "Z": 16.16
+            },
+            "Size": {
+                "X": 3.00000048,
+                "Y": 5.0,
+                "Z": 3.00000048
+            }
+        },
+        "ExclusiveTo": 257,
+        "Action": {
+            "$type": "PortalActionWallRun",
+            "Wall": {
+                "X": 3.35,
+                "Y": 0.0,
+                "Z": 6.42
+            },
+            "Path": [
+                {
+                    "X": 0.5404604,
+                    "Y": 2.497402,
+                    "Z": 4.515432
+                },
+                {
+                    "X": 0.5469273,
+                    "Y": 2.497802,
+                    "Z": 9.843283
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "CostFactor": 0.5
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 41.2962723,
+                "Y": 9.129997,
+                "Z": 21.2037449
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -1.27255917E-05,
+                "Z": 0.0,
+                "W": -1.0
+            },
+            "Scale": {
+                "X": 0.9999997,
+                "Y": 1.0,
+                "Z": 0.9999997
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": 0.0,
+                "Y": -2.72,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 2.0,
+                "Y": 5.0,
+                "Z": 5.0
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 5.44,
+                "Y": -8.19,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.6,
+                "Y": 5.0,
+                "Z": 10.46
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 3.272251,
+                    "Y": -3.12,
+                    "Z": -9.536743E-07
+                }
+            ],
+            "UseGlobalCostFactor": false,
+            "UpCostFactor": 0.5,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 8.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 57.356266,
+                "Y": 9.129997,
+                "Z": -10.816247
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -0.707097948,
+                "Z": 0.0,
+                "W": 0.7071156
+            },
+            "Scale": {
+                "X": 0.9999997,
+                "Y": 1.0,
+                "Z": 0.9999997
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": 0.0,
+                "Y": -2.67,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 1.2,
+                "Y": 5.0,
+                "Z": 5.0
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 7.09,
+                "Y": -8.19,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.6,
+                "Y": 5.0,
+                "Z": 5.38
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 3.306385,
+                    "Y": -2.92,
+                    "Z": 1.7133716E-05
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "UpCostFactor": 1.0,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 8.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -35.44374,
+                "Y": 9.129997,
+                "Z": -15.2762432
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -0.7071157,
+                "Z": 0.0,
+                "W": -0.7070978
+            },
+            "Scale": {
+                "X": 0.9999999,
+                "Y": 1.0,
+                "Z": 0.9999999
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": 0.0,
+                "Y": -2.67,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 1.2,
+                "Y": 5.0,
+                "Z": 3.22
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 5.44,
+                "Y": -8.19,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.6,
+                "Y": 5.0,
+                "Z": 12.2
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 3.27586365,
+                    "Y": -2.92,
+                    "Z": -1.69790583E-05
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "UpCostFactor": 1.0,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 8.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 18.399559,
+                "Y": 15.37,
+                "Z": -34.44853
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -0.0557175241,
+                "Z": 0.0,
+                "W": -0.9984466
+            },
+            "Scale": {
+                "X": 0.9999999,
+                "Y": 1.0,
+                "Z": 0.9999999
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": -4.89,
+                "Y": -2.85,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 1.2,
+                "Y": 5.0,
+                "Z": 5.0
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": -0.31,
+                "Y": -9.14,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.6,
+                "Y": 5.0,
+                "Z": 6.0
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": -1.01587582,
+                    "Y": -3.04,
+                    "Z": 8.881093E-06
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "UpCostFactor": 1.0,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 14.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 26.46626,
+                "Y": 6.18,
+                "Z": -14.476244
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -0.7071154,
+                "Z": 0.0,
+                "W": -0.7070981
+            },
+            "Scale": {
+                "X": 0.9999999,
+                "Y": 1.0,
+                "Z": 0.9999999
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": -2.29,
+                "Y": -2.67,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 1.2,
+                "Y": 5.0,
+                "Z": 3.18
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 5.44,
+                "Y": -5.69,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 1.92,
+                "Y": 5.0,
+                "Z": 8.28
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 2.57535863,
+                    "Y": -2.92,
+                    "Z": -3.29764662E-05
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "UpCostFactor": 1.0,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 10.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -57.8937531,
+                "Y": 14.16,
+                "Z": 37.4237671
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -0.7071168,
+                "Z": 0.0,
+                "W": -0.707096756
+            },
+            "Scale": {
+                "X": 0.9999995,
+                "Y": 1.0,
+                "Z": 0.9999995
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": 0.0,
+                "Y": -4.87,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.0,
+                "Y": 5.0,
+                "Z": 5.0
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 5.44,
+                "Y": -8.19,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.6,
+                "Y": 5.0,
+                "Z": 6.0
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 4.1471467,
+                    "Y": -5.21,
+                    "Z": -5.149852E-06
+                }
+            ],
+            "UseGlobalCostFactor": false,
+            "UpCostFactor": 0.5,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 8.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -49.5937958,
+                "Y": 14.01,
+                "Z": 40.12377
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.4855167,
+                "Z": 0.0,
+                "W": 0.874227345
+            },
+            "Scale": {
+                "X": 1.82521391,
+                "Y": 1.0,
+                "Z": 0.6886508
+            }
+        },
+        "Type": 0,
+        "Direction": 1,
+        "PortalOne": {
+            "Center": {
+                "X": 0.0,
+                "Y": 0.36,
+                "Z": 0.26
+            },
+            "Size": {
+                "X": 3.0,
+                "Y": 8.14,
+                "Z": 6.8
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 10.9,
+                "Y": -3.42,
+                "Z": 66.66
+            },
+            "Size": {
+                "X": 3.0,
+                "Y": 11.32,
+                "Z": 4.46
+            }
+        },
+        "ExclusiveTo": 257,
+        "Action": {
+            "$type": "PortalActionZipline",
+            "Path": [],
+            "ShortcutAreaA": {
+                "Position": {
+                    "X": -55.0,
+                    "Y": 0.43,
+                    "Z": 24.8
+                },
+                "Radius": 24.4
+            },
+            "ShortcutAreaB": {
+                "Position": {
+                    "X": -0.23,
+                    "Y": 8.4,
+                    "Z": 53.73
+                },
+                "Radius": 31.5
+            },
+            "UseGlobalCostFactor": false,
+            "CostFactor": 0.5
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 49.8760223,
+                "Y": 14.01,
+                "Z": 41.0137749
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -0.6096163,
+                "Z": 0.0,
+                "W": 0.7926967
+            },
+            "Scale": {
+                "X": 1.82521558,
+                "Y": 1.0,
+                "Z": 0.688651443
+            }
+        },
+        "Type": 0,
+        "Direction": 1,
+        "PortalOne": {
+            "Center": {
+                "X": 0.0,
+                "Y": 0.36,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.0,
+                "Y": 8.14,
+                "Z": 6.8
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": -3.5,
+                "Y": -3.42,
+                "Z": 72.27
+            },
+            "Size": {
+                "X": 3.0,
+                "Y": 11.32,
+                "Z": 4.46
+            }
+        },
+        "ExclusiveTo": 257,
+        "Action": {
+            "$type": "PortalActionZipline",
+            "Path": [],
+            "ShortcutAreaA": {
+                "Position": {
+                    "X": 58.5,
+                    "Y": 0.43,
+                    "Z": 25.7
+                },
+                "Radius": 24.4
+            },
+            "ShortcutAreaB": {
+                "Position": {
+                    "X": 0.05,
+                    "Y": 8.4,
+                    "Z": 54.53
+                },
+                "Radius": 31.5
+            },
+            "UseGlobalCostFactor": false,
+            "CostFactor": 0.5
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 58.8061943,
+                "Y": 14.16,
+                "Z": 37.8237648
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -0.7071168,
+                "Z": 0.0,
+                "W": -0.707096756
+            },
+            "Scale": {
+                "X": 0.9999999,
+                "Y": 1.0,
+                "Z": 0.9999999
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": 0.0,
+                "Y": -4.87,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.0,
+                "Y": 5.0,
+                "Z": 5.0
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 5.44,
+                "Y": -8.19,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.6,
+                "Y": 5.0,
+                "Z": 6.0
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 4.147239,
+                    "Y": -5.21,
+                    "Z": -1.27766034E-05
+                }
+            ],
+            "UseGlobalCostFactor": false,
+            "UpCostFactor": 0.5,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 8.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -9.774227,
+                "Y": 6.75,
+                "Z": 46.9336243
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.778588653,
+                "Z": 0.0,
+                "W": 0.6275346
+            },
+            "Scale": {
+                "X": 1.00000012,
+                "Y": 1.0,
+                "Z": 1.00000012
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": -3.0,
+                "Y": -0.44,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 4.0,
+                "Y": 5.0,
+                "Z": 4.0
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 11.0,
+                "Y": -5.77,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 4.0,
+                "Y": 5.0,
+                "Z": 4.5
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 5.234636,
+                    "Y": 0.199999809,
+                    "Z": -2.3329625E-05
+                }
+            ],
+            "UseGlobalCostFactor": false,
+            "UpCostFactor": 10.0,
+            "DownCostFactor": 1.0,
+            "MaxHorizontalDistance": 18.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -34.2378845,
+                "Y": 9.129997,
+                "Z": -43.5399971
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -0.707100034,
+                "Z": 0.0,
+                "W": 0.7071135
+            },
+            "Scale": {
+                "X": 0.9999999,
+                "Y": 1.0,
+                "Z": 0.9999999
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": 0.0,
+                "Y": -5.21,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 1.2,
+                "Y": 5.0,
+                "Z": 3.34
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 5.44,
+                "Y": -8.19,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.6,
+                "Y": 5.0,
+                "Z": 2.22
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 3.38321686,
+                    "Y": -2.92,
+                    "Z": 2.57778083E-05
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "UpCostFactor": 1.0,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 11.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 31.8362484,
+                "Y": 6.18,
+                "Z": 3.28376913
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 8.910894E-06,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 0.99999994,
+                "Y": 1.0,
+                "Z": 0.99999994
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": -4.65,
+                "Y": 6.17,
+                "Z": 2.7
+            },
+            "Size": {
+                "X": 1.2,
+                "Y": 5.0,
+                "Z": 5.0
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 2.91,
+                "Y": 0.25,
+                "Z": -2.02
+            },
+            "Size": {
+                "X": 2.22,
+                "Y": 5.0,
+                "Z": 5.06
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 0.442696542,
+                    "Y": 5.45999956,
+                    "Z": -0.479575127
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "UpCostFactor": 1.0,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 12.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 17.6162682,
+                "Y": 9.129997,
+                "Z": -34.6962433
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 8.076429E-06,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.00000012,
+                "Y": 1.0,
+                "Z": 1.00000012
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": 0.27,
+                "Y": -2.67,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.0,
+                "Y": 5.0,
+                "Z": 15.2
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 8.61,
+                "Y": -8.19,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.6,
+                "Y": 5.0,
+                "Z": 17.32
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 3.10545778,
+                    "Y": -2.92,
+                    "Z": 1.54972022E-05
+                }
+            ],
+            "UseGlobalCostFactor": false,
+            "UpCostFactor": 0.5,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 11.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -24.9078827,
+                "Y": 9.129997,
+                "Z": -46.73
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -0.707100034,
+                "Z": 0.0,
+                "W": 0.7071135
+            },
+            "Scale": {
+                "X": 0.9999995,
+                "Y": 1.0,
+                "Z": 0.9999995
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": 0.0,
+                "Y": -5.21,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 1.2,
+                "Y": 5.0,
+                "Z": 3.34
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 5.44,
+                "Y": -8.19,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.6,
+                "Y": 5.0,
+                "Z": 2.22
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 3.38614774,
+                    "Y": -2.92,
+                    "Z": 1.82037766E-05
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "UpCostFactor": 1.0,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 11.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -26.0069618,
+                "Y": 9.08,
+                "Z": 12.8829279
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -0.707107663,
+                "Z": 0.0,
+                "W": -0.7071059
+            },
+            "Scale": {
+                "X": 0.9999999,
+                "Y": 1.0,
+                "Z": 0.9999999
+            }
+        },
+        "Type": 2,
+        "Direction": 1,
+        "PortalOne": {
+            "Center": {
+                "X": -2.14,
+                "Y": -2.4,
+                "Z": -9.53
+            },
+            "Size": {
+                "X": 3.00000048,
+                "Y": 5.0,
+                "Z": 3.00000048
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": -2.14,
+                "Y": -2.07,
+                "Z": 9.72
+            },
+            "Size": {
+                "X": 3.00000048,
+                "Y": 5.0,
+                "Z": 3.00000048
+            }
+        },
+        "ExclusiveTo": 257,
+        "Action": {
+            "$type": "PortalActionWallRun",
+            "Wall": {
+                "X": 3.03,
+                "Y": 0.0,
+                "Z": -2.94
+            },
+            "Path": [
+                {
+                    "X": -1.339969,
+                    "Y": -0.1779356,
+                    "Z": -5.02955961
+                },
+                {
+                    "X": -1.3594619,
+                    "Y": 2.112856,
+                    "Z": -0.33793202
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "CostFactor": 0.5
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 24.1320953,
+                "Y": 9.129997,
+                "Z": -46.7500076
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -0.707100034,
+                "Z": 0.0,
+                "W": 0.7071135
+            },
+            "Scale": {
+                "X": 0.999999344,
+                "Y": 1.0,
+                "Z": 0.999999344
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": 0.0,
+                "Y": -5.21,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 1.2,
+                "Y": 5.0,
+                "Z": 3.34
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 5.44,
+                "Y": -8.19,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.6,
+                "Y": 5.0,
+                "Z": 2.22
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 3.38743019,
+                    "Y": -2.92,
+                    "Z": 3.348679E-05
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "UpCostFactor": 1.0,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 11.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -13.9937372,
+                "Y": 6.75,
+                "Z": 21.8937473
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.7070961,
+                "Z": 0.0,
+                "W": -0.707117438
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": 0.0,
+                "Y": -0.36,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 1.2,
+                "Y": 5.0,
+                "Z": 4.62
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 5.44,
+                "Y": -5.77,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.6,
+                "Y": 5.0,
+                "Z": 11.04
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 3.30880857,
+                    "Y": -0.5,
+                    "Z": 1.54757545E-05
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "UpCostFactor": 1.0,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 8.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -35.5269737,
+                "Y": 8.76,
+                "Z": -22.0670643
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -0.3826823,
+                "Z": 0.0,
+                "W": 0.92388
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": -1.69,
+                "Y": -7.98,
+                "Z": 1.01
+            },
+            "Size": {
+                "X": 3.00000048,
+                "Y": 5.0,
+                "Z": 2.1
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": -0.42,
+                "Y": -2.07,
+                "Z": 14.93
+            },
+            "Size": {
+                "X": 3.00000048,
+                "Y": 5.0,
+                "Z": 3.00000048
+            }
+        },
+        "ExclusiveTo": 257,
+        "Action": {
+            "$type": "PortalActionWallRun",
+            "Wall": {
+                "X": 6.17,
+                "Y": 0.0,
+                "Z": 11.21
+            },
+            "Path": [
+                {
+                    "X": 0.976994157,
+                    "Y": -0.5933018,
+                    "Z": 8.589114
+                },
+                {
+                    "X": 1.00813377,
+                    "Y": -0.5933018,
+                    "Z": 13.1519556
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "CostFactor": 0.5
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 39.3762741,
+                "Y": 9.129997,
+                "Z": 14.8937473
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -1.56760216E-05,
+                "Z": 0.0,
+                "W": -1.0
+            },
+            "Scale": {
+                "X": 0.9999999,
+                "Y": 1.0,
+                "Z": 0.9999999
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": 0.0,
+                "Y": -2.67,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 1.2,
+                "Y": 5.0,
+                "Z": 5.0
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 5.44,
+                "Y": -8.19,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.6,
+                "Y": 5.0,
+                "Z": 10.46
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 3.28635073,
+                    "Y": -2.92,
+                    "Z": 1.04904175E-05
+                }
+            ],
+            "UseGlobalCostFactor": false,
+            "UpCostFactor": 0.5,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 8.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -15.2437305,
+                "Y": 10.039999,
+                "Z": -2.88624334
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -0.965646446,
+                "Z": 0.0,
+                "W": -0.259859741
+            },
+            "Scale": {
+                "X": 1.00000024,
+                "Y": 1.0,
+                "Z": 1.00000024
+            }
+        },
+        "Type": 0,
+        "Direction": 1,
+        "PortalOne": {
+            "Center": {
+                "X": -0.21,
+                "Y": 7.99,
+                "Z": 30.9
+            },
+            "Size": {
+                "X": 1.24,
+                "Y": 14.56,
+                "Z": 4.46
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 0.0,
+                "Y": 1.78,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 1.86,
+                "Y": 8.14,
+                "Z": 6.8
+            }
+        },
+        "ExclusiveTo": 257,
+        "Action": {
+            "$type": "PortalActionZipline",
+            "Path": [],
+            "ShortcutAreaA": {
+                "Position": {
+                    "X": -36.1,
+                    "Y": 0.43,
+                    "Z": 4.9
+                },
+                "Radius": 24.4
+            },
+            "ShortcutAreaB": {
+                "Position": {
+                    "X": 19.6,
+                    "Y": 0.43,
+                    "Z": -42.8
+                },
+                "Radius": 31.5
+            },
+            "UseGlobalCostFactor": true,
+            "CostFactor": 1.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 25.413,
+                "Y": 9.08,
+                "Z": 17.6630917
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -0.7071059,
+                "Z": 0.0,
+                "W": 0.707107663
+            },
+            "Scale": {
+                "X": 0.999999464,
+                "Y": 1.0,
+                "Z": 0.999999464
+            }
+        },
+        "Type": 2,
+        "Direction": 1,
+        "PortalOne": {
+            "Center": {
+                "X": -2.14,
+                "Y": -2.4,
+                "Z": -9.53
+            },
+            "Size": {
+                "X": 3.00000048,
+                "Y": 5.0,
+                "Z": 3.00000048
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": -0.58,
+                "Y": -2.07,
+                "Z": 9.72
+            },
+            "Size": {
+                "X": 3.00000048,
+                "Y": 5.0,
+                "Z": 3.00000048
+            }
+        },
+        "ExclusiveTo": 257,
+        "Action": {
+            "$type": "PortalActionWallRun",
+            "Wall": {
+                "X": -5.54,
+                "Y": 0.0,
+                "Z": -3.24
+            },
+            "Path": [
+                {
+                    "X": -3.39649749,
+                    "Y": -0.1779356,
+                    "Z": -5.02946
+                },
+                {
+                    "X": -3.41121817,
+                    "Y": 2.112856,
+                    "Z": -0.3378539
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "CostFactor": 0.5
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -10.8037376,
+                "Y": 8.95,
+                "Z": 2.163746
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 8.076429E-06,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 0.999999762,
+                "Y": 1.0,
+                "Z": 0.999999762
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": -3.28,
+                "Y": 0.39,
+                "Z": -2.51
+            },
+            "Size": {
+                "X": 1.2,
+                "Y": 5.0,
+                "Z": 3.18
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 5.96,
+                "Y": -8.46,
+                "Z": -2.76
+            },
+            "Size": {
+                "X": 3.6,
+                "Y": 5.0,
+                "Z": 3.46
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 3.64418554,
+                    "Y": -1.5999999,
+                    "Z": -2.69734073
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "UpCostFactor": 1.0,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 9.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 12.3762589,
+                "Y": 12.14,
+                "Z": 3.31375122
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -0.707100034,
+                "Z": 0.0,
+                "W": 0.7071135
+            },
+            "Scale": {
+                "X": 1.00000024,
+                "Y": 1.0,
+                "Z": 1.00000024
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": -1.69,
+                "Y": -2.67,
+                "Z": -2.51
+            },
+            "Size": {
+                "X": 1.2,
+                "Y": 5.0,
+                "Z": 3.18
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 5.96,
+                "Y": -6.22,
+                "Z": -2.76
+            },
+            "Size": {
+                "X": 3.6,
+                "Y": 5.0,
+                "Z": 3.46
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 3.664747,
+                    "Y": -3.2005682,
+                    "Z": -2.684973
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "UpCostFactor": 1.0,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 9.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 14.4156437,
+                "Y": 5.92,
+                "Z": 21.954258
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -0.7070932,
+                "Z": 0.0,
+                "W": 0.707120359
+            },
+            "Scale": {
+                "X": 0.999999464,
+                "Y": 1.0,
+                "Z": 0.999999464
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": 0.0,
+                "Y": 0.32,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 1.2,
+                "Y": 5.0,
+                "Z": 3.04
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 5.44,
+                "Y": -5.63,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.6,
+                "Y": 5.0,
+                "Z": 4.88
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 3.29618144,
+                    "Y": 0.8299999,
+                    "Z": 2.236568E-05
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "UpCostFactor": 1.0,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 8.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 57.07626,
+                "Y": 5.22,
+                "Z": 35.66376
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -1.0,
+                "Z": 0.0,
+                "W": 2.83122063E-06
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": 3.85,
+                "Y": 6.97,
+                "Z": -2.32
+            },
+            "Size": {
+                "X": 3.00000048,
+                "Y": 5.0,
+                "Z": 3.00000048
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": -0.42,
+                "Y": -2.07,
+                "Z": 14.65
+            },
+            "Size": {
+                "X": 3.00000048,
+                "Y": 5.0,
+                "Z": 3.00000048
+            }
+        },
+        "ExclusiveTo": 257,
+        "Action": {
+            "$type": "PortalActionWallRun",
+            "Wall": {
+                "X": -7.62,
+                "Y": 0.0,
+                "Z": 5.08
+            },
+            "Path": [
+                {
+                    "X": -3.3617835,
+                    "Y": 5.39945364,
+                    "Z": 1.4952085
+                },
+                {
+                    "X": -3.39854,
+                    "Y": 3.080915,
+                    "Z": 9.168583
+                }
+            ],
+            "UseGlobalCostFactor": false,
+            "CostFactor": 0.25
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -32.1537476,
+                "Y": 6.18,
+                "Z": 3.473775
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.9966783,
+                "Z": 0.0,
+                "W": 0.08143963
+            },
+            "Scale": {
+                "X": 0.9999998,
+                "Y": 1.0,
+                "Z": 0.9999998
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": -4.65,
+                "Y": 5.78,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 1.2,
+                "Y": 5.0,
+                "Z": 5.0
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 3.15,
+                "Y": 0.81,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 2.22,
+                "Y": 5.0,
+                "Z": 4.26
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": -0.114342712,
+                    "Y": 6.24000025,
+                    "Z": -1.51097811E-05
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "UpCostFactor": 1.0,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 12.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -25.873745,
+                "Y": 6.18,
+                "Z": -2.37622952
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -0.707116544,
+                "Z": 0.0,
+                "W": -0.707097
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "Type": 2,
+        "Direction": 1,
+        "PortalOne": {
+            "Center": {
+                "X": -4.65,
+                "Y": 6.28,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 1.2,
+                "Y": 5.0,
+                "Z": 5.0
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 8.49,
+                "Y": -4.71,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 2.22,
+                "Y": 5.0,
+                "Z": 4.26
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 0.2281751,
+                    "Y": 6.57,
+                    "Z": -1.66184418E-05
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "UpCostFactor": 1.0,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 12.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -17.8537254,
+                "Y": 9.129997,
+                "Z": -34.1562424
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -1.0,
+                "Z": 0.0,
+                "W": 1.08480453E-05
+            },
+            "Scale": {
+                "X": 0.9999998,
+                "Y": 1.0,
+                "Z": 0.9999998
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": 0.2,
+                "Y": -2.67,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.0,
+                "Y": 5.0,
+                "Z": 15.18
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 5.44,
+                "Y": -8.19,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.6,
+                "Y": 5.0,
+                "Z": 19.92
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 3.41762948,
+                    "Y": -2.92,
+                    "Z": -1.78813953E-05
+                }
+            ],
+            "UseGlobalCostFactor": false,
+            "UpCostFactor": 0.5,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 11.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -12.8770132,
+                "Y": 9.1,
+                "Z": 22.30287
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.3002625,
+                "Z": 0.0,
+                "W": 0.9538566
+            },
+            "Scale": {
+                "X": 0.999999762,
+                "Y": 1.0,
+                "Z": 0.999999762
+            }
+        },
+        "Type": 2,
+        "Direction": 1,
+        "PortalOne": {
+            "Center": {
+                "X": -0.37,
+                "Y": -2.77,
+                "Z": -5.64
+            },
+            "Size": {
+                "X": 3.00000048,
+                "Y": 5.0,
+                "Z": 3.00000048
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": -2.0,
+                "Y": 0.65,
+                "Z": 18.33
+            },
+            "Size": {
+                "X": 3.00000048,
+                "Y": 13.78,
+                "Z": 3.00000048
+            }
+        },
+        "ExclusiveTo": 257,
+        "Action": {
+            "$type": "PortalActionWallRun",
+            "Wall": {
+                "X": 2.69,
+                "Y": 0.0,
+                "Z": -1.36
+            },
+            "Path": [
+                {
+                    "X": 0.07563484,
+                    "Y": -0.07523441,
+                    "Z": -3.0673182
+                },
+                {
+                    "X": -0.214450628,
+                    "Y": 2.54408646,
+                    "Z": 0.197107255
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "CostFactor": 0.5
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -26.2237377,
+                "Y": 9.129997,
+                "Z": -16.1362476
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -0.7071157,
+                "Z": 0.0,
+                "W": -0.7070978
+            },
+            "Scale": {
+                "X": 0.9999997,
+                "Y": 1.0,
+                "Z": 0.9999997
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": -3.02,
+                "Y": -5.55,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 1.2,
+                "Y": 5.0,
+                "Z": 3.52
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 5.44,
+                "Y": -8.19,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.6,
+                "Y": 5.0,
+                "Z": 12.2
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 3.2542274,
+                    "Y": -5.29,
+                    "Z": -1.75220084E-05
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "UpCostFactor": 1.0,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 10.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -40.9437447,
+                "Y": 9.129997,
+                "Z": 2.333757
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -1.0,
+                "Z": 0.0,
+                "W": 1.27255917E-05
+            },
+            "Scale": {
+                "X": 0.9999999,
+                "Y": 1.0,
+                "Z": 0.9999999
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": 0.0,
+                "Y": -5.93,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 1.2,
+                "Y": 5.0,
+                "Z": 5.0
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 5.44,
+                "Y": -8.19,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.6,
+                "Y": 5.0,
+                "Z": 6.94
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 3.32848334,
+                    "Y": -2.92,
+                    "Z": -7.390976E-06
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "UpCostFactor": 1.0,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 8.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 18.3995743,
+                "Y": 15.37,
+                "Z": -34.4485435
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -0.0557175837,
+                "Z": 0.0,
+                "W": -0.9984466
+            },
+            "Scale": {
+                "X": 1.00000012,
+                "Y": 1.0,
+                "Z": 1.00000012
+            }
+        },
+        "Type": 2,
+        "Direction": 1,
+        "PortalOne": {
+            "Center": {
+                "X": -4.89,
+                "Y": -2.85,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 1.2,
+                "Y": 5.0,
+                "Z": 5.0
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 5.44,
+                "Y": -15.3,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.6,
+                "Y": 5.0,
+                "Z": 6.0
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 1.45318556,
+                    "Y": -5.21,
+                    "Z": 1.347065E-05
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "UpCostFactor": 1.0,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 14.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 30.58305,
+                "Y": 2.7,
+                "Z": 6.91312647
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.7071057,
+                "Z": 0.0,
+                "W": 0.707107842
+            },
+            "Scale": {
+                "X": 0.9999997,
+                "Y": 1.0,
+                "Z": 0.9999997
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": 1.6,
+                "Y": 3.54,
+                "Z": 3.36
+            },
+            "Size": {
+                "X": 3.00000048,
+                "Y": 5.0,
+                "Z": 3.00000048
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": -0.42,
+                "Y": -2.07,
+                "Z": 14.37
+            },
+            "Size": {
+                "X": 3.00000048,
+                "Y": 5.0,
+                "Z": 3.00000048
+            }
+        },
+        "ExclusiveTo": 257,
+        "Action": {
+            "$type": "PortalActionWallRun",
+            "Wall": {
+                "X": -7.84,
+                "Y": 0.0,
+                "Z": 7.52
+            },
+            "Path": [
+                {
+                    "X": -4.93723059,
+                    "Y": 2.497402,
+                    "Z": 5.02405357
+                },
+                {
+                    "X": -4.768987,
+                    "Y": 2.497802,
+                    "Z": 9.843223
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "CostFactor": 0.5
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 10.6962805,
+                "Y": 8.95,
+                "Z": -3.38624144
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -1.0,
+                "Z": 0.0,
+                "W": 1.07884407E-05
+            },
+            "Scale": {
+                "X": 0.9999999,
+                "Y": 1.0,
+                "Z": 0.9999999
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": -3.28,
+                "Y": 0.39,
+                "Z": -2.51
+            },
+            "Size": {
+                "X": 1.2,
+                "Y": 5.0,
+                "Z": 3.18
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 5.96,
+                "Y": -8.46,
+                "Z": -2.76
+            },
+            "Size": {
+                "X": 3.6,
+                "Y": 5.0,
+                "Z": 3.46
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 3.64763021,
+                    "Y": -1.5999999,
+                    "Z": -2.69744635
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "UpCostFactor": 1.0,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 9.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -39.92374,
+                "Y": 9.129997,
+                "Z": 21.9937515
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.7070978,
+                "Z": 0.0,
+                "W": -0.7071157
+            },
+            "Scale": {
+                "X": 0.9999999,
+                "Y": 1.0,
+                "Z": 0.9999999
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": 0.0,
+                "Y": -2.9,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 2.0,
+                "Y": 5.0,
+                "Z": 5.0
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 5.44,
+                "Y": -8.19,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.6,
+                "Y": 5.0,
+                "Z": 10.46
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 3.339612,
+                    "Y": -2.48,
+                    "Z": 1.89528946E-05
+                }
+            ],
+            "UseGlobalCostFactor": false,
+            "UpCostFactor": 0.5,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 8.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -19.0637455,
+                "Y": 14.65,
+                "Z": -3.06624937
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -1.0,
+                "Z": 0.0,
+                "W": 1.13844872E-05
+            },
+            "Scale": {
+                "X": 0.9999995,
+                "Y": 1.0,
+                "Z": 0.9999995
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": -0.84,
+                "Y": -5.55,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 1.2,
+                "Y": 5.0,
+                "Z": 3.52
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 5.44,
+                "Y": -8.19,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 1.58,
+                "Y": 5.0,
+                "Z": 3.94
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 2.40463424,
+                    "Y": -5.29,
+                    "Z": -1.38282858E-05
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "UpCostFactor": 1.0,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 8.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 41.33627,
+                "Y": 9.129997,
+                "Z": 2.3337636
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -1.56760216E-05,
+                "Z": 0.0,
+                "W": -1.0
+            },
+            "Scale": {
+                "X": 0.9999999,
+                "Y": 1.0,
+                "Z": 0.9999999
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": 0.0,
+                "Y": -5.55,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 1.2,
+                "Y": 5.0,
+                "Z": 5.0
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 5.44,
+                "Y": -8.19,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.6,
+                "Y": 5.0,
+                "Z": 6.94
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 3.30167437,
+                    "Y": -4.75,
+                    "Z": 1.09672546E-05
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "UpCostFactor": 1.0,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 8.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 28.93627,
+                "Y": 6.18,
+                "Z": -2.36625147
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -0.227686018,
+                "Z": 0.0,
+                "W": 0.973734558
+            },
+            "Scale": {
+                "X": 0.999999642,
+                "Y": 1.0,
+                "Z": 0.999999642
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": -1.14,
+                "Y": 0.0,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 1.2,
+                "Y": 5.0,
+                "Z": 2.56
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 5.44,
+                "Y": 0.0,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 2.22,
+                "Y": 5.0,
+                "Z": 1.88
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 1.34028625,
+                    "Y": 1.25999975,
+                    "Z": 4.887581E-06
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "UpCostFactor": 1.0,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 8.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -10.8037434,
+                "Y": 8.95,
+                "Z": 12.923748
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 8.076429E-06,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 0.999999642,
+                "Y": 1.0,
+                "Z": 0.999999642
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": -1.69,
+                "Y": -2.67,
+                "Z": -2.51
+            },
+            "Size": {
+                "X": 1.2,
+                "Y": 5.0,
+                "Z": 3.18
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 5.96,
+                "Y": -8.46,
+                "Z": -2.76
+            },
+            "Size": {
+                "X": 3.6,
+                "Y": 5.0,
+                "Z": 3.46
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 3.653555,
+                    "Y": -3.2005682,
+                    "Z": -2.684619
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "UpCostFactor": 1.0,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 9.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -39.223732,
+                "Y": 9.129997,
+                "Z": 14.8937559
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -1.0,
+                "Z": 0.0,
+                "W": 1.27255917E-05
+            },
+            "Scale": {
+                "X": 0.9999999,
+                "Y": 1.0,
+                "Z": 0.9999999
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": 0.0,
+                "Y": -2.67,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 1.2,
+                "Y": 5.0,
+                "Z": 5.0
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 8.04,
+                "Y": -8.19,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.6,
+                "Y": 5.0,
+                "Z": 10.46
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 3.20743537,
+                    "Y": -2.92,
+                    "Z": -1.43051147E-05
+                }
+            ],
+            "UseGlobalCostFactor": false,
+            "UpCostFactor": 0.5,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 8.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 17.7162552,
+                "Y": 6.18,
+                "Z": 8.753766
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -1.0,
+                "Z": 0.0,
+                "W": 1.168251E-05
+            },
+            "Scale": {
+                "X": 0.9999998,
+                "Y": 1.0,
+                "Z": 0.9999998
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": -4.65,
+                "Y": 6.17,
+                "Z": 2.7
+            },
+            "Size": {
+                "X": 1.2,
+                "Y": 5.0,
+                "Z": 5.0
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 2.91,
+                "Y": 0.25,
+                "Z": -2.02
+            },
+            "Size": {
+                "X": 2.22,
+                "Y": 5.0,
+                "Z": 5.06
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 0.4597244,
+                    "Y": 5.45999956,
+                    "Z": -0.490199178
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "UpCostFactor": 1.0,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 12.0
+        }
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 37.5021057,
+                "Y": 9.129997,
+                "Z": -43.5500031
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -0.707100034,
+                "Z": 0.0,
+                "W": 0.7071135
+            },
+            "Scale": {
+                "X": 0.9999997,
+                "Y": 1.0,
+                "Z": 0.9999997
+            }
+        },
+        "Type": 2,
+        "Direction": 0,
+        "PortalOne": {
+            "Center": {
+                "X": 0.0,
+                "Y": -5.21,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 1.2,
+                "Y": 5.0,
+                "Z": 3.34
+            }
+        },
+        "PortalTwo": {
+            "Center": {
+                "X": 5.44,
+                "Y": -8.19,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.6,
+                "Y": 5.0,
+                "Z": 2.22
+            }
+        },
+        "ExclusiveTo": 389,
+        "Action": {
+            "$type": "PortalActionJump",
+            "Path": [
+                {
+                    "X": 3.38352275,
+                    "Y": -2.92,
+                    "Z": 3.34129727E-05
+                }
+            ],
+            "UseGlobalCostFactor": true,
+            "UpCostFactor": 1.0,
+            "DownCostFactor": 0.5,
+            "MaxHorizontalDistance": 11.0
+        }
+    }
+]

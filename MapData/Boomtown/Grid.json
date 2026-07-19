@@ -1,0 +1,16 @@
+{
+    "Origin": {
+        "X": -0.96,
+        "Y": 0,
+        "Z": 9
+    },
+    "SizeX": 92,
+    "SizeZ": 87,
+    "CellSize": 1.5,
+    "ObstacleSensitivityRange": 0.5,
+    "UpperBoundary": 50.0,
+    "LowerBoundary": 50.0,
+    "SubSectionsX": 2,
+    "SubSectionsZ": 2,
+    "SubSectionsCellOverlap": 2
+}
