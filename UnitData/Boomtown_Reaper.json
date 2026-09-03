@@ -1,0 +1,22 @@
+{
+    "$type": "Troop",
+    "Name": "Boomtown_Reaper",
+    "Transform": {
+        "Position": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0
+        },
+        "Scale": {
+            "X": 0.75,
+            "Y": 0.75,
+            "Z": 0.75
+        }
+    }
+}

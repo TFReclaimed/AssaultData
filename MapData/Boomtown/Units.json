@@ -1,0 +1,288 @@
+[
+    {
+        "$type": "UnitSpawner",
+        "TeamColor": 1,
+        "UnitDataId": "GruntSpawner",
+        "UnitToSpawn": "Boomtown_Reaper_Melee",
+        "SecsBetweenSpawns": 9999.0,
+        "SecsForFirstSpawn": 122.0,
+        "UnitsPerSpawn": 1,
+        "DeployRadius": 1.5,
+        "ForcePosition": true,
+        "Name": "Blue Reaper Spawn 2",
+        "Transform": {
+            "Position": {
+                "X": -11.9710636,
+                "Y": 18.3300018,
+                "Z": -34.318264
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 4.172325E-07,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 2.0,
+                "Y": 2.0,
+                "Z": 2.0
+            }
+        }
+    },
+    {
+        "$type": "HardPoint",
+        "Name": "Objective3",
+        "Transform": {
+            "Position": {
+                "X": 36.79413,
+                "Y": 0.4300022,
+                "Z": -28.8380585
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.9238798,
+                "Z": 0.0,
+                "W": -0.382683039
+            },
+            "Scale": {
+                "X": 1.00000048,
+                "Y": 1.0,
+                "Z": 1.00000048
+            }
+        }
+    },
+    {
+        "$type": "HardPoint",
+        "Name": "Objective1",
+        "Transform": {
+            "Position": {
+                "X": -0.05586085,
+                "Y": 6.06999969,
+                "Z": 53.90194
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.9238798,
+                "Z": 0.0,
+                "W": -0.382683039
+            },
+            "Scale": {
+                "X": 1.00000048,
+                "Y": 1.0,
+                "Z": 1.00000048
+            }
+        }
+    },
+    {
+        "$type": "UnitSpawner",
+        "TeamColor": 1,
+        "UnitDataId": "GruntSpawner",
+        "UnitToSpawn": "Boomtown_Reaper_Melee",
+        "SecsBetweenSpawns": 9999.0,
+        "SecsForFirstSpawn": 62.0,
+        "UnitsPerSpawn": 1,
+        "DeployRadius": 1.5,
+        "ForcePosition": true,
+        "Name": "Blue Reaper Spawn",
+        "Transform": {
+            "Position": {
+                "X": -24.5709438,
+                "Y": 18.33,
+                "Z": 6.18143034
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 2.38418579E-07,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.99999976,
+                "Y": 2.0,
+                "Z": 1.99999976
+            }
+        }
+    },
+    {
+        "$type": "Turret",
+        "TeamColor": 0,
+        "UnitDataId": "TurretMedium",
+        "PrimaryTurret": false,
+        "Name": "TurretMedium_Red (1)",
+        "Transform": {
+            "Position": {
+                "X": 40.20629,
+                "Y": 0.09,
+                "Z": 33.5937462
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.7071068,
+                "Z": 0.0,
+                "W": 0.7071067
+            },
+            "Scale": {
+                "X": 1.49999976,
+                "Y": 1.5,
+                "Z": 1.49999976
+            }
+        }
+    },
+    {
+        "$type": "Turret",
+        "TeamColor": 1,
+        "UnitDataId": "TurretHeavy",
+        "PrimaryTurret": true,
+        "Name": "TurretBlue",
+        "Transform": {
+            "Position": {
+                "X": -59.9937057,
+                "Y": 0.09,
+                "Z": 3.49376059
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.7071068,
+                "Z": 0.0,
+                "W": 0.7071067
+            },
+            "Scale": {
+                "X": 3.49999952,
+                "Y": 3.5,
+                "Z": 3.49999952
+            }
+        }
+    },
+    {
+        "$type": "Turret",
+        "TeamColor": 0,
+        "UnitDataId": "TurretHeavy",
+        "PrimaryTurret": true,
+        "Name": "TurretRed",
+        "Transform": {
+            "Position": {
+                "X": 60.7062874,
+                "Y": 0.09,
+                "Z": 3.4937458
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.7071068,
+                "Z": 0.0,
+                "W": 0.7071067
+            },
+            "Scale": {
+                "X": 3.49999952,
+                "Y": 3.5,
+                "Z": 3.49999952
+            }
+        }
+    },
+    {
+        "$type": "Turret",
+        "TeamColor": 1,
+        "UnitDataId": "TurretMedium",
+        "PrimaryTurret": false,
+        "Name": "TurretMedium_Blue (1)",
+        "Transform": {
+            "Position": {
+                "X": -39.9137039,
+                "Y": 0.09,
+                "Z": 33.49376
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.7071068,
+                "Z": 0.0,
+                "W": 0.7071067
+            },
+            "Scale": {
+                "X": 1.49999976,
+                "Y": 1.5,
+                "Z": 1.49999976
+            }
+        }
+    },
+    {
+        "$type": "UnitSpawner",
+        "TeamColor": 0,
+        "UnitDataId": "GruntSpawner",
+        "UnitToSpawn": "Boomtown_Reaper_Melee",
+        "SecsBetweenSpawns": 9999.0,
+        "SecsForFirstSpawn": 122.0,
+        "UnitsPerSpawn": 1,
+        "DeployRadius": 1.5,
+        "ForcePosition": true,
+        "Name": "Red Reaper Spawn 2",
+        "Transform": {
+            "Position": {
+                "X": 11.9889784,
+                "Y": 18.33,
+                "Z": -34.19837
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 4.172325E-07,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 2.0,
+                "Y": 2.0,
+                "Z": 2.0
+            }
+        }
+    },
+    {
+        "$type": "UnitSpawner",
+        "TeamColor": 0,
+        "UnitDataId": "GruntSpawner",
+        "UnitToSpawn": "Boomtown_Reaper_Melee",
+        "SecsBetweenSpawns": 9999.0,
+        "SecsForFirstSpawn": 62.0,
+        "UnitsPerSpawn": 1,
+        "DeployRadius": 1.5,
+        "ForcePosition": true,
+        "Name": "Red Reaper Spawn",
+        "Transform": {
+            "Position": {
+                "X": 24.9987335,
+                "Y": 18.33,
+                "Z": 5.941224
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 2.38418579E-07,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.99999976,
+                "Y": 2.0,
+                "Z": 1.99999976
+            }
+        }
+    },
+    {
+        "$type": "HardPoint",
+        "Name": "Objective2",
+        "Transform": {
+            "Position": {
+                "X": -35.585865,
+                "Y": 0.4300022,
+                "Z": -28.9380474
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.9238798,
+                "Z": 0.0,
+                "W": -0.382683039
+            },
+            "Scale": {
+                "X": 1.00000048,
+                "Y": 1.0,
+                "Z": 1.00000048
+            }
+        }
+    }
+]

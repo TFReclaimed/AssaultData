@@ -1,0 +1,218 @@
+[
+    {
+        "$type": "HardPoint",
+        "Name": "Objective3",
+        "Transform": {
+            "Position": {
+                "X": 28.8220024,
+                "Y": 3.02562714,
+                "Z": 26.25193
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.923879743,
+                "Z": 0.0,
+                "W": -0.382683069
+            },
+            "Scale": {
+                "X": 1.00000143,
+                "Y": 1.0,
+                "Z": 1.00000143
+            }
+        }
+    },
+    {
+        "$type": "HardPoint",
+        "Name": "Objective1",
+        "Transform": {
+            "Position": {
+                "X": -28.7779922,
+                "Y": 3.02562714,
+                "Z": 26.4519367
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.923879743,
+                "Z": 0.0,
+                "W": -0.382683069
+            },
+            "Scale": {
+                "X": 1.00000024,
+                "Y": 1.0,
+                "Z": 1.00000024
+            }
+        }
+    },
+    {
+        "$type": "Turret",
+        "TeamColor": 0,
+        "UnitDataId": "TurretMedium",
+        "PrimaryTurret": false,
+        "Name": "TurretMedium_Red (1)",
+        "Transform": {
+            "Position": {
+                "X": 47.2141457,
+                "Y": 3.0,
+                "Z": -49.64625
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.7071068,
+                "Z": 0.0,
+                "W": 0.7071067
+            },
+            "Scale": {
+                "X": 1.49999928,
+                "Y": 1.5,
+                "Z": 1.49999928
+            }
+        }
+    },
+    {
+        "$type": "Turret",
+        "TeamColor": 1,
+        "UnitDataId": "TurretMedium",
+        "PrimaryTurret": false,
+        "Name": "TurretMedium_Blue",
+        "Transform": {
+            "Position": {
+                "X": -48.0758438,
+                "Y": 3.0,
+                "Z": -49.6462364
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.7071068,
+                "Z": 0.0,
+                "W": 0.7071067
+            },
+            "Scale": {
+                "X": 1.49999976,
+                "Y": 1.5,
+                "Z": 1.49999976
+            }
+        }
+    },
+    {
+        "$type": "Turret",
+        "TeamColor": 0,
+        "UnitDataId": "TurretMedium",
+        "PrimaryTurret": false,
+        "Name": "TurretMedium_Red (2)",
+        "Transform": {
+            "Position": {
+                "X": 50.28415,
+                "Y": 3.0,
+                "Z": -41.9162521
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.7071068,
+                "Z": 0.0,
+                "W": 0.7071067
+            },
+            "Scale": {
+                "X": 1.49999928,
+                "Y": 1.5,
+                "Z": 1.49999928
+            }
+        }
+    },
+    {
+        "$type": "Turret",
+        "TeamColor": 1,
+        "UnitDataId": "TurretHeavy",
+        "PrimaryTurret": true,
+        "Name": "TurretBlue (2)",
+        "Transform": {
+            "Position": {
+                "X": -61.1758347,
+                "Y": 3.0,
+                "Z": 0.483757019
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.3826833,
+                "Z": 0.0,
+                "W": 0.9238795
+            },
+            "Scale": {
+                "X": 3.49999928,
+                "Y": 3.5,
+                "Z": 3.49999928
+            }
+        }
+    },
+    {
+        "$type": "Turret",
+        "TeamColor": 0,
+        "UnitDataId": "TurretHeavy",
+        "PrimaryTurret": true,
+        "Name": "TurretRed (2)",
+        "Transform": {
+            "Position": {
+                "X": 62.2741547,
+                "Y": 3.0,
+                "Z": -0.01625824
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -0.343884945,
+                "Z": 0.0,
+                "W": 0.9390118
+            },
+            "Scale": {
+                "X": 3.49999976,
+                "Y": 3.5,
+                "Z": 3.49999976
+            }
+        }
+    },
+    {
+        "$type": "Turret",
+        "TeamColor": 1,
+        "UnitDataId": "TurretMedium",
+        "PrimaryTurret": false,
+        "Name": "TurretMedium_Blue (1)",
+        "Transform": {
+            "Position": {
+                "X": -50.93584,
+                "Y": 3.0,
+                "Z": -41.91624
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.7071068,
+                "Z": 0.0,
+                "W": 0.7071067
+            },
+            "Scale": {
+                "X": 1.49999928,
+                "Y": 1.5,
+                "Z": 1.49999928
+            }
+        }
+    },
+    {
+        "$type": "HardPoint",
+        "Name": "Objective2",
+        "Transform": {
+            "Position": {
+                "X": 0.0420000553,
+                "Y": 3.02562714,
+                "Z": -35.84806
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.923879743,
+                "Z": 0.0,
+                "W": -0.382683069
+            },
+            "Scale": {
+                "X": 1.00000024,
+                "Y": 1.0,
+                "Z": 1.00000024
+            }
+        }
+    }
+]

@@ -1,0 +1,30 @@
+{
+    "$type": "UnitSpawner",
+    "TeamColor": 1,
+    "UnitDataId": "PLT_STR_AshFactory",
+    "UnitToSpawn": "BC_Reaper_Melee",
+    "SecsBetweenSpawns": 30.0,
+    "SecsForFirstSpawn": 30.0,
+    "UnitsPerSpawn": 1,
+    "DeployRadius": 3.5,
+    "ForcePosition": false,
+    "Name": "PLT_STR_AshFactory",
+    "Transform": {
+        "Position": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0
+        },
+        "Scale": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+        }
+    }
+}

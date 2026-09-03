@@ -1,0 +1,25 @@
+{
+    "$type": "Turret",
+    "TeamColor": 1,
+    "UnitDataId": "TurretLight",
+    "PrimaryTurret": false,
+    "Name": "Arc_TurretLightBlue",
+    "Transform": {
+        "Position": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Rotation": {
+            "X": 0.0,
+            "Y": 0.382683456,
+            "Z": 0.0,
+            "W": 0.9238795
+        },
+        "Scale": {
+            "X": 2.5,
+            "Y": 2.5,
+            "Z": 2.5
+        }
+    }
+}

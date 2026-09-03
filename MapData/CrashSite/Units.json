@@ -1,0 +1,168 @@
+[
+    {
+        "$type": "Turret",
+        "TeamColor": 1,
+        "UnitDataId": "TurretMedium",
+        "PrimaryTurret": false,
+        "Name": "TurretMedium_Blue",
+        "Transform": {
+            "Position": {
+                "X": -37.37583,
+                "Y": 2.923,
+                "Z": 23.11375
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.7071067,
+                "Z": 0.0,
+                "W": -0.7071068
+            },
+            "Scale": {
+                "X": 1.49999976,
+                "Y": 1.5,
+                "Z": 1.49999976
+            }
+        }
+    },
+    {
+        "$type": "Turret",
+        "TeamColor": 0,
+        "UnitDataId": "TurretMedium",
+        "PrimaryTurret": false,
+        "Name": "TurretMedium_Red",
+        "Transform": {
+            "Position": {
+                "X": 30.7741585,
+                "Y": 2.934,
+                "Z": -11.7662525
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.7071068,
+                "Z": 0.0,
+                "W": 0.7071067
+            },
+            "Scale": {
+                "X": 1.49999976,
+                "Y": 1.5,
+                "Z": 1.49999976
+            }
+        }
+    },
+    {
+        "$type": "HardPoint",
+        "Name": "Objective1",
+        "Transform": {
+            "Position": {
+                "X": -48.66799,
+                "Y": 3.02562714,
+                "Z": -25.9380569
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.923879743,
+                "Z": 0.0,
+                "W": -0.382683069
+            },
+            "Scale": {
+                "X": 1.00000024,
+                "Y": 1.0,
+                "Z": 1.00000024
+            }
+        }
+    },
+    {
+        "$type": "HardPoint",
+        "Name": "Objective2",
+        "Transform": {
+            "Position": {
+                "X": -3.267994,
+                "Y": 3.02562714,
+                "Z": 5.62193537
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.923879743,
+                "Z": 0.0,
+                "W": -0.382683069
+            },
+            "Scale": {
+                "X": 1.00000024,
+                "Y": 1.0,
+                "Z": 1.00000024
+            }
+        }
+    },
+    {
+        "$type": "Turret",
+        "TeamColor": 1,
+        "UnitDataId": "TurretHeavy",
+        "PrimaryTurret": true,
+        "Name": "TurretBlue (2)",
+        "Transform": {
+            "Position": {
+                "X": -70.66583,
+                "Y": 2.78,
+                "Z": 5.513756
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.3826833,
+                "Z": 0.0,
+                "W": 0.9238795
+            },
+            "Scale": {
+                "X": 3.49999928,
+                "Y": 3.5,
+                "Z": 3.49999928
+            }
+        }
+    },
+    {
+        "$type": "Turret",
+        "TeamColor": 0,
+        "UnitDataId": "TurretHeavy",
+        "PrimaryTurret": true,
+        "Name": "TurretRed (2)",
+        "Transform": {
+            "Position": {
+                "X": 64.29416,
+                "Y": 2.78,
+                "Z": 5.84374237
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -0.343884945,
+                "Z": 0.0,
+                "W": 0.9390118
+            },
+            "Scale": {
+                "X": 3.49999976,
+                "Y": 3.5,
+                "Z": 3.49999976
+            }
+        }
+    },
+    {
+        "$type": "HardPoint",
+        "Name": "Objective3",
+        "Transform": {
+            "Position": {
+                "X": 42.5320053,
+                "Y": 3.02562714,
+                "Z": 37.26193
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.923879743,
+                "Z": 0.0,
+                "W": -0.382683069
+            },
+            "Scale": {
+                "X": 1.00000024,
+                "Y": 1.0,
+                "Z": 1.00000024
+            }
+        }
+    }
+]

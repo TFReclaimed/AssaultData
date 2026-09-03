@@ -1,0 +1,30 @@
+{
+    "$type": "UnitSpawner",
+    "TeamColor": 1,
+    "UnitDataId": "GruntSpawner",
+    "UnitToSpawn": "GruntCarbine",
+    "SecsBetweenSpawns": 9.0,
+    "SecsForFirstSpawn": 0.0,
+    "UnitsPerSpawn": 3,
+    "DeployRadius": 1.5,
+    "ForcePosition": false,
+    "Name": "GruntSpawnerBlue_BC",
+    "Transform": {
+        "Position": {
+            "X": -22.6976223,
+            "Y": 0.5,
+            "Z": -49.6
+        },
+        "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0
+        },
+        "Scale": {
+            "X": 2.0,
+            "Y": 2.0,
+            "Z": 2.0
+        }
+    }
+}
