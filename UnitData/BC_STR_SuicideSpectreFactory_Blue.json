@@ -26,5 +26,6 @@
             "Y": 1.0,
             "Z": 1.0
         }
-    }
+    },
+    "BehaviorTree": null
 }

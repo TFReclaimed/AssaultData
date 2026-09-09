@@ -19,7 +19,8 @@
                 "Y": 1.0,
                 "Z": 1.00000143
             }
-        }
+        },
+        "BehaviorTree": null
     },
     {
         "$type": "HardPoint",
@@ -41,7 +42,8 @@
                 "Y": 1.0,
                 "Z": 1.00000024
             }
-        }
+        },
+        "BehaviorTree": null
     },
     {
         "$type": "Turret",
@@ -65,6 +67,73 @@
                 "X": 1.49999928,
                 "Y": 1.5,
                 "Z": 1.49999928
+            }
+        },
+        "BehaviorTree": {
+            "Name": "Behavior",
+            "EntryTask": {
+                "Children": [],
+                "NodeData": {
+                    "Offset": "(0,0)"
+                },
+                "ID": 0,
+                "Name": "Entry",
+                "Instant": true,
+                "Disabled": false
+            },
+            "RootTask": {
+                "Count": {
+                    "Value": 1
+                },
+                "RepeatForever": {
+                    "Value": true
+                },
+                "EndOnFailure": {
+                    "Value": false
+                },
+                "Children": [
+                    {
+                        "AbortType": "None",
+                        "Children": [
+                            {
+                                "NodeData": {
+                                    "Offset": "(0,120)"
+                                },
+                                "ID": 3,
+                                "Name": "Can See Enemy",
+                                "Instant": true,
+                                "Disabled": false,
+                                "ObjectType": "CanSeeEnemy"
+                            },
+                            {
+                                "NodeData": {
+                                    "Offset": "(130,120)"
+                                },
+                                "ID": 4,
+                                "Name": "Attack",
+                                "Instant": true,
+                                "Disabled": false,
+                                "ObjectType": "Attack"
+                            }
+                        ],
+                        "NodeData": {
+                            "Offset": "(0,120)"
+                        },
+                        "ID": 2,
+                        "Name": "Sequence",
+                        "Instant": true,
+                        "Disabled": false,
+                        "ObjectType": "BehaviorDesigner.Runtime.Tasks.Sequence"
+                    }
+                ],
+                "NodeData": {
+                    "Offset": "(4,120)"
+                },
+                "ID": 1,
+                "Name": "Repeater",
+                "Instant": true,
+                "Disabled": false,
+                "ObjectType": "BehaviorDesigner.Runtime.Tasks.Repeater"
             }
         }
     },
@@ -91,6 +160,73 @@
                 "Y": 1.5,
                 "Z": 1.49999976
             }
+        },
+        "BehaviorTree": {
+            "Name": "Behavior",
+            "EntryTask": {
+                "Children": [],
+                "NodeData": {
+                    "Offset": "(0,0)"
+                },
+                "ID": 0,
+                "Name": "Entry",
+                "Instant": true,
+                "Disabled": false
+            },
+            "RootTask": {
+                "Count": {
+                    "Value": 1
+                },
+                "RepeatForever": {
+                    "Value": true
+                },
+                "EndOnFailure": {
+                    "Value": false
+                },
+                "Children": [
+                    {
+                        "AbortType": "None",
+                        "Children": [
+                            {
+                                "NodeData": {
+                                    "Offset": "(0,120)"
+                                },
+                                "ID": 3,
+                                "Name": "Can See Enemy",
+                                "Instant": true,
+                                "Disabled": false,
+                                "ObjectType": "CanSeeEnemy"
+                            },
+                            {
+                                "NodeData": {
+                                    "Offset": "(130,120)"
+                                },
+                                "ID": 4,
+                                "Name": "Attack",
+                                "Instant": true,
+                                "Disabled": false,
+                                "ObjectType": "Attack"
+                            }
+                        ],
+                        "NodeData": {
+                            "Offset": "(0,120)"
+                        },
+                        "ID": 2,
+                        "Name": "Sequence",
+                        "Instant": true,
+                        "Disabled": false,
+                        "ObjectType": "BehaviorDesigner.Runtime.Tasks.Sequence"
+                    }
+                ],
+                "NodeData": {
+                    "Offset": "(4,120)"
+                },
+                "ID": 1,
+                "Name": "Repeater",
+                "Instant": true,
+                "Disabled": false,
+                "ObjectType": "BehaviorDesigner.Runtime.Tasks.Repeater"
+            }
         }
     },
     {
@@ -115,6 +251,73 @@
                 "X": 1.49999928,
                 "Y": 1.5,
                 "Z": 1.49999928
+            }
+        },
+        "BehaviorTree": {
+            "Name": "Behavior",
+            "EntryTask": {
+                "Children": [],
+                "NodeData": {
+                    "Offset": "(0,0)"
+                },
+                "ID": 0,
+                "Name": "Entry",
+                "Instant": true,
+                "Disabled": false
+            },
+            "RootTask": {
+                "Count": {
+                    "Value": 1
+                },
+                "RepeatForever": {
+                    "Value": true
+                },
+                "EndOnFailure": {
+                    "Value": false
+                },
+                "Children": [
+                    {
+                        "AbortType": "None",
+                        "Children": [
+                            {
+                                "NodeData": {
+                                    "Offset": "(0,120)"
+                                },
+                                "ID": 3,
+                                "Name": "Can See Enemy",
+                                "Instant": true,
+                                "Disabled": false,
+                                "ObjectType": "CanSeeEnemy"
+                            },
+                            {
+                                "NodeData": {
+                                    "Offset": "(130,120)"
+                                },
+                                "ID": 4,
+                                "Name": "Attack",
+                                "Instant": true,
+                                "Disabled": false,
+                                "ObjectType": "Attack"
+                            }
+                        ],
+                        "NodeData": {
+                            "Offset": "(0,120)"
+                        },
+                        "ID": 2,
+                        "Name": "Sequence",
+                        "Instant": true,
+                        "Disabled": false,
+                        "ObjectType": "BehaviorDesigner.Runtime.Tasks.Sequence"
+                    }
+                ],
+                "NodeData": {
+                    "Offset": "(4,120)"
+                },
+                "ID": 1,
+                "Name": "Repeater",
+                "Instant": true,
+                "Disabled": false,
+                "ObjectType": "BehaviorDesigner.Runtime.Tasks.Repeater"
             }
         }
     },
@@ -141,6 +344,73 @@
                 "Y": 3.5,
                 "Z": 3.49999928
             }
+        },
+        "BehaviorTree": {
+            "Name": "Behavior",
+            "EntryTask": {
+                "Children": [],
+                "NodeData": {
+                    "Offset": "(0,0)"
+                },
+                "ID": 0,
+                "Name": "Entry",
+                "Instant": true,
+                "Disabled": false
+            },
+            "RootTask": {
+                "Count": {
+                    "Value": 1
+                },
+                "RepeatForever": {
+                    "Value": true
+                },
+                "EndOnFailure": {
+                    "Value": false
+                },
+                "Children": [
+                    {
+                        "AbortType": "None",
+                        "Children": [
+                            {
+                                "NodeData": {
+                                    "Offset": "(0,120)"
+                                },
+                                "ID": 3,
+                                "Name": "Can See Enemy",
+                                "Instant": true,
+                                "Disabled": false,
+                                "ObjectType": "CanSeeEnemy"
+                            },
+                            {
+                                "NodeData": {
+                                    "Offset": "(130,120)"
+                                },
+                                "ID": 4,
+                                "Name": "Attack",
+                                "Instant": true,
+                                "Disabled": false,
+                                "ObjectType": "Attack"
+                            }
+                        ],
+                        "NodeData": {
+                            "Offset": "(0,120)"
+                        },
+                        "ID": 2,
+                        "Name": "Sequence",
+                        "Instant": true,
+                        "Disabled": false,
+                        "ObjectType": "BehaviorDesigner.Runtime.Tasks.Sequence"
+                    }
+                ],
+                "NodeData": {
+                    "Offset": "(4,120)"
+                },
+                "ID": 1,
+                "Name": "Repeater",
+                "Instant": true,
+                "Disabled": false,
+                "ObjectType": "BehaviorDesigner.Runtime.Tasks.Repeater"
+            }
         }
     },
     {
@@ -165,6 +435,73 @@
                 "X": 3.49999976,
                 "Y": 3.5,
                 "Z": 3.49999976
+            }
+        },
+        "BehaviorTree": {
+            "Name": "Behavior",
+            "EntryTask": {
+                "Children": [],
+                "NodeData": {
+                    "Offset": "(0,0)"
+                },
+                "ID": 0,
+                "Name": "Entry",
+                "Instant": true,
+                "Disabled": false
+            },
+            "RootTask": {
+                "Count": {
+                    "Value": 1
+                },
+                "RepeatForever": {
+                    "Value": true
+                },
+                "EndOnFailure": {
+                    "Value": false
+                },
+                "Children": [
+                    {
+                        "AbortType": "None",
+                        "Children": [
+                            {
+                                "NodeData": {
+                                    "Offset": "(0,120)"
+                                },
+                                "ID": 3,
+                                "Name": "Can See Enemy",
+                                "Instant": true,
+                                "Disabled": false,
+                                "ObjectType": "CanSeeEnemy"
+                            },
+                            {
+                                "NodeData": {
+                                    "Offset": "(130,120)"
+                                },
+                                "ID": 4,
+                                "Name": "Attack",
+                                "Instant": true,
+                                "Disabled": false,
+                                "ObjectType": "Attack"
+                            }
+                        ],
+                        "NodeData": {
+                            "Offset": "(0,120)"
+                        },
+                        "ID": 2,
+                        "Name": "Sequence",
+                        "Instant": true,
+                        "Disabled": false,
+                        "ObjectType": "BehaviorDesigner.Runtime.Tasks.Sequence"
+                    }
+                ],
+                "NodeData": {
+                    "Offset": "(4,120)"
+                },
+                "ID": 1,
+                "Name": "Repeater",
+                "Instant": true,
+                "Disabled": false,
+                "ObjectType": "BehaviorDesigner.Runtime.Tasks.Repeater"
             }
         }
     },
@@ -191,6 +528,73 @@
                 "Y": 1.5,
                 "Z": 1.49999928
             }
+        },
+        "BehaviorTree": {
+            "Name": "Behavior",
+            "EntryTask": {
+                "Children": [],
+                "NodeData": {
+                    "Offset": "(0,0)"
+                },
+                "ID": 0,
+                "Name": "Entry",
+                "Instant": true,
+                "Disabled": false
+            },
+            "RootTask": {
+                "Count": {
+                    "Value": 1
+                },
+                "RepeatForever": {
+                    "Value": true
+                },
+                "EndOnFailure": {
+                    "Value": false
+                },
+                "Children": [
+                    {
+                        "AbortType": "None",
+                        "Children": [
+                            {
+                                "NodeData": {
+                                    "Offset": "(0,120)"
+                                },
+                                "ID": 3,
+                                "Name": "Can See Enemy",
+                                "Instant": true,
+                                "Disabled": false,
+                                "ObjectType": "CanSeeEnemy"
+                            },
+                            {
+                                "NodeData": {
+                                    "Offset": "(130,120)"
+                                },
+                                "ID": 4,
+                                "Name": "Attack",
+                                "Instant": true,
+                                "Disabled": false,
+                                "ObjectType": "Attack"
+                            }
+                        ],
+                        "NodeData": {
+                            "Offset": "(0,120)"
+                        },
+                        "ID": 2,
+                        "Name": "Sequence",
+                        "Instant": true,
+                        "Disabled": false,
+                        "ObjectType": "BehaviorDesigner.Runtime.Tasks.Sequence"
+                    }
+                ],
+                "NodeData": {
+                    "Offset": "(4,120)"
+                },
+                "ID": 1,
+                "Name": "Repeater",
+                "Instant": true,
+                "Disabled": false,
+                "ObjectType": "BehaviorDesigner.Runtime.Tasks.Repeater"
+            }
         }
     },
     {
@@ -213,6 +617,7 @@
                 "Y": 1.0,
                 "Z": 1.00000024
             }
-        }
+        },
+        "BehaviorTree": null
     }
 ]
