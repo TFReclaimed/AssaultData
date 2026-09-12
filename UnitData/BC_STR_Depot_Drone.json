@@ -27,5 +27,9 @@
             "Z": 1.0
         }
     },
+    "IsObjectiveForGrunts": true,
+    "IsObjectiveForSpectres": true,
+    "IsObjectiveForPilots": true,
+    "IsObjectiveForTitans": true,
     "BehaviorTree": null
 }

@@ -23,6 +23,10 @@
                 "Z": 1.49999976
             }
         },
+        "IsObjectiveForGrunts": true,
+        "IsObjectiveForSpectres": true,
+        "IsObjectiveForPilots": true,
+        "IsObjectiveForTitans": true,
         "BehaviorTree": {
             "Name": "Behavior",
             "EntryTask": {
@@ -112,6 +116,10 @@
                 "Z": 0.9999999
             }
         },
+        "IsObjectiveForGrunts": true,
+        "IsObjectiveForSpectres": true,
+        "IsObjectiveForPilots": true,
+        "IsObjectiveForTitans": true,
         "BehaviorTree": null
     },
     {
@@ -138,6 +146,10 @@
                 "Z": 3.5
             }
         },
+        "IsObjectiveForGrunts": true,
+        "IsObjectiveForSpectres": true,
+        "IsObjectiveForPilots": true,
+        "IsObjectiveForTitans": true,
         "BehaviorTree": {
             "Name": "Behavior",
             "EntryTask": {
@@ -230,6 +242,10 @@
                 "Z": 1.49999976
             }
         },
+        "IsObjectiveForGrunts": true,
+        "IsObjectiveForSpectres": true,
+        "IsObjectiveForPilots": true,
+        "IsObjectiveForTitans": true,
         "BehaviorTree": {
             "Name": "Behavior",
             "EntryTask": {
@@ -319,6 +335,10 @@
                 "Z": 0.9999999
             }
         },
+        "IsObjectiveForGrunts": true,
+        "IsObjectiveForSpectres": true,
+        "IsObjectiveForPilots": true,
+        "IsObjectiveForTitans": true,
         "BehaviorTree": null
     },
     {
@@ -345,6 +365,10 @@
                 "Z": 3.50000048
             }
         },
+        "IsObjectiveForGrunts": true,
+        "IsObjectiveForSpectres": true,
+        "IsObjectiveForPilots": true,
+        "IsObjectiveForTitans": true,
         "BehaviorTree": {
             "Name": "Behavior",
             "EntryTask": {
@@ -437,6 +461,10 @@
                 "Z": 1.49999976
             }
         },
+        "IsObjectiveForGrunts": true,
+        "IsObjectiveForSpectres": true,
+        "IsObjectiveForPilots": true,
+        "IsObjectiveForTitans": true,
         "BehaviorTree": {
             "Name": "Behavior",
             "EntryTask": {
@@ -529,6 +557,10 @@
                 "Z": 1.49999976
             }
         },
+        "IsObjectiveForGrunts": true,
+        "IsObjectiveForSpectres": true,
+        "IsObjectiveForPilots": true,
+        "IsObjectiveForTitans": true,
         "BehaviorTree": {
             "Name": "Behavior",
             "EntryTask": {
@@ -618,6 +650,10 @@
                 "Z": 0.9999999
             }
         },
+        "IsObjectiveForGrunts": true,
+        "IsObjectiveForSpectres": true,
+        "IsObjectiveForPilots": true,
+        "IsObjectiveForTitans": true,
         "BehaviorTree": null
     }
 ]

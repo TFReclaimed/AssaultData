@@ -22,6 +22,10 @@
             "Z": 0.7
         }
     },
+    "IsObjectiveForGrunts": false,
+    "IsObjectiveForSpectres": false,
+    "IsObjectiveForPilots": false,
+    "IsObjectiveForTitans": false,
     "BehaviorTree": {
         "Name": "Behavior",
         "EntryTask": {
