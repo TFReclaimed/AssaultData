@@ -31,5 +31,23 @@
     "IsObjectiveForSpectres": true,
     "IsObjectiveForPilots": true,
     "IsObjectiveForTitans": true,
-    "BehaviorTree": null
+    "BehaviorTree": null,
+    "Collider": {
+        "Layer": 0,
+        "Collider": {
+            "Type": "Box",
+            "Offset": {
+                "X": 0.0,
+                "Y": 2.0,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 2.0,
+                "Y": 2.0,
+                "Z": 2.75
+            },
+            "Vertices": [],
+            "Triangles": []
+        }
+    }
 }

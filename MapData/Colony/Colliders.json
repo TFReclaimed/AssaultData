@@ -2405,57 +2405,6 @@
             "Colliders": [
                 {
                     "Type": "Box",
-                    "Offset": {
-                        "Y": 5.25
-                    },
-                    "Size": {
-                        "X": 3.49999928,
-                        "Y": 5.25,
-                        "Z": 3.49999928
-                    },
-                    "Vertices": [],
-                    "Triangles": []
-                }
-            ]
-        },
-        {
-            "Colliders": [
-                {
-                    "Type": "Box",
-                    "Offset": {
-                        "Y": 4.125
-                    },
-                    "Size": {
-                        "X": 1.49999976,
-                        "Y": 3.95249987,
-                        "Z": 1.49999976
-                    },
-                    "Vertices": [],
-                    "Triangles": []
-                }
-            ]
-        },
-        {
-            "Colliders": [
-                {
-                    "Type": "Box",
-                    "Offset": {
-                        "Y": 4.125
-                    },
-                    "Size": {
-                        "X": 1.49999928,
-                        "Y": 3.95249987,
-                        "Z": 1.49999928
-                    },
-                    "Vertices": [],
-                    "Triangles": []
-                }
-            ]
-        },
-        {
-            "Colliders": [
-                {
-                    "Type": "Box",
                     "Offset": {},
                     "Size": {
                         "X": 2.50000048,
@@ -2476,23 +2425,6 @@
                         "X": 2.50000358,
                         "Y": 0.5,
                         "Z": 2.50000358
-                    },
-                    "Vertices": [],
-                    "Triangles": []
-                }
-            ]
-        },
-        {
-            "Colliders": [
-                {
-                    "Type": "Box",
-                    "Offset": {
-                        "Y": 5.25
-                    },
-                    "Size": {
-                        "X": 3.49999976,
-                        "Y": 5.25,
-                        "Z": 3.49999976
                     },
                     "Vertices": [],
                     "Triangles": []
@@ -4429,48 +4361,8 @@
             }
         },
         {
-            "Name": "TurretBlue (2)",
-            "ShapeId": 96,
-            "Layer": 9,
-            "Position": {
-                "X": -61.1758347,
-                "Y": 3.0,
-                "Z": 0.483757019
-            },
-            "Rotation": {
-                "Y": 0.3826833,
-                "W": 0.9238795
-            }
-        },
-        {
-            "Name": "TurretMedium_Blue",
-            "ShapeId": 97,
-            "Position": {
-                "X": -48.0758438,
-                "Y": 3.0,
-                "Z": -49.6462364
-            },
-            "Rotation": {
-                "Y": 0.7071068,
-                "W": 0.7071067
-            }
-        },
-        {
-            "Name": "TurretMedium_Blue (1)",
-            "ShapeId": 98,
-            "Position": {
-                "X": -50.93584,
-                "Y": 3.0,
-                "Z": -41.91624
-            },
-            "Rotation": {
-                "Y": 0.7071068,
-                "W": 0.7071067
-            }
-        },
-        {
             "Name": "Objective1",
-            "ShapeId": 99,
+            "ShapeId": 96,
             "Layer": 12,
             "Position": {
                 "X": -28.7779922,
@@ -4484,7 +4376,7 @@
         },
         {
             "Name": "Objective2",
-            "ShapeId": 99,
+            "ShapeId": 96,
             "Layer": 12,
             "Position": {
                 "X": 0.0420000553,
@@ -4498,7 +4390,7 @@
         },
         {
             "Name": "Objective3",
-            "ShapeId": 100,
+            "ShapeId": 97,
             "Layer": 12,
             "Position": {
                 "X": 28.8220024,
@@ -4511,48 +4403,8 @@
             }
         },
         {
-            "Name": "TurretMedium_Red (1)",
-            "ShapeId": 98,
-            "Position": {
-                "X": 47.2141457,
-                "Y": 3.0,
-                "Z": -49.64625
-            },
-            "Rotation": {
-                "Y": 0.7071068,
-                "W": 0.7071067
-            }
-        },
-        {
-            "Name": "TurretMedium_Red (2)",
-            "ShapeId": 98,
-            "Position": {
-                "X": 50.28415,
-                "Y": 3.0,
-                "Z": -41.9162521
-            },
-            "Rotation": {
-                "Y": 0.7071068,
-                "W": 0.7071067
-            }
-        },
-        {
-            "Name": "TurretRed (2)",
-            "ShapeId": 101,
-            "Layer": 9,
-            "Position": {
-                "X": 62.2741547,
-                "Y": 3.0,
-                "Z": -0.01625824
-            },
-            "Rotation": {
-                "Y": -0.343884945,
-                "W": 0.9390118
-            }
-        },
-        {
             "Name": "Gigantic Box (36)",
-            "ShapeId": 102,
+            "ShapeId": 98,
             "Layer": 4,
             "Position": {
                 "X": -0.222473145,
@@ -4566,7 +4418,7 @@
         },
         {
             "Name": "outside lane volume",
-            "ShapeId": 103,
+            "ShapeId": 99,
             "Layer": 4,
             "Position": {
                 "X": -0.2,
@@ -4580,7 +4432,7 @@
         },
         {
             "Name": "3_Story (28)",
-            "ShapeId": 104,
+            "ShapeId": 100,
             "Layer": 10,
             "Position": {
                 "X": 9.377494,

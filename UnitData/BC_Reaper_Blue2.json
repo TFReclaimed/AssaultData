@@ -1029,5 +1029,23 @@
             "Disabled": false,
             "ObjectType": "BehaviorDesigner.Runtime.Tasks.Repeater"
         }
+    },
+    "Collider": {
+        "Layer": 9,
+        "Collider": {
+            "Type": "Box",
+            "Offset": {
+                "X": 0.0,
+                "Y": 1.875,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 1.125,
+                "Y": 1.5,
+                "Z": 0.75
+            },
+            "Vertices": [],
+            "Triangles": []
+        }
     }
 }

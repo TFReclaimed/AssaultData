@@ -92,5 +92,6 @@
             "Disabled": false,
             "ObjectType": "BehaviorDesigner.Runtime.Tasks.Repeater"
         }
-    }
+    },
+    "Collider": null
 }

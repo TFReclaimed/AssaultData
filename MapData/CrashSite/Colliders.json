@@ -3701,62 +3701,11 @@
             "Colliders": [
                 {
                     "Type": "Box",
-                    "Offset": {
-                        "Y": 5.25
-                    },
-                    "Size": {
-                        "X": 3.49999928,
-                        "Y": 5.25,
-                        "Z": 3.49999928
-                    },
-                    "Vertices": [],
-                    "Triangles": []
-                }
-            ]
-        },
-        {
-            "Colliders": [
-                {
-                    "Type": "Box",
-                    "Offset": {
-                        "Y": 4.125
-                    },
-                    "Size": {
-                        "X": 1.49999976,
-                        "Y": 3.95249987,
-                        "Z": 1.49999976
-                    },
-                    "Vertices": [],
-                    "Triangles": []
-                }
-            ]
-        },
-        {
-            "Colliders": [
-                {
-                    "Type": "Box",
                     "Offset": {},
                     "Size": {
                         "X": 2.50000048,
                         "Y": 0.5,
                         "Z": 2.50000048
-                    },
-                    "Vertices": [],
-                    "Triangles": []
-                }
-            ]
-        },
-        {
-            "Colliders": [
-                {
-                    "Type": "Box",
-                    "Offset": {
-                        "Y": 5.25
-                    },
-                    "Size": {
-                        "X": 3.49999976,
-                        "Y": 5.25,
-                        "Z": 3.49999976
                     },
                     "Vertices": [],
                     "Triangles": []
@@ -7288,35 +7237,8 @@
             }
         },
         {
-            "Name": "TurretBlue (2)",
-            "ShapeId": 176,
-            "Layer": 9,
-            "Position": {
-                "X": -70.66583,
-                "Y": 2.78,
-                "Z": 5.513756
-            },
-            "Rotation": {
-                "Y": 0.3826833,
-                "W": 0.9238795
-            }
-        },
-        {
-            "Name": "TurretMedium_Blue",
-            "ShapeId": 177,
-            "Position": {
-                "X": -37.37583,
-                "Y": 2.923,
-                "Z": 23.11375
-            },
-            "Rotation": {
-                "Y": 0.7071067,
-                "W": -0.7071068
-            }
-        },
-        {
             "Name": "Objective1",
-            "ShapeId": 178,
+            "ShapeId": 176,
             "Layer": 12,
             "Position": {
                 "X": -48.66799,
@@ -7330,7 +7252,7 @@
         },
         {
             "Name": "Objective2",
-            "ShapeId": 178,
+            "ShapeId": 176,
             "Layer": 12,
             "Position": {
                 "X": -3.267994,
@@ -7344,7 +7266,7 @@
         },
         {
             "Name": "Objective3",
-            "ShapeId": 178,
+            "ShapeId": 176,
             "Layer": 12,
             "Position": {
                 "X": 42.5320053,
@@ -7357,35 +7279,8 @@
             }
         },
         {
-            "Name": "TurretMedium_Red",
-            "ShapeId": 177,
-            "Position": {
-                "X": 30.7741585,
-                "Y": 2.934,
-                "Z": -11.7662525
-            },
-            "Rotation": {
-                "Y": 0.7071068,
-                "W": 0.7071067
-            }
-        },
-        {
-            "Name": "TurretRed (2)",
-            "ShapeId": 179,
-            "Layer": 9,
-            "Position": {
-                "X": 64.29416,
-                "Y": 2.78,
-                "Z": 5.84374237
-            },
-            "Rotation": {
-                "Y": -0.343884945,
-                "W": 0.9390118
-            }
-        },
-        {
             "Name": "Box for Zipline Highlight",
-            "ShapeId": 180,
+            "ShapeId": 177,
             "Position": {
                 "X": 6.49,
                 "Y": 9.59,
@@ -7398,7 +7293,7 @@
         },
         {
             "Name": "Box for Zipline Highlight (1)",
-            "ShapeId": 181,
+            "ShapeId": 178,
             "Position": {
                 "X": -13.77,
                 "Y": 9.59,

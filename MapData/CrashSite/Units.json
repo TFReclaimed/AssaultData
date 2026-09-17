@@ -93,6 +93,24 @@
                 "Disabled": false,
                 "ObjectType": "BehaviorDesigner.Runtime.Tasks.Repeater"
             }
+        },
+        "Collider": {
+            "Layer": 0,
+            "Collider": {
+                "Type": "Box",
+                "Offset": {
+                    "X": 0.0,
+                    "Y": 4.125,
+                    "Z": 0.0
+                },
+                "Size": {
+                    "X": 1.49999976,
+                    "Y": 3.95249987,
+                    "Z": 1.49999976
+                },
+                "Vertices": [],
+                "Triangles": []
+            }
         }
     },
     {
@@ -189,6 +207,24 @@
                 "Disabled": false,
                 "ObjectType": "BehaviorDesigner.Runtime.Tasks.Repeater"
             }
+        },
+        "Collider": {
+            "Layer": 0,
+            "Collider": {
+                "Type": "Box",
+                "Offset": {
+                    "X": 0.0,
+                    "Y": 4.125,
+                    "Z": 0.0
+                },
+                "Size": {
+                    "X": 1.49999976,
+                    "Y": 3.95249987,
+                    "Z": 1.49999976
+                },
+                "Vertices": [],
+                "Triangles": []
+            }
         }
     },
     {
@@ -216,7 +252,25 @@
         "IsObjectiveForSpectres": true,
         "IsObjectiveForPilots": true,
         "IsObjectiveForTitans": true,
-        "BehaviorTree": null
+        "BehaviorTree": null,
+        "Collider": {
+            "Layer": 12,
+            "Collider": {
+                "Type": "Box",
+                "Offset": {
+                    "X": 0.0,
+                    "Y": 0.0,
+                    "Z": 0.0
+                },
+                "Size": {
+                    "X": 2.50000048,
+                    "Y": 0.5,
+                    "Z": 2.50000048
+                },
+                "Vertices": [],
+                "Triangles": []
+            }
+        }
     },
     {
         "$type": "HardPoint",
@@ -243,7 +297,25 @@
         "IsObjectiveForSpectres": true,
         "IsObjectiveForPilots": true,
         "IsObjectiveForTitans": true,
-        "BehaviorTree": null
+        "BehaviorTree": null,
+        "Collider": {
+            "Layer": 12,
+            "Collider": {
+                "Type": "Box",
+                "Offset": {
+                    "X": 0.0,
+                    "Y": 0.0,
+                    "Z": 0.0
+                },
+                "Size": {
+                    "X": 2.50000048,
+                    "Y": 0.5,
+                    "Z": 2.50000048
+                },
+                "Vertices": [],
+                "Triangles": []
+            }
+        }
     },
     {
         "$type": "Turret",
@@ -338,6 +410,24 @@
                 "Instant": true,
                 "Disabled": false,
                 "ObjectType": "BehaviorDesigner.Runtime.Tasks.Repeater"
+            }
+        },
+        "Collider": {
+            "Layer": 9,
+            "Collider": {
+                "Type": "Box",
+                "Offset": {
+                    "X": 0.0,
+                    "Y": 5.25,
+                    "Z": 0.0
+                },
+                "Size": {
+                    "X": 3.49999928,
+                    "Y": 5.25,
+                    "Z": 3.49999928
+                },
+                "Vertices": [],
+                "Triangles": []
             }
         }
     },
@@ -435,6 +525,24 @@
                 "Disabled": false,
                 "ObjectType": "BehaviorDesigner.Runtime.Tasks.Repeater"
             }
+        },
+        "Collider": {
+            "Layer": 9,
+            "Collider": {
+                "Type": "Box",
+                "Offset": {
+                    "X": 0.0,
+                    "Y": 5.25,
+                    "Z": 0.0
+                },
+                "Size": {
+                    "X": 3.49999976,
+                    "Y": 5.25,
+                    "Z": 3.49999976
+                },
+                "Vertices": [],
+                "Triangles": []
+            }
         }
     },
     {
@@ -462,6 +570,24 @@
         "IsObjectiveForSpectres": true,
         "IsObjectiveForPilots": true,
         "IsObjectiveForTitans": true,
-        "BehaviorTree": null
+        "BehaviorTree": null,
+        "Collider": {
+            "Layer": 12,
+            "Collider": {
+                "Type": "Box",
+                "Offset": {
+                    "X": 0.0,
+                    "Y": 0.0,
+                    "Z": 0.0
+                },
+                "Size": {
+                    "X": 2.50000048,
+                    "Y": 0.5,
+                    "Z": 2.50000048
+                },
+                "Vertices": [],
+                "Triangles": []
+            }
+        }
     }
 ]
