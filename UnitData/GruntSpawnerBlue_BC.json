@@ -49,5 +49,6 @@
             "Vertices": [],
             "Triangles": []
         }
-    }
+    },
+    "Movement": null
 }

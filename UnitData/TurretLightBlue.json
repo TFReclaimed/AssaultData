@@ -110,5 +110,6 @@
             "Vertices": [],
             "Triangles": []
         }
-    }
+    },
+    "Movement": null
 }

@@ -846,5 +846,25 @@
             "Vertices": [],
             "Triangles": []
         }
+    },
+    "Movement": {
+        "SteerScanRadius": 3.0,
+        "Gravity": 0,
+        "SteerScanHeight": 1.0,
+        "NavigationOffset": {
+            "X": 0.0,
+            "Y": 16.0,
+            "Z": 0.0
+        },
+        "CanBump": true,
+        "RadiusMargin": 3.0,
+        "AvoidanceIgnoredUnitsMask": -513,
+        "TurnBeforeMove": false,
+        "WaitForFormationBeforeMove": false,
+        "DirectMoveMode": true,
+        "PilotActionWallRun": false,
+        "PilotActionJump": false,
+        "PilotActionZipline": false,
+        "SteerToAlignWithFocusPosition": true
     }
 }

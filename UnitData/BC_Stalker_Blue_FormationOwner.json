@@ -1030,5 +1030,25 @@
             "ObjectType": "BehaviorDesigner.Runtime.Tasks.Repeater"
         }
     },
-    "Collider": null
+    "Collider": null,
+    "Movement": {
+        "SteerScanRadius": 2.0,
+        "Gravity": -40181,
+        "SteerScanHeight": 0.0,
+        "NavigationOffset": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "CanBump": false,
+        "RadiusMargin": 2.0,
+        "AvoidanceIgnoredUnitsMask": -1,
+        "TurnBeforeMove": false,
+        "WaitForFormationBeforeMove": false,
+        "DirectMoveMode": false,
+        "PilotActionWallRun": false,
+        "PilotActionJump": false,
+        "PilotActionZipline": false,
+        "SteerToAlignWithFocusPosition": false
+    }
 }

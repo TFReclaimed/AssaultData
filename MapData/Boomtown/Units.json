@@ -50,7 +50,8 @@
                 "Vertices": [],
                 "Triangles": []
             }
-        }
+        },
+        "Movement": null
     },
     {
         "$type": "HardPoint",
@@ -95,7 +96,8 @@
                 "Vertices": [],
                 "Triangles": []
             }
-        }
+        },
+        "Movement": null
     },
     {
         "$type": "HardPoint",
@@ -140,7 +142,8 @@
                 "Vertices": [],
                 "Triangles": []
             }
-        }
+        },
+        "Movement": null
     },
     {
         "$type": "UnitSpawner",
@@ -193,7 +196,8 @@
                 "Vertices": [],
                 "Triangles": []
             }
-        }
+        },
+        "Movement": null
     },
     {
         "$type": "Turret",
@@ -307,7 +311,8 @@
                 "Vertices": [],
                 "Triangles": []
             }
-        }
+        },
+        "Movement": null
     },
     {
         "$type": "Turret",
@@ -421,7 +426,8 @@
                 "Vertices": [],
                 "Triangles": []
             }
-        }
+        },
+        "Movement": null
     },
     {
         "$type": "Turret",
@@ -535,7 +541,8 @@
                 "Vertices": [],
                 "Triangles": []
             }
-        }
+        },
+        "Movement": null
     },
     {
         "$type": "Turret",
@@ -649,7 +656,8 @@
                 "Vertices": [],
                 "Triangles": []
             }
-        }
+        },
+        "Movement": null
     },
     {
         "$type": "UnitSpawner",
@@ -702,7 +710,8 @@
                 "Vertices": [],
                 "Triangles": []
             }
-        }
+        },
+        "Movement": null
     },
     {
         "$type": "UnitSpawner",
@@ -755,7 +764,8 @@
                 "Vertices": [],
                 "Triangles": []
             }
-        }
+        },
+        "Movement": null
     },
     {
         "$type": "HardPoint",
@@ -800,6 +810,7 @@
                 "Vertices": [],
                 "Triangles": []
             }
-        }
+        },
+        "Movement": null
     }
 ]

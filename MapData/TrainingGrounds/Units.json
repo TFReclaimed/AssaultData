@@ -111,7 +111,8 @@
                 "Vertices": [],
                 "Triangles": []
             }
-        }
+        },
+        "Movement": null
     },
     {
         "$type": "HardPoint",
@@ -156,7 +157,8 @@
                 "Vertices": [],
                 "Triangles": []
             }
-        }
+        },
+        "Movement": null
     },
     {
         "$type": "Turret",
@@ -270,7 +272,8 @@
                 "Vertices": [],
                 "Triangles": []
             }
-        }
+        },
+        "Movement": null
     },
     {
         "$type": "HardPoint",
@@ -315,7 +318,8 @@
                 "Vertices": [],
                 "Triangles": []
             }
-        }
+        },
+        "Movement": null
     },
     {
         "$type": "Turret",
@@ -429,7 +433,8 @@
                 "Vertices": [],
                 "Triangles": []
             }
-        }
+        },
+        "Movement": null
     },
     {
         "$type": "Turret",
@@ -543,7 +548,8 @@
                 "Vertices": [],
                 "Triangles": []
             }
-        }
+        },
+        "Movement": null
     },
     {
         "$type": "HardPoint",
@@ -588,6 +594,7 @@
                 "Vertices": [],
                 "Triangles": []
             }
-        }
+        },
+        "Movement": null
     }
 ]

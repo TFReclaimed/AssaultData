@@ -93,5 +93,6 @@
             "ObjectType": "BehaviorDesigner.Runtime.Tasks.Repeater"
         }
     },
-    "Collider": null
+    "Collider": null,
+    "Movement": null
 }

@@ -1,0 +1,6 @@
+{
+    "JumpUpCostFactor": 1.0,
+    "JumpDownCostFactor": 0.3,
+    "WallRunCostFactor": 0.5,
+    "ZiplineCostFactor": 0.5
+}
