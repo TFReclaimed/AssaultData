@@ -1,0 +1,3694 @@
+[
+    {
+        "Transform": {
+            "Position": {
+                "X": -55.70814,
+                "Y": -0.0166686773,
+                "Z": -5.02825
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0687740147,
+                "Z": 0.0,
+                "W": -0.9976324
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 1,
+        "UniqueId": "ad23dbd1-9f70-4ac7-bae4-961489521e7f"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -23.6689415,
+                "Y": 0.554218769,
+                "Z": -29.2535324
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 2,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "f7b31bb9-e78f-4d14-9268-5f8915dfe92e"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -50.0489426,
+                "Y": 5.57421875,
+                "Z": 8.34647
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 2,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "2e5a0d6b-edd1-4e37-ab35-b14e9a966490"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -59.21231,
+                "Y": 0.451999962,
+                "Z": -6.47742748
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.06877351,
+                "Z": 0.0,
+                "W": -0.9976324
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 0,
+        "EastCoverType": 1,
+        "WestCoverType": 0,
+        "UniqueId": "a309c553-2f9b-47a3-a6c4-78a35ae0488c"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -12.69894,
+                "Y": 5.57421875,
+                "Z": 12.3864689
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 2,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "508fb81e-3d63-4b11-983a-2dd8a24f08d2"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -22.00894,
+                "Y": -0.0506685972,
+                "Z": -27.40353
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 2,
+        "UniqueId": "3ca75053-aeb8-4c27-82f0-2cd06d2a0560"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -47.9089432,
+                "Y": 5.57421875,
+                "Z": 8.35647
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 2,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "e52d27bf-68a9-463b-9596-1cdd149e4de9"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 47.8010559,
+                "Y": 5.57421875,
+                "Z": -8.30353
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 2,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "0187ef76-001b-495b-9a41-16d865076259"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 55.9456,
+                "Y": 0.451999962,
+                "Z": 6.33083868
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.06877351,
+                "Z": 0.0,
+                "W": -0.9976324
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 0,
+        "EastCoverType": 1,
+        "WestCoverType": 0,
+        "UniqueId": "2ce43140-01e9-4fba-a872-85d44ce83b8d"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 19.5110588,
+                "Y": -0.0506685972,
+                "Z": 29.0364685
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 2,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "a2b20120-2d07-41ed-acfb-31234736f1f3"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 23.24106,
+                "Y": -0.42578125,
+                "Z": 7.67646933
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 2,
+        "UniqueId": "57d13f4d-abd2-4b81-8c98-aedf3151e1df"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 1.30105925,
+                "Y": 8.574219,
+                "Z": 16.7064686
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 2,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "6ba69425-92c7-4408-a4b2-c5893d319d59"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -55.562397,
+                "Y": -0.0166686773,
+                "Z": -6.08027649
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0687739849,
+                "Z": 0.0,
+                "W": -0.9976323
+            },
+            "Scale": {
+                "X": 1.00000012,
+                "Y": 1.0,
+                "Z": 1.00000012
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 1,
+        "UniqueId": "3caa3812-1196-4c5f-8387-f7e57bfd0fe1"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 24.1810589,
+                "Y": -0.42578125,
+                "Z": 28.9964676
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 2,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "6e7e10fc-c0c2-46df-8357-7c32c22d903c"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 22.37106,
+                "Y": -0.42578125,
+                "Z": 5.956469
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 2,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "f8d46842-d467-4e46-ad36-afa25d176be6"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -21.069,
+                "Y": -0.0506685972,
+                "Z": 28.565
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 2,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "433c82f0-1973-4fac-974f-d6047f95be88"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 31.4310589,
+                "Y": 11.5742188,
+                "Z": 29.49647
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 2,
+        "EastCoverType": 2,
+        "WestCoverType": 0,
+        "UniqueId": "4c6e3fcf-784d-4212-bfa2-7f1451b2c336"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -0.0189404488,
+                "Y": 8.574219,
+                "Z": -15.23353
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 2,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "cca897a3-292f-44b9-ba8b-72e616d19abf"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -23.54894,
+                "Y": -0.42578125,
+                "Z": -25.4135323
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 2,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "867e808d-aa2b-43a7-91d2-8fd021bfaeb9"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 5.18106,
+                "Y": -0.0266686678,
+                "Z": -5.462
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 0,
+        "EastCoverType": 2,
+        "WestCoverType": 0,
+        "UniqueId": "caecd0f4-448a-4ed7-81d7-75fa889bbb07"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 1.36105919,
+                "Y": 8.574219,
+                "Z": -16.20353
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 2,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "592d3f79-0193-4dd1-9c64-ef6fb59ef731"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 25.6510582,
+                "Y": 0.554218769,
+                "Z": 25.4564667
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 2,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "13d77631-0b9d-4043-bc4f-5cee3ef69580"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 51.7910576,
+                "Y": 5.57421875,
+                "Z": -8.343531
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 2,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "7a6e0d9e-8d63-4b56-81f5-dfb4f286fcb9"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 20.89106,
+                "Y": -0.42578125,
+                "Z": 4.8464694
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 2,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "e33f6dff-244d-46a2-b71c-0be4896bb3f8"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -59.3615341,
+                "Y": 0.451999962,
+                "Z": -5.3487854
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.06877351,
+                "Z": 0.0,
+                "W": -0.9976324
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 0,
+        "EastCoverType": 1,
+        "WestCoverType": 0,
+        "UniqueId": "db6ba472-8e1b-4208-a499-fe692110c9e0"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 22.641058,
+                "Y": -0.42578125,
+                "Z": 25.6904678
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 2,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "210f6cca-93f4-4a28-a611-c3eddb880a01"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -52.39894,
+                "Y": 2.57421875,
+                "Z": -9.273531
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 2,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "3deb9a35-614f-4d89-aa5b-9d86da772a70"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -29.1789379,
+                "Y": 11.5742188,
+                "Z": -28.82353
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 2,
+        "SouthCoverType": 0,
+        "EastCoverType": 2,
+        "WestCoverType": 0,
+        "UniqueId": "9eba1822-7ffa-4f4b-a501-5623cdf487cf"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 47.33106,
+                "Y": 2.57421875,
+                "Z": 9.18647
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 2,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "e0b82eb8-a592-42c5-96d4-874b129f160e"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -7.348,
+                "Y": -0.0266686678,
+                "Z": 5.586469
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 0,
+        "EastCoverType": 2,
+        "WestCoverType": 0,
+        "UniqueId": "e46b6d8c-d7b7-46e0-8586-a42c50b700ff"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -49.48894,
+                "Y": 2.57421875,
+                "Z": -9.303532
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 2,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "4017ea93-f234-4cfe-8cec-8890f62648a8"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -22.10894,
+                "Y": 0.554218769,
+                "Z": -9.026531
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 2,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "037a2718-baae-4d9c-b5ba-d9b6d63be04c"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -6.11800051,
+                "Y": -0.0266686678,
+                "Z": 4.336469
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 2.63750553E-06,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 2,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "0ddd59db-47be-4179-8c3b-5d4654d34617"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 24.13106,
+                "Y": -0.42578125,
+                "Z": 24.73647
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 2,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "efbad62d-7451-4c25-81d9-fe788013d576"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -20.92894,
+                "Y": -0.42578125,
+                "Z": -5.23453045
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 2,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "fc450dc6-f8c3-47f6-874a-bb9062e58321"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -22.249,
+                "Y": -0.0506685972,
+                "Z": 27.125
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 2,
+        "UniqueId": "84551da7-dad7-4f41-afc5-3b24055ebf98"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -19.65894,
+                "Y": -0.0506685972,
+                "Z": -28.6135311
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 2,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "62be57c7-a72d-4545-bfca-30bd66d3535a"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 25.2155113,
+                "Y": -0.0166686773,
+                "Z": -25.50688
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 1.51991844E-06,
+                "Z": 0.0,
+                "W": 1.00000012
+            },
+            "Scale": {
+                "X": 1.00000012,
+                "Y": 1.0,
+                "Z": 1.00000012
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 2,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "5f6f3c1f-2d51-4900-9112-ef2f110f81fb"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -7.348,
+                "Y": -0.0266686678,
+                "Z": -5.462
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 0,
+        "EastCoverType": 2,
+        "WestCoverType": 0,
+        "UniqueId": "321f75c3-6bc2-48e7-b986-5cd74cc2eee6"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -57.4640923,
+                "Y": -0.0166686773,
+                "Z": -3.97300673
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -0.06877527,
+                "Z": 0.0,
+                "W": 0.9976323
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 1,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "97c2eaaf-a137-4169-9e01-4cf6d9a47cde"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 23.1472244,
+                "Y": 0.451999962,
+                "Z": -26.60926
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -3.27825546E-06,
+                "Z": 0.0,
+                "W": -1.00000012
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 0,
+        "EastCoverType": 2,
+        "WestCoverType": 0,
+        "UniqueId": "59121c39-fcb2-40e7-9692-21f6d6b20112"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -3.72800016,
+                "Y": -0.0266686678,
+                "Z": -6.392
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 2,
+        "UniqueId": "c8adc90a-b516-40f3-b9cf-3d114901ac15"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 29.26106,
+                "Y": 11.5742188,
+                "Z": 29.4664688
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 2,
+        "EastCoverType": 0,
+        "WestCoverType": 2,
+        "UniqueId": "17be3397-701c-44a3-8c21-035a00ed655c"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -21.069,
+                "Y": -0.0506685972,
+                "Z": 24.885
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 2,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "82049c57-49a3-422c-8866-b03bb014b948"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 24.28284,
+                "Y": -0.0166686773,
+                "Z": -29.1053467
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -2.38418579E-06,
+                "Z": 0.0,
+                "W": -1.00000012
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 2,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "f074106b-7d48-47d4-82cf-2fa48dd13baf"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 10.9810581,
+                "Y": 5.57421875,
+                "Z": -12.24353
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 2,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "4ea3bc1b-7fd5-4f7a-8437-ae4e7c0e40d9"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 8.80106,
+                "Y": -0.0266686678,
+                "Z": -5.462
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 2,
+        "UniqueId": "b346adb0-6a9e-4a91-a668-28d87e50ddfb"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 20.6810589,
+                "Y": -0.0506685972,
+                "Z": 25.3564682
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 2,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "e181f2db-5968-401e-803c-0cd5ad0dd18d"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -16.61894,
+                "Y": -0.0506685972,
+                "Z": 47.3254662
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 2,
+        "UniqueId": "25c80c39-1534-4361-babb-e6395c29faab"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -7.348,
+                "Y": -0.0266686678,
+                "Z": -6.392
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 0,
+        "EastCoverType": 2,
+        "WestCoverType": 0,
+        "UniqueId": "1cf9b6f5-d402-47af-aea5-6608d3c1b07a"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -21.93894,
+                "Y": -0.42578125,
+                "Z": 5.796469
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 2,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "4e5b7581-688d-4deb-802f-35b863a3299d"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -25.72894,
+                "Y": -0.42578125,
+                "Z": 24.73647
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 2,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "0b6bfe52-685b-43c1-a4b0-65c6f5bd9ca5"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 58.56449,
+                "Y": -0.0166686773,
+                "Z": 4.17373133
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0687744,
+                "Z": 0.0,
+                "W": -0.9976323
+            },
+            "Scale": {
+                "X": 1.00000012,
+                "Y": 1.0,
+                "Z": 1.00000012
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 1,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "3b998164-40ca-4ae1-9175-e1bd3231a928"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 19.5110588,
+                "Y": -0.0506685972,
+                "Z": 25.3564682
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 2,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "bd12ec3b-cc69-4b9f-b6c4-f6cd7f64e66d"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -20.82894,
+                "Y": -0.0506685972,
+                "Z": -28.6135311
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 2,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "03b224fe-7560-4e75-9819-e1d492f6eefe"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 6.41105938,
+                "Y": -0.0266686678,
+                "Z": -4.452
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 2.63750553E-06,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 2,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "41395f52-533a-4e57-95be-3f6151c1f217"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -52.2189445,
+                "Y": 5.57421875,
+                "Z": 8.316469
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 2,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "26d1b5ab-aaef-4dfb-a91a-870aa1d2afdb"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -22.249,
+                "Y": -0.0506685972,
+                "Z": 26.0950012
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 2,
+        "UniqueId": "933969ee-3be0-46b1-8d86-f4e1d1f160c4"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -25.13894,
+                "Y": -0.42578125,
+                "Z": -25.26353
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 2,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "d2e80af1-bfb2-47af-aeb7-7db9db312807"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 22.521059,
+                "Y": 0.554218769,
+                "Z": -8.533531
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 2,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "01491110-c8e0-4538-b234-b00555960d41"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 57.0489426,
+                "Y": -0.0166686773,
+                "Z": 7.590179
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -0.06877527,
+                "Z": 0.0,
+                "W": 0.9976323
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 1,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "0c19bfa4-52c5-4428-bd81-92ebf9cb8325"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 8.80106,
+                "Y": -0.0266686678,
+                "Z": -6.392
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 2,
+        "UniqueId": "be48f474-35da-403a-875f-8f765c95e080"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 25.4453239,
+                "Y": -0.0166686773,
+                "Z": -29.1053448
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -2.38418579E-06,
+                "Z": 0.0,
+                "W": -1.00000012
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 2,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "f8079822-58ae-4b63-bbfd-f522716ac8f3"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 21.86106,
+                "Y": -0.0506685972,
+                "Z": 26.6964684
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 0,
+        "EastCoverType": 2,
+        "WestCoverType": 0,
+        "UniqueId": "562d049a-beac-4d3c-b70e-ead907edb384"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 49.8410568,
+                "Y": 5.57421875,
+                "Z": -8.31353
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 2,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "45db17c4-dc11-485e-bbee-40085690a81a"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -56.74264,
+                "Y": -0.0166686773,
+                "Z": -7.50589275
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0687744,
+                "Z": 0.0,
+                "W": -0.9976323
+            },
+            "Scale": {
+                "X": 1.00000012,
+                "Y": 1.0,
+                "Z": 1.00000012
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 1,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "dbfc469f-39b4-4e0e-8338-775312129e80"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -3.72800016,
+                "Y": -0.0266686678,
+                "Z": 5.586469
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 2,
+        "UniqueId": "a6df96b2-6835-4c51-8562-def48df610d1"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -20.97894,
+                "Y": -0.42578125,
+                "Z": -9.94453049
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 2,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "52b5b7d6-256b-4e04-845c-371465d34371"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 20.6810589,
+                "Y": -0.0506685972,
+                "Z": 29.0364685
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 2,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "d431b4ac-1145-495c-81a8-d8ecc450b713"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 19.53284,
+                "Y": -0.0166686773,
+                "Z": -29.1053467
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -2.38418579E-06,
+                "Z": 0.0,
+                "W": -1.00000012
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 2,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "c60ee69f-cc92-408d-a3e7-48b7e4d48b1f"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -4.74800062,
+                "Y": -0.0266686678,
+                "Z": -4.452
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 2.63750553E-06,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 2,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "50f2ec41-d15b-41c3-aea8-79b73dda1577"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 7.78105927,
+                "Y": -0.0266686678,
+                "Z": -4.452
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 2.63750553E-06,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 2,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "70e274ce-ebe2-4e1a-ab4a-336a277a6f11"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -6.11800051,
+                "Y": -0.0266686678,
+                "Z": -4.452
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 2.63750553E-06,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 2,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "0c48ea0c-c610-4ee1-bc41-c6cffdf6c605"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -19.899,
+                "Y": -0.0506685972,
+                "Z": 24.885
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 2,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "522e0648-3e64-4011-8f52-5e613051d833"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -19.33894,
+                "Y": -0.42578125,
+                "Z": -5.384531
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 2,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "11a17d6d-9120-4e34-ad7f-2122ac484c06"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -27.21894,
+                "Y": -0.42578125,
+                "Z": 25.14647
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 2,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "6a22206b-e3d7-47d8-a459-1e2d072116a4"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 24.4129448,
+                "Y": -0.0166686773,
+                "Z": -25.5132446
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 1.51991844E-06,
+                "Z": 0.0,
+                "W": 1.00000012
+            },
+            "Scale": {
+                "X": 1.00000012,
+                "Y": 1.0,
+                "Z": 1.00000012
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 2,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "327d1fc1-2668-4ea9-a32c-747a54652ed5"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 16.7910614,
+                "Y": -0.0506685972,
+                "Z": -46.3735237
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -1.0,
+                "Z": 0.0,
+                "W": 2.324581E-06
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 2,
+        "UniqueId": "1c6295e0-87f1-46fa-94f1-cd8d9567376b"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 23.99106,
+                "Y": -0.42578125,
+                "Z": -6.69353056
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 2,
+        "UniqueId": "9cf12164-e16e-4180-92db-6adc09444499"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -21.05894,
+                "Y": -0.42578125,
+                "Z": 10.4864693
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 2,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "bdcd51da-f2b1-4718-9a58-ae0b4e1e4fd3"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 21.86106,
+                "Y": -0.0506685972,
+                "Z": 27.726469
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 0,
+        "EastCoverType": 2,
+        "WestCoverType": 0,
+        "UniqueId": "caa73aeb-0da0-48b6-b481-85f738b59157"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 23.1401558,
+                "Y": 0.451999962,
+                "Z": -27.7477036
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -3.27825546E-06,
+                "Z": 0.0,
+                "W": -1.00000012
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 0,
+        "EastCoverType": 2,
+        "WestCoverType": 0,
+        "UniqueId": "62a2359d-1b31-4669-80b8-3d370e0a630c"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 21.05106,
+                "Y": -0.42578125,
+                "Z": -4.54353046
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 2,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "fb6f1104-67db-4458-a18e-0552d7d8d155"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 21.97106,
+                "Y": -0.42578125,
+                "Z": 9.76647
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 2,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "b3309f64-0e92-49e0-9116-2b758793b544"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -22.94894,
+                "Y": -0.42578125,
+                "Z": 8.00647
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 0,
+        "EastCoverType": 2,
+        "WestCoverType": 0,
+        "UniqueId": "14d14c99-da24-49a2-981c-d71b8020f968"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -25.67894,
+                "Y": -0.42578125,
+                "Z": 28.9964676
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 2,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "5bc558d4-ac5a-46b0-9d65-0cd5ee9d892b"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 20.0810585,
+                "Y": -0.42578125,
+                "Z": 10.1564693
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 2,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "506c152b-8558-4ff3-b249-21061d9de974"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 14.8310585,
+                "Y": 5.57421875,
+                "Z": -12.2635288
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 2,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "e2152a65-4687-406d-8924-c81f7d4b4909"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 57.4130058,
+                "Y": -0.0166686773,
+                "Z": 4.014205
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0687744,
+                "Z": 0.0,
+                "W": -0.9976323
+            },
+            "Scale": {
+                "X": 1.00000012,
+                "Y": 1.0,
+                "Z": 1.00000012
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 1,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "372428c5-fe06-4aab-9385-6cca32f9fc61"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 20.4655113,
+                "Y": -0.0166686773,
+                "Z": -25.50688
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 1.51991844E-06,
+                "Z": 0.0,
+                "W": 1.00000012
+            },
+            "Scale": {
+                "X": 1.00000012,
+                "Y": 1.0,
+                "Z": 1.00000012
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 2,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "b9938f1b-96b1-4a2d-971a-80ae12def129"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -1.28894091,
+                "Y": 8.574219,
+                "Z": -16.51353
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 2,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "43da212f-09d7-4519-af92-8177e7c4f47b"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -3.72800016,
+                "Y": -0.0266686678,
+                "Z": 6.51646948
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 2,
+        "UniqueId": "5366ea1a-39d0-4179-ae83-5369705782b0"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 49.37106,
+                "Y": 2.57421875,
+                "Z": 9.17647
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 2,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "0ed35487-6b09-41d5-81ab-1dae437e64f9"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 57.84304,
+                "Y": -0.0166686773,
+                "Z": 7.706618
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -0.06877527,
+                "Z": 0.0,
+                "W": 0.9976323
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 1,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "c0e0bb1a-27a1-4cd3-ba20-2c241998b00d"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -22.00894,
+                "Y": -0.0506685972,
+                "Z": -26.3735313
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 2,
+        "UniqueId": "553ae5e8-1a22-4cd6-8284-0f5d77133958"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 25.771059,
+                "Y": -0.42578125,
+                "Z": 28.846468
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 2,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "c11a74f9-beb9-49f2-bfee-ee8d7ee750e6"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 22.64106,
+                "Y": -0.42578125,
+                "Z": -4.693531
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 2,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "3f0fe69f-5c48-4d3f-a7f1-3a07812448a9"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -19.16894,
+                "Y": -0.42578125,
+                "Z": 10.09647
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 2,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "bb2cc847-6f44-435a-bc57-c81d6d82734d"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 22.29106,
+                "Y": -0.42578125,
+                "Z": 27.2964687
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 0,
+        "EastCoverType": 2,
+        "WestCoverType": 0,
+        "UniqueId": "8b2c3112-134d-4c63-af4f-921818bf9c57"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -23.25894,
+                "Y": -0.42578125,
+                "Z": -7.38453054
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 0,
+        "EastCoverType": 2,
+        "WestCoverType": 0,
+        "UniqueId": "8a9e48ad-5c73-45d1-b198-27d792273816"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 56.0948219,
+                "Y": 0.451999962,
+                "Z": 5.2021966
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.06877351,
+                "Z": 0.0,
+                "W": -0.9976324
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 0,
+        "EastCoverType": 1,
+        "WestCoverType": 0,
+        "UniqueId": "a39cf674-e729-4e52-be96-495856826b3c"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -31.2189388,
+                "Y": 11.5742188,
+                "Z": -28.81353
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 2,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 2,
+        "UniqueId": "dd96729b-a1bd-4b9a-8480-f045cc1eb973"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -4.74800062,
+                "Y": -0.0266686678,
+                "Z": 4.336469
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 2.63750553E-06,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 2,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "3d128d51-4276-4c4f-b78b-ccca7635a4c3"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 20.6953239,
+                "Y": -0.0166686773,
+                "Z": -29.1053448
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -2.38418579E-06,
+                "Z": 0.0,
+                "W": -1.00000012
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 2,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "9c252212-1157-4f23-9776-269aa7ee9130"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -27.56894,
+                "Y": -0.42578125,
+                "Z": 27.2964687
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 0,
+        "EastCoverType": 2,
+        "WestCoverType": 0,
+        "UniqueId": "f1f1520d-5130-41e0-a6f4-9b063587e32f"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -3.72800016,
+                "Y": -0.0266686678,
+                "Z": -5.462
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 2,
+        "UniqueId": "b7608a75-0fdf-423d-aada-78ecb6a38ac2"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 19.20106,
+                "Y": -0.42578125,
+                "Z": 5.46646929
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 2,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "641c8c51-d09c-4709-8df2-394165eb64e5"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -58.25819,
+                "Y": -0.0166686773,
+                "Z": -4.08944559
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -0.06877527,
+                "Z": 0.0,
+                "W": 0.9976323
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 1,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "9c127470-1e12-4b93-849e-a76b228408a3"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 19.5110588,
+                "Y": -0.42578125,
+                "Z": -5.13353062
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 2,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "e0cbecb9-19af-4d5b-ab7d-73aca9784445"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -19.899,
+                "Y": -0.0506685972,
+                "Z": 28.565
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 2,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "ec17bf37-07a2-438d-bd00-4fd00ec7e2ed"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -54.438942,
+                "Y": 2.57421875,
+                "Z": -9.263531
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 2,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "e5950e79-f9a2-4c3f-a6b6-5013604e3f99"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -22.46894,
+                "Y": -0.42578125,
+                "Z": -5.8245306
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 2,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "639ecebd-f0cf-4443-a6b0-290b3ecdb3c8"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 5.18106,
+                "Y": -0.0266686678,
+                "Z": -6.392
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 0,
+        "EastCoverType": 2,
+        "WestCoverType": 0,
+        "UniqueId": "765878d8-2fb2-4173-a711-f01bfa695a39"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -20.82894,
+                "Y": -0.0506685972,
+                "Z": -24.93353
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 2,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "c618faf4-9fe1-477f-8a22-3c9dc741d735"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -7.348,
+                "Y": -0.0266686678,
+                "Z": 6.51646948
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 0,
+        "EastCoverType": 2,
+        "WestCoverType": 0,
+        "UniqueId": "3312d50b-44e3-4147-b29e-f40246e639aa"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -14.86894,
+                "Y": 5.57421875,
+                "Z": 12.35647
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 2,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "c5e0c645-0b59-400c-81b8-2588215a1845"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 13.0210571,
+                "Y": 5.57421875,
+                "Z": -12.2535305
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 2,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "21cdda85-cb17-4add-84f9-ed36144d0ef8"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -22.19894,
+                "Y": -0.42578125,
+                "Z": -27.41353
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 2,
+        "UniqueId": "0d2c7f1e-a6e6-47be-8eaa-60dd079db36a"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -10.5589409,
+                "Y": 5.57421875,
+                "Z": 12.3964691
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 2,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "f7cf6a6d-5f12-4ae1-96e8-31b2a300339a"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 22.0600376,
+                "Y": -0.0166686773,
+                "Z": -26.7931042
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -2.8014183E-06,
+                "Z": 0.0,
+                "W": -1.00000012
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 2,
+        "UniqueId": "381fd9f1-a207-4e87-b6bb-7c0a8e6b31bd"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 59.7447357,
+                "Y": -0.0166686773,
+                "Z": 5.59934759
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0687739849,
+                "Z": 0.0,
+                "W": -0.9976323
+            },
+            "Scale": {
+                "X": 1.00000012,
+                "Y": 1.0,
+                "Z": 1.00000012
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 1,
+        "UniqueId": "738bc572-4f7d-45b3-abd8-3246a384b5be"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -57.8941269,
+                "Y": -0.0166686773,
+                "Z": -7.665419
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0687744,
+                "Z": 0.0,
+                "W": -0.9976323
+            },
+            "Scale": {
+                "X": 1.00000012,
+                "Y": 1.0,
+                "Z": 1.00000012
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 1,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "f5454609-5832-4c1f-afa6-3086dd7da814"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -47.2989426,
+                "Y": 2.57421875,
+                "Z": -9.303532
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 2,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "2adc0350-2a7b-4f26-afa3-c00d37be2c9b"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 16.7910576,
+                "Y": -0.0506685972,
+                "Z": -47.4035263
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -1.0,
+                "Z": 0.0,
+                "W": 2.324581E-06
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 2,
+        "UniqueId": "8ef2cabe-e566-46a2-8053-949536872a90"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -18.76894,
+                "Y": -0.42578125,
+                "Z": 6.286469
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 2,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "0bbef9ad-4a08-4420-a2ba-b1822efb7838"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 54.4710579,
+                "Y": 2.57421875,
+                "Z": 9.146469
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 2,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "ba685b33-8b43-42ca-856d-42a5af845b4d"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 59.5989876,
+                "Y": -0.0166686773,
+                "Z": 6.65137434
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0687740147,
+                "Z": 0.0,
+                "W": -0.9976324
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 1,
+        "UniqueId": "0e9e59d9-96fc-4454-a899-66555c7bbfcd"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -24.08894,
+                "Y": -0.42578125,
+                "Z": 28.846468
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 2,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "b4d6db9b-da9c-405f-93bd-c78532f51a70"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -0.138940811,
+                "Y": 8.574219,
+                "Z": 15.056469
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 2,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "5537a468-3998-4857-8f9e-46339a8908ca"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -1.93894053,
+                "Y": 8.574219,
+                "Z": 16.73647
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 2,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "0705657f-52a8-417d-b95e-7a8cfb607e99"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 52.28106,
+                "Y": 2.57421875,
+                "Z": 9.146469
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 2,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "634ff844-b1ae-4148-b458-ee50d560a52a"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 26.8100376,
+                "Y": -0.0166686773,
+                "Z": -26.7931042
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -2.8014183E-06,
+                "Z": 0.0,
+                "W": -1.00000012
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 2,
+        "UniqueId": "ad566387-7a29-4cb3-b10a-cd179c347f2f"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -26.6789417,
+                "Y": -0.42578125,
+                "Z": -25.85353
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 2,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "f6fcca58-3771-44ef-989d-b01c2770c10f"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -19.65894,
+                "Y": -0.0506685972,
+                "Z": -24.93353
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 2,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "c7082e02-6a56-499f-9aa4-bf4ee92af57f"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -16.61894,
+                "Y": -0.0506685972,
+                "Z": 46.2954674
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 2,
+        "UniqueId": "d81b3f50-a133-4b70-a31e-77f25c808c3a"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -24.20894,
+                "Y": 0.554218769,
+                "Z": 25.4564667
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 2,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "41043b28-732b-4e13-8215-6a996bab3512"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 26.81004,
+                "Y": -0.0166686773,
+                "Z": -27.8551788
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -2.83122063E-06,
+                "Z": 0.0,
+                "W": -1.00000012
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 2,
+        "UniqueId": "6431f661-b4e9-4576-8b40-7d5235326900"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 22.06004,
+                "Y": -0.0166686773,
+                "Z": -27.8551788
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": -2.83122063E-06,
+                "Z": 0.0,
+                "W": -1.00000012
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 2,
+        "UniqueId": "09d6b40d-ebf8-458f-a628-31bbb4e64637"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -20.24894,
+                "Y": -0.42578125,
+                "Z": 5.17646933
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 2,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "fbbb6c45-47d4-4c7e-b7a5-4b27a5ec4abd"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": -25.18894,
+                "Y": -0.42578125,
+                "Z": -29.97353
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 2,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "0a9efb40-c0ab-49c4-831b-274d51c9b1d3"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 21.00106,
+                "Y": -0.42578125,
+                "Z": -9.2535305
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+            },
+            "Scale": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 2,
+        "SouthCoverType": 0,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "7e7c3492-be6e-4859-9eed-c7cdb91cb8fa"
+    },
+    {
+        "Transform": {
+            "Position": {
+                "X": 19.6629448,
+                "Y": -0.0166686773,
+                "Z": -25.5132446
+            },
+            "Rotation": {
+                "X": 0.0,
+                "Y": 1.51991844E-06,
+                "Z": 0.0,
+                "W": 1.00000012
+            },
+            "Scale": {
+                "X": 1.00000012,
+                "Y": 1.0,
+                "Z": 1.00000012
+            }
+        },
+        "CoverTeamColor": 3,
+        "NorthCoverType": 0,
+        "SouthCoverType": 2,
+        "EastCoverType": 0,
+        "WestCoverType": 0,
+        "UniqueId": "b99f3ea5-28ec-466c-9d13-198187a14114"
+    }
+]
