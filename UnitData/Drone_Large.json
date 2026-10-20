@@ -1,5 +1,6 @@
 {
     "$type": "Troop",
+    "Invulnerable": false,
     "Name": "Drone_Large",
     "Transform": {
         "Position": {
@@ -808,6 +809,7 @@
         "PilotActionWallRun": false,
         "PilotActionJump": false,
         "PilotActionZipline": false,
-        "SteerToAlignWithFocusPosition": false
+        "SteerToAlignWithFocusPosition": false,
+        "FormationOwner": false
     }
 }

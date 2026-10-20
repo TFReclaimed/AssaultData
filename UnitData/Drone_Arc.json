@@ -1,5 +1,6 @@
 {
     "$type": "Troop",
+    "Invulnerable": false,
     "Name": "Drone_Arc",
     "Transform": {
         "Position": {
@@ -865,6 +866,7 @@
         "PilotActionWallRun": false,
         "PilotActionJump": false,
         "PilotActionZipline": false,
-        "SteerToAlignWithFocusPosition": true
+        "SteerToAlignWithFocusPosition": true,
+        "FormationOwner": false
     }
 }

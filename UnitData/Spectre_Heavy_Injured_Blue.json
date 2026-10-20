@@ -1,5 +1,6 @@
 {
     "$type": "Troop",
+    "Invulnerable": false,
     "Name": "Spectre_Heavy_Injured_Blue",
     "Transform": {
         "Position": {
@@ -1066,6 +1067,7 @@
         "PilotActionWallRun": false,
         "PilotActionJump": true,
         "PilotActionZipline": false,
-        "SteerToAlignWithFocusPosition": false
+        "SteerToAlignWithFocusPosition": false,
+        "FormationOwner": false
     }
 }

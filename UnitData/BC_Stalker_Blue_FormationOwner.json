@@ -1,5 +1,6 @@
 {
     "$type": "Troop",
+    "Invulnerable": true,
     "Name": "BC_Stalker_Blue_FormationOwner",
     "Transform": {
         "Position": {
@@ -1049,6 +1050,7 @@
         "PilotActionWallRun": false,
         "PilotActionJump": false,
         "PilotActionZipline": false,
-        "SteerToAlignWithFocusPosition": false
+        "SteerToAlignWithFocusPosition": false,
+        "FormationOwner": true
     }
 }

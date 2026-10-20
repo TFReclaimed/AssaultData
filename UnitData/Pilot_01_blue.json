@@ -1,5 +1,6 @@
 {
     "$type": "Troop",
+    "Invulnerable": false,
     "Name": "Pilot_01_blue",
     "Transform": {
         "Position": {
@@ -1066,6 +1067,7 @@
         "PilotActionWallRun": true,
         "PilotActionJump": true,
         "PilotActionZipline": true,
-        "SteerToAlignWithFocusPosition": false
+        "SteerToAlignWithFocusPosition": false,
+        "FormationOwner": false
     }
 }
