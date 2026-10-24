@@ -791,6 +791,7 @@
             "Triangles": []
         }
     },
+    "Obstacle": null,
     "Movement": {
         "SteerScanRadius": 5.0,
         "Gravity": 0,

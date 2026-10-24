@@ -112,6 +112,7 @@
                 "Triangles": []
             }
         },
+        "Obstacle": null,
         "Movement": null
     },
     {
@@ -158,6 +159,7 @@
                 "Triangles": []
             }
         },
+        "Obstacle": null,
         "Movement": null
     },
     {
@@ -273,6 +275,7 @@
                 "Triangles": []
             }
         },
+        "Obstacle": null,
         "Movement": null
     },
     {
@@ -319,6 +322,7 @@
                 "Triangles": []
             }
         },
+        "Obstacle": null,
         "Movement": null
     },
     {
@@ -434,6 +438,7 @@
                 "Triangles": []
             }
         },
+        "Obstacle": null,
         "Movement": null
     },
     {
@@ -549,6 +554,7 @@
                 "Triangles": []
             }
         },
+        "Obstacle": null,
         "Movement": null
     },
     {
@@ -595,6 +601,7 @@
                 "Triangles": []
             }
         },
+        "Obstacle": null,
         "Movement": null
     }
 ]

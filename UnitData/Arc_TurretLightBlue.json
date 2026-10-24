@@ -111,5 +111,27 @@
             "Triangles": []
         }
     },
+    "Obstacle": {
+        "Bounds": {
+            "Center": {
+                "X": 0.0,
+                "Y": 0.75,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 1.0,
+                "Y": 1.5,
+                "Z": 1.0
+            }
+        },
+        "BoundsColor": {
+            "R": 195,
+            "G": 7,
+            "B": 7,
+            "A": 102
+        },
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": false
+    },
     "Movement": null
 }

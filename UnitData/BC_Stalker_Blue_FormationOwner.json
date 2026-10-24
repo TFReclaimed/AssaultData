@@ -1032,6 +1032,7 @@
         }
     },
     "Collider": null,
+    "Obstacle": null,
     "Movement": {
         "SteerScanRadius": 2.0,
         "Gravity": -40181,

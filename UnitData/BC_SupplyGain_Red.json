@@ -94,5 +94,6 @@
         }
     },
     "Collider": null,
+    "Obstacle": null,
     "Movement": null
 }

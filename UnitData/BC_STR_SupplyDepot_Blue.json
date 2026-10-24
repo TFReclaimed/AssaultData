@@ -50,5 +50,27 @@
             "Triangles": []
         }
     },
+    "Obstacle": {
+        "Bounds": {
+            "Center": {
+                "X": 0.0,
+                "Y": 3.0,
+                "Z": 0.0
+            },
+            "Size": {
+                "X": 3.0,
+                "Y": 6.2,
+                "Z": 3.0
+            }
+        },
+        "BoundsColor": {
+            "R": 195,
+            "G": 7,
+            "B": 7,
+            "A": 102
+        },
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": false
+    },
     "Movement": null
 }

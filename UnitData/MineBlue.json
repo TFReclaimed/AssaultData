@@ -111,5 +111,6 @@
             "Triangles": []
         }
     },
+    "Obstacle": null,
     "Movement": null
 }

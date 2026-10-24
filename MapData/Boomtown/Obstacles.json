@@ -37,7 +37,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": -6
+        "ExceptionsMask": -6,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (18)",
@@ -77,7 +78,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Walk (23)",
@@ -117,7 +119,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (13)",
@@ -157,7 +160,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 949
+        "ExceptionsMask": 949,
+        "ToggleOnEnable": true
     },
     {
         "Name": "Cover Mesh (23)",
@@ -197,7 +201,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 8
+        "ExceptionsMask": 8,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (5)",
@@ -237,7 +242,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 949
+        "ExceptionsMask": 949,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Walk (18)",
@@ -277,7 +283,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "Cover Mesh (14)",
@@ -317,7 +324,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 8
+        "ExceptionsMask": 8,
+        "ToggleOnEnable": true
     },
     {
         "Name": "Cover Mesh (31)",
@@ -357,7 +365,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 8
+        "ExceptionsMask": 8,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (16)",
@@ -397,7 +406,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "Cover Mesh (13)",
@@ -437,7 +447,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 8
+        "ExceptionsMask": 8,
+        "ToggleOnEnable": true
     },
     {
         "Name": "Cover Mesh (18)",
@@ -477,7 +488,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (2)",
@@ -517,7 +529,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (18)",
@@ -557,7 +570,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 949
+        "ExceptionsMask": 949,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (13)",
@@ -597,7 +611,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan",
@@ -637,7 +652,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 949
+        "ExceptionsMask": 949,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (13)",
@@ -677,7 +693,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 949
+        "ExceptionsMask": 949,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (4)",
@@ -717,7 +734,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 949
+        "ExceptionsMask": 949,
+        "ToggleOnEnable": true
     },
     {
         "Name": "Billboard (1)",
@@ -757,7 +775,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (13)",
@@ -797,7 +816,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": -6
+        "ExceptionsMask": -6,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (16)",
@@ -837,7 +857,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": -6
+        "ExceptionsMask": -6,
+        "ToggleOnEnable": true
     },
     {
         "Name": "no titan floor",
@@ -877,7 +898,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": -9
+        "ExceptionsMask": -9,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Walk (26)",
@@ -917,7 +939,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (21)",
@@ -957,7 +980,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": -9
+        "ExceptionsMask": -9,
+        "ToggleOnEnable": true
     },
     {
         "Name": "no walk (5)",
@@ -997,7 +1021,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (8)",
@@ -1037,7 +1062,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 949
+        "ExceptionsMask": 949,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (17)",
@@ -1077,7 +1103,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (10)",
@@ -1117,7 +1144,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "no titan floor",
@@ -1157,7 +1185,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": -9
+        "ExceptionsMask": -9,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Walk (8)",
@@ -1197,7 +1226,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "Cover Mesh (16)",
@@ -1237,7 +1267,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 8
+        "ExceptionsMask": 8,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Walk (19)",
@@ -1277,7 +1308,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "Cover Mesh (2)",
@@ -1317,7 +1349,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 8
+        "ExceptionsMask": 8,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (16)",
@@ -1357,7 +1390,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 949
+        "ExceptionsMask": 949,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (17)",
@@ -1397,7 +1431,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 949
+        "ExceptionsMask": 949,
+        "ToggleOnEnable": true
     },
     {
         "Name": "Cover Mesh (30)",
@@ -1437,7 +1472,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 8
+        "ExceptionsMask": 8,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Walk (16)",
@@ -1477,7 +1513,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (8)",
@@ -1517,7 +1554,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 949
+        "ExceptionsMask": 949,
+        "ToggleOnEnable": true
     },
     {
         "Name": "Cover Mesh (10)",
@@ -1557,7 +1595,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (11)",
@@ -1597,7 +1636,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Walk (11)",
@@ -1637,7 +1677,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (9)",
@@ -1677,7 +1718,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 949
+        "ExceptionsMask": 949,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (9)",
@@ -1717,7 +1759,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan",
@@ -1757,7 +1800,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 949
+        "ExceptionsMask": 949,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (14)",
@@ -1797,7 +1841,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (16)",
@@ -1837,7 +1882,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 949
+        "ExceptionsMask": 949,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Walk (32)",
@@ -1877,7 +1923,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (5)",
@@ -1917,7 +1964,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 949
+        "ExceptionsMask": 949,
+        "ToggleOnEnable": true
     },
     {
         "Name": "general Roof Bounds (1)",
@@ -1957,7 +2005,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 1015
+        "ExceptionsMask": 1015,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (7)",
@@ -1997,7 +2046,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 949
+        "ExceptionsMask": 949,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (11)",
@@ -2037,7 +2087,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 949
+        "ExceptionsMask": 949,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (18)",
@@ -2077,7 +2128,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 949
+        "ExceptionsMask": 949,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (2)",
@@ -2117,7 +2169,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 949
+        "ExceptionsMask": 949,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (3)",
@@ -2157,7 +2210,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (19)",
@@ -2197,7 +2251,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (18)",
@@ -2237,7 +2292,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "no walk (7)",
@@ -2277,7 +2333,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (16)",
@@ -2317,7 +2374,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (14)",
@@ -2357,7 +2415,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 949
+        "ExceptionsMask": 949,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (15)",
@@ -2397,7 +2456,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": -6
+        "ExceptionsMask": -6,
+        "ToggleOnEnable": true
     },
     {
         "Name": "Cover Mesh (8)",
@@ -2437,7 +2497,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 8
+        "ExceptionsMask": 8,
+        "ToggleOnEnable": true
     },
     {
         "Name": "no walk (3)",
@@ -2477,7 +2538,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (10)",
@@ -2517,7 +2579,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 949
+        "ExceptionsMask": 949,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (15)",
@@ -2557,7 +2620,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 949
+        "ExceptionsMask": 949,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Walk (17)",
@@ -2597,7 +2661,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "no walk (6)",
@@ -2637,7 +2702,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (6)",
@@ -2677,7 +2743,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 949
+        "ExceptionsMask": 949,
+        "ToggleOnEnable": true
     },
     {
         "Name": "no walk (1)",
@@ -2717,7 +2784,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (17)",
@@ -2757,7 +2825,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Walk (4)",
@@ -2797,7 +2866,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (7)",
@@ -2837,7 +2907,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (1)",
@@ -2877,7 +2948,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 949
+        "ExceptionsMask": 949,
+        "ToggleOnEnable": true
     },
     {
         "Name": "Cover Mesh (5)",
@@ -2917,7 +2989,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Walk (21)",
@@ -2957,7 +3030,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "no walk (1)",
@@ -2997,7 +3071,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (14)",
@@ -3037,7 +3112,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 949
+        "ExceptionsMask": 949,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Walk (6)",
@@ -3077,7 +3153,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "no walk (2)",
@@ -3117,7 +3194,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (20)",
@@ -3157,7 +3235,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": -9
+        "ExceptionsMask": -9,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (8)",
@@ -3197,7 +3276,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "no walk (4)",
@@ -3237,7 +3317,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Walk (10)",
@@ -3277,7 +3358,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Walk (35)",
@@ -3317,7 +3399,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "Cover Mesh (9)",
@@ -3357,7 +3440,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "Cover Mesh (9)",
@@ -3397,7 +3481,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 8
+        "ExceptionsMask": 8,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Walk (9)",
@@ -3437,7 +3522,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Walk (22)",
@@ -3477,7 +3563,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (12)",
@@ -3517,7 +3604,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 949
+        "ExceptionsMask": 949,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (14)",
@@ -3557,7 +3645,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 949
+        "ExceptionsMask": 949,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (17)",
@@ -3597,7 +3686,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": -6
+        "ExceptionsMask": -6,
+        "ToggleOnEnable": true
     },
     {
         "Name": "Cover Mesh (3)",
@@ -3637,7 +3727,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 8
+        "ExceptionsMask": 8,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (11)",
@@ -3677,7 +3768,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 949
+        "ExceptionsMask": 949,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Walk (13)",
@@ -3717,7 +3809,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Walk (24)",
@@ -3757,7 +3850,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (23)",
@@ -3797,7 +3891,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": -9
+        "ExceptionsMask": -9,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (15)",
@@ -3837,7 +3932,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (2)",
@@ -3877,7 +3973,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 949
+        "ExceptionsMask": 949,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (6)",
@@ -3917,7 +4014,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 949
+        "ExceptionsMask": 949,
+        "ToggleOnEnable": true
     },
     {
         "Name": "general Roof Bounds (2)",
@@ -3957,7 +4055,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 1015
+        "ExceptionsMask": 1015,
+        "ToggleOnEnable": true
     },
     {
         "Name": "Billboard (1)",
@@ -3997,7 +4096,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (3)",
@@ -4037,7 +4137,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "general Roof Bounds (3)",
@@ -4077,7 +4178,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 1015
+        "ExceptionsMask": 1015,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Walk (14)",
@@ -4117,7 +4219,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (11)",
@@ -4157,7 +4260,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "Cover Mesh (33)",
@@ -4197,7 +4301,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 8
+        "ExceptionsMask": 8,
+        "ToggleOnEnable": true
     },
     {
         "Name": "Cover Mesh (22)",
@@ -4237,7 +4342,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 8
+        "ExceptionsMask": 8,
+        "ToggleOnEnable": true
     },
     {
         "Name": "Cover Mesh (28)",
@@ -4277,7 +4383,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 8
+        "ExceptionsMask": 8,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (1)",
@@ -4317,7 +4424,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (6)",
@@ -4357,7 +4465,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Walk (2)",
@@ -4397,7 +4506,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (18)",
@@ -4437,7 +4547,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": -9
+        "ExceptionsMask": -9,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (12)",
@@ -4477,7 +4588,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 949
+        "ExceptionsMask": 949,
+        "ToggleOnEnable": true
     },
     {
         "Name": "Cover Mesh (20)",
@@ -4517,7 +4629,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 8
+        "ExceptionsMask": 8,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Walk (3)",
@@ -4557,7 +4670,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "Cover Mesh (13)",
@@ -4597,7 +4711,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "no walk",
@@ -4637,7 +4752,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "Cover Mesh",
@@ -4677,7 +4793,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "Cover Mesh (21)",
@@ -4717,7 +4834,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (17)",
@@ -4757,7 +4875,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "temp",
@@ -4797,7 +4916,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "Cover Mesh (4)",
@@ -4837,7 +4957,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 8
+        "ExceptionsMask": 8,
+        "ToggleOnEnable": true
     },
     {
         "Name": "no walk",
@@ -4877,7 +4998,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (13)",
@@ -4917,7 +5039,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "no walk (4)",
@@ -4957,7 +5080,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "Cover Mesh (22)",
@@ -4997,7 +5121,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (3)",
@@ -5037,7 +5162,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 949
+        "ExceptionsMask": 949,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Walk (7)",
@@ -5077,7 +5203,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "Cover Mesh (6)",
@@ -5117,7 +5244,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "Cover Mesh (19)",
@@ -5157,7 +5285,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Walk (12)",
@@ -5197,7 +5326,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Walk (20)",
@@ -5237,7 +5367,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (24)",
@@ -5277,7 +5408,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": -9
+        "ExceptionsMask": -9,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (19)",
@@ -5317,7 +5449,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": -9
+        "ExceptionsMask": -9,
+        "ToggleOnEnable": true
     },
     {
         "Name": "Cover Mesh (20)",
@@ -5357,7 +5490,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (15)",
@@ -5397,7 +5531,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 949
+        "ExceptionsMask": 949,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (19)",
@@ -5437,7 +5572,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 949
+        "ExceptionsMask": 949,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (4)",
@@ -5477,7 +5613,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Walk (25)",
@@ -5517,7 +5654,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "Cover Mesh",
@@ -5557,7 +5695,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 8
+        "ExceptionsMask": 8,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan",
@@ -5597,7 +5736,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Walk (5)",
@@ -5637,7 +5777,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Walk (15)",
@@ -5677,7 +5818,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (16)",
@@ -5717,7 +5859,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 949
+        "ExceptionsMask": 949,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (13)",
@@ -5757,7 +5900,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 949
+        "ExceptionsMask": 949,
+        "ToggleOnEnable": true
     },
     {
         "Name": "Cover Mesh (7)",
@@ -5797,7 +5941,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 8
+        "ExceptionsMask": 8,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (2)",
@@ -5837,7 +5982,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Walk (29)",
@@ -5877,7 +6023,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (17)",
@@ -5917,7 +6064,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": -9
+        "ExceptionsMask": -9,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (8)",
@@ -5957,7 +6105,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "Cover Mesh (18)",
@@ -5997,7 +6146,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 8
+        "ExceptionsMask": 8,
+        "ToggleOnEnable": true
     },
     {
         "Name": "Cover Mesh (11)",
@@ -6037,7 +6187,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "Cover Mesh (34)",
@@ -6077,7 +6228,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 8
+        "ExceptionsMask": 8,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (13)",
@@ -6117,7 +6269,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (17)",
@@ -6157,7 +6310,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 949
+        "ExceptionsMask": 949,
+        "ToggleOnEnable": true
     },
     {
         "Name": "no walk",
@@ -6197,7 +6351,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (3)",
@@ -6237,7 +6392,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 949
+        "ExceptionsMask": 949,
+        "ToggleOnEnable": true
     },
     {
         "Name": "Cover Mesh (12)",
@@ -6277,7 +6433,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "Cover Mesh (6)",
@@ -6317,7 +6474,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 8
+        "ExceptionsMask": 8,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (16)",
@@ -6357,7 +6515,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (9)",
@@ -6397,7 +6556,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 949
+        "ExceptionsMask": 949,
+        "ToggleOnEnable": true
     },
     {
         "Name": "Cover Mesh (1)",
@@ -6437,7 +6597,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 8
+        "ExceptionsMask": 8,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Walk (27)",
@@ -6477,7 +6638,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (12)",
@@ -6517,7 +6679,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "Cover Mesh",
@@ -6557,7 +6720,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Walk (31)",
@@ -6597,7 +6761,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (4)",
@@ -6637,7 +6802,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Walk (30)",
@@ -6677,7 +6843,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "Cover Mesh (15)",
@@ -6717,7 +6884,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 8
+        "ExceptionsMask": 8,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Walk (33)",
@@ -6757,7 +6925,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (5)",
@@ -6797,7 +6966,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "Cover Mesh (15)",
@@ -6837,7 +7007,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "Cover Mesh (24)",
@@ -6877,7 +7048,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "Cover Mesh (26)",
@@ -6917,7 +7089,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 8
+        "ExceptionsMask": 8,
+        "ToggleOnEnable": true
     },
     {
         "Name": "Cover Mesh (24)",
@@ -6957,7 +7130,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 8
+        "ExceptionsMask": 8,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (15)",
@@ -6997,7 +7171,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (12)",
@@ -7037,7 +7212,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "Cover Mesh (25)",
@@ -7077,7 +7253,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 8
+        "ExceptionsMask": 8,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (5)",
@@ -7117,7 +7294,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (1)",
@@ -7157,7 +7335,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (14)",
@@ -7197,7 +7376,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (17)",
@@ -7237,7 +7417,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 949
+        "ExceptionsMask": 949,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (7)",
@@ -7277,7 +7458,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 949
+        "ExceptionsMask": 949,
+        "ToggleOnEnable": true
     },
     {
         "Name": "Cover Mesh (11)",
@@ -7317,7 +7499,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 8
+        "ExceptionsMask": 8,
+        "ToggleOnEnable": true
     },
     {
         "Name": "no walk (3)",
@@ -7357,7 +7540,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (14)",
@@ -7397,7 +7581,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (7)",
@@ -7437,7 +7622,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "Cover Mesh (14)",
@@ -7477,7 +7663,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "Cover Mesh (19)",
@@ -7517,7 +7704,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 8
+        "ExceptionsMask": 8,
+        "ToggleOnEnable": true
     },
     {
         "Name": "Cover Mesh (23)",
@@ -7557,7 +7745,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "Cover Mesh (29)",
@@ -7597,7 +7786,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 8
+        "ExceptionsMask": 8,
+        "ToggleOnEnable": true
     },
     {
         "Name": "no walk (2)",
@@ -7637,7 +7827,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Walk (34)",
@@ -7677,7 +7868,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "Cover Mesh (21)",
@@ -7717,7 +7909,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 8
+        "ExceptionsMask": 8,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (10)",
@@ -7757,7 +7950,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "Cover Mesh (27)",
@@ -7797,7 +7991,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 8
+        "ExceptionsMask": 8,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (6)",
@@ -7837,7 +8032,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (22)",
@@ -7877,7 +8073,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": -9
+        "ExceptionsMask": -9,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (9)",
@@ -7917,7 +8114,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "Cover Mesh (32)",
@@ -7957,7 +8155,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 8
+        "ExceptionsMask": 8,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (4)",
@@ -7997,7 +8196,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 949
+        "ExceptionsMask": 949,
+        "ToggleOnEnable": true
     },
     {
         "Name": "BLOCKER",
@@ -8037,7 +8237,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (15)",
@@ -8077,7 +8278,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 949
+        "ExceptionsMask": 949,
+        "ToggleOnEnable": true
     },
     {
         "Name": "no walk",
@@ -8117,7 +8319,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (1)",
@@ -8157,7 +8360,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 949
+        "ExceptionsMask": 949,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (16)",
@@ -8197,7 +8401,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": -9
+        "ExceptionsMask": -9,
+        "ToggleOnEnable": true
     },
     {
         "Name": "temp (1)",
@@ -8237,7 +8442,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (19)",
@@ -8277,7 +8483,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 949
+        "ExceptionsMask": 949,
+        "ToggleOnEnable": true
     },
     {
         "Name": "Cover Mesh (2)",
@@ -8317,7 +8524,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 8
+        "ExceptionsMask": 8,
+        "ToggleOnEnable": true
     },
     {
         "Name": "Cover Mesh (12)",
@@ -8357,7 +8565,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 8
+        "ExceptionsMask": 8,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Walk (28)",
@@ -8397,7 +8606,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "no walk (1)",
@@ -8437,7 +8647,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (19)",
@@ -8477,7 +8688,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "no walk (5)",
@@ -8517,7 +8729,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (15)",
@@ -8557,7 +8770,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     },
     {
         "Name": "general Roof Bounds",
@@ -8597,7 +8811,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 1015
+        "ExceptionsMask": 1015,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan (10)",
@@ -8637,7 +8852,8 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 949
+        "ExceptionsMask": 949,
+        "ToggleOnEnable": true
     },
     {
         "Name": "No Titan",
@@ -8677,6 +8893,7 @@
             "B": 0,
             "A": 102
         },
-        "ExceptionsMask": 0
+        "ExceptionsMask": 0,
+        "ToggleOnEnable": true
     }
 ]
