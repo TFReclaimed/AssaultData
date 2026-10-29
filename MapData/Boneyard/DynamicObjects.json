@@ -1,0 +1,136 @@
+[
+    {
+        "Name": "Phase_2_Shield_Power_Down",
+        "ActivateAtTime": 120.0,
+        "DurationTime": 30.0,
+        "PhysicsBodies": [],
+        "Obstacles": [],
+        "CoverNodes": [],
+        "Portals": [],
+        "Effects": [],
+        "BombShelters": [],
+        "UnitDeploymentBounds": []
+    },
+    {
+        "Name": "Until Phase 2 - 2 Minutes",
+        "ActivateAtTime": 0.0,
+        "DurationTime": 120.0,
+        "PhysicsBodies": [
+            {
+                "Transform": {
+                    "Position": {
+                        "X": 0.947509766,
+                        "Y": 8.650002,
+                        "Z": 1.78144073
+                    },
+                    "Rotation": {
+                        "X": 0.0,
+                        "Y": -0.707105041,
+                        "Z": 0.0,
+                        "W": 0.7071085
+                    },
+                    "Scale": {
+                        "X": 37.9999847,
+                        "Y": 1.0,
+                        "Z": 24.9999924
+                    }
+                },
+                "Layer": 12,
+                "Collider": {
+                    "Type": "Box",
+                    "Offset": {
+                        "X": 0.0,
+                        "Y": 0.0,
+                        "Z": 0.0
+                    },
+                    "Size": {
+                        "X": 18.9999924,
+                        "Y": 0.5,
+                        "Z": 12.4999962
+                    },
+                    "Vertices": [],
+                    "Triangles": []
+                }
+            },
+            {
+                "Transform": {
+                    "Position": {
+                        "X": 0.9474945,
+                        "Y": 8.650002,
+                        "Z": 1.78144836
+                    },
+                    "Rotation": {
+                        "X": 0.0,
+                        "Y": -0.707105041,
+                        "Z": 0.0,
+                        "W": 0.7071085
+                    },
+                    "Scale": {
+                        "X": 37.9999542,
+                        "Y": 1.0,
+                        "Z": 24.9999714
+                    }
+                },
+                "Layer": 26,
+                "Collider": {
+                    "Type": "Box",
+                    "Offset": {
+                        "X": 0.0,
+                        "Y": 0.0,
+                        "Z": 0.0
+                    },
+                    "Size": {
+                        "X": 18.9999771,
+                        "Y": 0.5,
+                        "Z": 12.4999857
+                    },
+                    "Vertices": [],
+                    "Triangles": []
+                }
+            }
+        ],
+        "Obstacles": [],
+        "CoverNodes": [],
+        "Portals": [],
+        "Effects": [],
+        "BombShelters": [
+            {
+                "Transform": {
+                    "Position": {
+                        "X": 0.9500046,
+                        "Y": 4.558571,
+                        "Z": 1.56998825
+                    },
+                    "Rotation": {
+                        "X": 0.0,
+                        "Y": 0.7071068,
+                        "Z": 0.0,
+                        "W": 0.7071067
+                    },
+                    "Scale": {
+                        "X": 37.9999847,
+                        "Y": 9.571956,
+                        "Z": 24.9999924
+                    }
+                },
+                "Layer": 0,
+                "Collider": {
+                    "Type": "Box",
+                    "Offset": {
+                        "X": 0.0,
+                        "Y": 0.0,
+                        "Z": 0.0
+                    },
+                    "Size": {
+                        "X": 18.9999924,
+                        "Y": 4.785978,
+                        "Z": 12.4999962
+                    },
+                    "Vertices": [],
+                    "Triangles": []
+                }
+            }
+        ],
+        "UnitDeploymentBounds": []
+    }
+]

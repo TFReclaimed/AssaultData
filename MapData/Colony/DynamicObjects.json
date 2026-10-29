@@ -1,0 +1,510 @@
+[
+    {
+        "Name": "V1",
+        "ActivateAtTime": 0.0,
+        "DurationTime": 120.0,
+        "PhysicsBodies": [
+            {
+                "Transform": {
+                    "Position": {
+                        "X": 9.377494,
+                        "Y": 6.0,
+                        "Z": -55.19854
+                    },
+                    "Rotation": {
+                        "X": 0.0,
+                        "Y": 1.937151E-06,
+                        "Z": 0.0,
+                        "W": 1.0
+                    },
+                    "Scale": {
+                        "X": 19.9999924,
+                        "Y": 6.0,
+                        "Z": 2.0
+                    }
+                },
+                "Layer": 10,
+                "Collider": {
+                    "Type": "Box",
+                    "Offset": {
+                        "X": 0.0,
+                        "Y": 0.0,
+                        "Z": 0.0
+                    },
+                    "Size": {
+                        "X": 9.999996,
+                        "Y": 3.0,
+                        "Z": 1.0
+                    },
+                    "Vertices": [],
+                    "Triangles": []
+                }
+            },
+            {
+                "Transform": {
+                    "Position": {
+                        "X": -10.12249,
+                        "Y": 6.0,
+                        "Z": -55.198555
+                    },
+                    "Rotation": {
+                        "X": 0.0,
+                        "Y": -8.940697E-08,
+                        "Z": 0.0,
+                        "W": -1.0
+                    },
+                    "Scale": {
+                        "X": 19.0,
+                        "Y": 6.0,
+                        "Z": 2.0
+                    }
+                },
+                "Layer": 10,
+                "Collider": {
+                    "Type": "Box",
+                    "Offset": {
+                        "X": 0.0,
+                        "Y": 0.0,
+                        "Z": 0.0
+                    },
+                    "Size": {
+                        "X": 9.5,
+                        "Y": 3.0,
+                        "Z": 1.0
+                    },
+                    "Vertices": [],
+                    "Triangles": []
+                }
+            }
+        ],
+        "Obstacles": [
+            {
+                "Name": "3_Story (28)",
+                "Transform": {
+                    "Position": {
+                        "X": 9.377494,
+                        "Y": 6.0,
+                        "Z": -55.19854
+                    },
+                    "Rotation": {
+                        "X": 0.0,
+                        "Y": 1.937151E-06,
+                        "Z": 0.0,
+                        "W": 1.0
+                    },
+                    "Scale": {
+                        "X": 19.9999924,
+                        "Y": 6.0,
+                        "Z": 2.0
+                    }
+                },
+                "Bounds": {
+                    "Center": {
+                        "X": 0.0,
+                        "Y": 0.0,
+                        "Z": 0.0
+                    },
+                    "Size": {
+                        "X": 1.1,
+                        "Y": 2.0,
+                        "Z": 2.4
+                    }
+                },
+                "BoundsColor": {
+                    "R": 0,
+                    "G": 255,
+                    "B": 0,
+                    "A": 102
+                },
+                "ExceptionsMask": 933,
+                "ToggleOnEnable": true
+            },
+            {
+                "Name": "3_Story (29)",
+                "Transform": {
+                    "Position": {
+                        "X": -10.12249,
+                        "Y": 6.0,
+                        "Z": -55.198555
+                    },
+                    "Rotation": {
+                        "X": 0.0,
+                        "Y": -8.940697E-08,
+                        "Z": 0.0,
+                        "W": -1.0
+                    },
+                    "Scale": {
+                        "X": 19.0,
+                        "Y": 6.0,
+                        "Z": 2.0
+                    }
+                },
+                "Bounds": {
+                    "Center": {
+                        "X": 0.0,
+                        "Y": 0.0,
+                        "Z": 0.0
+                    },
+                    "Size": {
+                        "X": 1.1,
+                        "Y": 2.0,
+                        "Z": 2.4
+                    }
+                },
+                "BoundsColor": {
+                    "R": 0,
+                    "G": 255,
+                    "B": 0,
+                    "A": 102
+                },
+                "ExceptionsMask": 933,
+                "ToggleOnEnable": true
+            },
+            {
+                "Name": "no walk (1)",
+                "Transform": {
+                    "Position": {
+                        "X": -0.26,
+                        "Y": 3.699997,
+                        "Z": -60.87
+                    },
+                    "Rotation": {
+                        "X": 0.0,
+                        "Y": 0.7071068,
+                        "Z": 0.0,
+                        "W": 0.7071067
+                    },
+                    "Scale": {
+                        "X": 6.638788,
+                        "Y": 25.1099987,
+                        "Z": 14.5499849
+                    }
+                },
+                "Bounds": {
+                    "Center": {
+                        "X": 0.0,
+                        "Y": 0.0,
+                        "Z": 0.0
+                    },
+                    "Size": {
+                        "X": 2.0,
+                        "Y": 2.0,
+                        "Z": 2.0
+                    }
+                },
+                "BoundsColor": {
+                    "R": 0,
+                    "G": 255,
+                    "B": 0,
+                    "A": 102
+                },
+                "ExceptionsMask": 0,
+                "ToggleOnEnable": true
+            },
+            {
+                "Name": "no walk (2)",
+                "Transform": {
+                    "Position": {
+                        "X": -0.26,
+                        "Y": 3.699997,
+                        "Z": -80.82
+                    },
+                    "Rotation": {
+                        "X": 0.0,
+                        "Y": 0.7071068,
+                        "Z": 0.0,
+                        "W": 0.7071067
+                    },
+                    "Scale": {
+                        "X": 5.475287,
+                        "Y": 25.1099987,
+                        "Z": 14.549983
+                    }
+                },
+                "Bounds": {
+                    "Center": {
+                        "X": 0.0,
+                        "Y": 0.0,
+                        "Z": 0.0
+                    },
+                    "Size": {
+                        "X": 2.0,
+                        "Y": 2.0,
+                        "Z": 2.0
+                    }
+                },
+                "BoundsColor": {
+                    "R": 0,
+                    "G": 255,
+                    "B": 0,
+                    "A": 102
+                },
+                "ExceptionsMask": 0,
+                "ToggleOnEnable": true
+            }
+        ],
+        "CoverNodes": [],
+        "Portals": [],
+        "Effects": [],
+        "BombShelters": [],
+        "UnitDeploymentBounds": []
+    },
+    {
+        "Name": "1:30 left - Hardpoint Destroyed/Flood Occurs",
+        "ActivateAtTime": 150.0,
+        "DurationTime": 0.0,
+        "PhysicsBodies": [],
+        "Obstacles": [],
+        "CoverNodes": [],
+        "Portals": [],
+        "Effects": [
+            {
+                "Name": "Spawn slowdown on bridge",
+                "Location": {
+                    "Position": {
+                        "X": -0.35,
+                        "Y": 3.73,
+                        "Z": -71.98
+                    },
+                    "Rotation": {
+                        "X": 0.0,
+                        "Y": 0.0,
+                        "Z": 0.0,
+                        "W": 1.0
+                    },
+                    "Scale": {
+                        "X": 1.0,
+                        "Y": 1.0,
+                        "Z": 1.0
+                    }
+                },
+                "EffectId": "MAP_Colony_FloodSlow"
+            },
+            {
+                "Name": "spawn slowdown on hardpoint",
+                "Location": {
+                    "Position": {
+                        "X": -1.15,
+                        "Y": 3.73,
+                        "Z": -41.68
+                    },
+                    "Rotation": {
+                        "X": 0.0,
+                        "Y": 0.0,
+                        "Z": 0.0,
+                        "W": 1.0
+                    },
+                    "Scale": {
+                        "X": 1.0,
+                        "Y": 1.0,
+                        "Z": 1.0
+                    }
+                },
+                "EffectId": "MAP_Colony_FloodSlow"
+            },
+            {
+                "Name": "Spawn Arcstrike",
+                "Location": {
+                    "Position": {
+                        "X": -1.15,
+                        "Y": 3.73,
+                        "Z": -41.68
+                    },
+                    "Rotation": {
+                        "X": 0.0,
+                        "Y": 0.0,
+                        "Z": 0.0,
+                        "W": 1.0
+                    },
+                    "Scale": {
+                        "X": 1.0,
+                        "Y": 1.0,
+                        "Z": 1.0
+                    }
+                },
+                "EffectId": "ArcStrike_FF"
+            }
+        ],
+        "BombShelters": [],
+        "UnitDeploymentBounds": []
+    },
+    {
+        "Name": "V2",
+        "ActivateAtTime": 120.0,
+        "DurationTime": 0.0,
+        "PhysicsBodies": [],
+        "Obstacles": [
+            {
+                "Name": "no walk (1)",
+                "Transform": {
+                    "Position": {
+                        "X": -0.26,
+                        "Y": 3.699997,
+                        "Z": -60.87
+                    },
+                    "Rotation": {
+                        "X": 0.0,
+                        "Y": 0.7071068,
+                        "Z": 0.0,
+                        "W": 0.7071067
+                    },
+                    "Scale": {
+                        "X": 6.638788,
+                        "Y": 25.1099987,
+                        "Z": 14.5499859
+                    }
+                },
+                "Bounds": {
+                    "Center": {
+                        "X": 0.0,
+                        "Y": 0.0,
+                        "Z": 0.0
+                    },
+                    "Size": {
+                        "X": 2.0,
+                        "Y": 2.0,
+                        "Z": 2.0
+                    }
+                },
+                "BoundsColor": {
+                    "R": 0,
+                    "G": 255,
+                    "B": 0,
+                    "A": 102
+                },
+                "ExceptionsMask": 0,
+                "ToggleOnEnable": true
+            },
+            {
+                "Name": "no walk (2)",
+                "Transform": {
+                    "Position": {
+                        "X": -0.26,
+                        "Y": 3.699997,
+                        "Z": -80.82
+                    },
+                    "Rotation": {
+                        "X": 0.0,
+                        "Y": 0.7071068,
+                        "Z": 0.0,
+                        "W": 0.7071067
+                    },
+                    "Scale": {
+                        "X": 5.475287,
+                        "Y": 25.1099987,
+                        "Z": 14.549984
+                    }
+                },
+                "Bounds": {
+                    "Center": {
+                        "X": 0.0,
+                        "Y": 0.0,
+                        "Z": 0.0
+                    },
+                    "Size": {
+                        "X": 2.0,
+                        "Y": 2.0,
+                        "Z": 2.0
+                    }
+                },
+                "BoundsColor": {
+                    "R": 0,
+                    "G": 255,
+                    "B": 0,
+                    "A": 102
+                },
+                "ExceptionsMask": 0,
+                "ToggleOnEnable": true
+            }
+        ],
+        "CoverNodes": [],
+        "Portals": [],
+        "Effects": [],
+        "BombShelters": [],
+        "UnitDeploymentBounds": []
+    },
+    {
+        "Name": "1:45 left - Alarms/Lights go off",
+        "ActivateAtTime": 135.0,
+        "DurationTime": 0.0,
+        "PhysicsBodies": [],
+        "Obstacles": [],
+        "CoverNodes": [],
+        "Portals": [],
+        "Effects": [],
+        "BombShelters": [],
+        "UnitDeploymentBounds": []
+    },
+    {
+        "Name": "3D_Colony_WaterFoam",
+        "ActivateAtTime": 151.0,
+        "DurationTime": 0.0,
+        "PhysicsBodies": [],
+        "Obstacles": [],
+        "CoverNodes": [],
+        "Portals": [],
+        "Effects": [],
+        "BombShelters": [],
+        "UnitDeploymentBounds": []
+    },
+    {
+        "Name": "2:15 Left",
+        "ActivateAtTime": 120.0,
+        "DurationTime": 0.0,
+        "PhysicsBodies": [],
+        "Obstacles": [],
+        "CoverNodes": [],
+        "Portals": [],
+        "Effects": [],
+        "BombShelters": [],
+        "UnitDeploymentBounds": []
+    },
+    {
+        "Name": "3D_Colony_WaterFront",
+        "ActivateAtTime": 151.05,
+        "DurationTime": 0.0,
+        "PhysicsBodies": [],
+        "Obstacles": [],
+        "CoverNodes": [],
+        "Portals": [],
+        "Effects": [],
+        "BombShelters": [],
+        "UnitDeploymentBounds": []
+    },
+    {
+        "Name": "1:27 - Electric  FX",
+        "ActivateAtTime": 153.0,
+        "DurationTime": 0.0,
+        "PhysicsBodies": [],
+        "Obstacles": [],
+        "CoverNodes": [],
+        "Portals": [],
+        "Effects": [],
+        "BombShelters": [],
+        "UnitDeploymentBounds": []
+    },
+    {
+        "Name": "Colony_WaterFALL",
+        "ActivateAtTime": 150.25,
+        "DurationTime": 0.0,
+        "PhysicsBodies": [],
+        "Obstacles": [],
+        "CoverNodes": [],
+        "Portals": [],
+        "Effects": [],
+        "BombShelters": [],
+        "UnitDeploymentBounds": []
+    },
+    {
+        "Name": "Weather_Animation",
+        "ActivateAtTime": 0.0,
+        "DurationTime": 0.0,
+        "PhysicsBodies": [],
+        "Obstacles": [],
+        "CoverNodes": [],
+        "Portals": [],
+        "Effects": [],
+        "BombShelters": [],
+        "UnitDeploymentBounds": []
+    }
+]

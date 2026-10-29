@@ -4331,51 +4331,6 @@
                     "Type": "Box",
                     "Offset": {},
                     "Size": {
-                        "X": 18.9999924,
-                        "Y": 4.785978,
-                        "Z": 12.4999962
-                    },
-                    "Vertices": [],
-                    "Triangles": []
-                }
-            ]
-        },
-        {
-            "Colliders": [
-                {
-                    "Type": "Box",
-                    "Offset": {},
-                    "Size": {
-                        "X": 18.9999924,
-                        "Y": 0.5,
-                        "Z": 12.4999962
-                    },
-                    "Vertices": [],
-                    "Triangles": []
-                }
-            ]
-        },
-        {
-            "Colliders": [
-                {
-                    "Type": "Box",
-                    "Offset": {},
-                    "Size": {
-                        "X": 18.9999771,
-                        "Y": 0.5,
-                        "Z": 12.4999857
-                    },
-                    "Vertices": [],
-                    "Triangles": []
-                }
-            ]
-        },
-        {
-            "Colliders": [
-                {
-                    "Type": "Box",
-                    "Offset": {},
-                    "Size": {
                         "X": 2.499999,
                         "Y": 0.5,
                         "Z": 2.499999
@@ -9948,49 +9903,8 @@
             }
         },
         {
-            "Name": "Bomb Shelter (1)",
-            "ShapeId": 135,
-            "Position": {
-                "X": 0.9500046,
-                "Y": 4.558571,
-                "Z": 1.56998825
-            },
-            "Rotation": {
-                "Y": 0.7071068,
-                "W": 0.7071067
-            }
-        },
-        {
-            "Name": "los (2)",
-            "ShapeId": 136,
-            "Layer": 12,
-            "Position": {
-                "X": 0.947509766,
-                "Y": 8.650002,
-                "Z": 1.78144073
-            },
-            "Rotation": {
-                "Y": -0.707105041,
-                "W": 0.7071085
-            }
-        },
-        {
-            "Name": "los (3)",
-            "ShapeId": 137,
-            "Layer": 26,
-            "Position": {
-                "X": 0.9474945,
-                "Y": 8.650002,
-                "Z": 1.78144836
-            },
-            "Rotation": {
-                "Y": -0.707105041,
-                "W": 0.7071085
-            }
-        },
-        {
             "Name": "Objective1",
-            "ShapeId": 138,
+            "ShapeId": 135,
             "Layer": 12,
             "Position": {
                 "X": 25.5819778,
@@ -10004,7 +9918,7 @@
         },
         {
             "Name": "Objective2",
-            "ShapeId": 139,
+            "ShapeId": 136,
             "Layer": 12,
             "Position": {
                 "X": 0.821983337,
@@ -10018,7 +9932,7 @@
         },
         {
             "Name": "Objective3",
-            "ShapeId": 139,
+            "ShapeId": 136,
             "Layer": 12,
             "Position": {
                 "X": -23.32801,
@@ -10032,7 +9946,7 @@
         },
         {
             "Name": "Max Floor",
-            "ShapeId": 140,
+            "ShapeId": 137,
             "Layer": 17,
             "Position": {
                 "X": 1.06415558,
@@ -10046,7 +9960,7 @@
         },
         {
             "Name": "cover mesh",
-            "ShapeId": 141,
+            "ShapeId": 138,
             "Layer": 16,
             "Position": {
                 "X": 26.0995483,
@@ -10060,7 +9974,7 @@
         },
         {
             "Name": "cover mesh",
-            "ShapeId": 142,
+            "ShapeId": 139,
             "Layer": 16,
             "Position": {
                 "X": 28.59755,
@@ -10074,7 +9988,7 @@
         },
         {
             "Name": "cover mesh",
-            "ShapeId": 141,
+            "ShapeId": 138,
             "Layer": 16,
             "Position": {
                 "X": -26.432457,
@@ -10088,7 +10002,7 @@
         },
         {
             "Name": "cover mesh",
-            "ShapeId": 141,
+            "ShapeId": 138,
             "Layer": 16,
             "Position": {
                 "X": -23.932457,
@@ -10102,7 +10016,7 @@
         },
         {
             "Name": "3_Story (24)",
-            "ShapeId": 143,
+            "ShapeId": 140,
             "Layer": 10,
             "Position": {
                 "X": -11.0824738,
@@ -10116,7 +10030,7 @@
         },
         {
             "Name": "3_Story (25)",
-            "ShapeId": 144,
+            "ShapeId": 141,
             "Layer": 10,
             "Position": {
                 "X": 12.9175262,
@@ -10130,7 +10044,7 @@
         },
         {
             "Name": "3_Story (26)",
-            "ShapeId": 145,
+            "ShapeId": 142,
             "Layer": 10,
             "Position": {
                 "X": 12.9175262,
@@ -10144,7 +10058,7 @@
         },
         {
             "Name": "3_Story (27)",
-            "ShapeId": 146,
+            "ShapeId": 143,
             "Layer": 10,
             "Position": {
                 "X": -11.0824738,
@@ -10158,7 +10072,7 @@
         },
         {
             "Name": "3_Story (28)",
-            "ShapeId": 147,
+            "ShapeId": 144,
             "Layer": 10,
             "Position": {
                 "X": -11.0824738,
@@ -10172,7 +10086,7 @@
         },
         {
             "Name": "3_Story (29)",
-            "ShapeId": 148,
+            "ShapeId": 145,
             "Layer": 10,
             "Position": {
                 "X": -11.0824738,
@@ -10186,7 +10100,7 @@
         },
         {
             "Name": "3_Story (30)",
-            "ShapeId": 149,
+            "ShapeId": 146,
             "Layer": 10,
             "Position": {
                 "X": 12.9175262,
@@ -10200,7 +10114,7 @@
         },
         {
             "Name": "3_Story (31)",
-            "ShapeId": 150,
+            "ShapeId": 147,
             "Layer": 10,
             "Position": {
                 "X": 12.9175262,
@@ -10214,7 +10128,7 @@
         },
         {
             "Name": "los (3)",
-            "ShapeId": 151,
+            "ShapeId": 148,
             "Layer": 10,
             "Position": {
                 "X": -11.0825043,
@@ -10228,7 +10142,7 @@
         },
         {
             "Name": "los (4)",
-            "ShapeId": 152,
+            "ShapeId": 149,
             "Layer": 10,
             "Position": {
                 "X": 12.9175262,
@@ -10242,7 +10156,7 @@
         },
         {
             "Name": "los (5)",
-            "ShapeId": 153,
+            "ShapeId": 150,
             "Layer": 10,
             "Position": {
                 "X": 12.9175262,
@@ -10256,7 +10170,7 @@
         },
         {
             "Name": "los (6)",
-            "ShapeId": 154,
+            "ShapeId": 151,
             "Layer": 10,
             "Position": {
                 "X": -11.0824738,
@@ -10270,7 +10184,7 @@
         },
         {
             "Name": "3_Story (29)",
-            "ShapeId": 155,
+            "ShapeId": 152,
             "Layer": 10,
             "Position": {
                 "X": -42.1723862,
@@ -10284,7 +10198,7 @@
         },
         {
             "Name": "3_Story (30)",
-            "ShapeId": 155,
+            "ShapeId": 152,
             "Layer": 10,
             "Position": {
                 "X": -42.17248,
@@ -10298,7 +10212,7 @@
         },
         {
             "Name": "3_Story (31)",
-            "ShapeId": 156,
+            "ShapeId": 153,
             "Layer": 10,
             "Position": {
                 "X": -39.172348,
@@ -10312,7 +10226,7 @@
         },
         {
             "Name": "3_Story (32)",
-            "ShapeId": 156,
+            "ShapeId": 153,
             "Layer": 10,
             "Position": {
                 "X": -39.1725273,
@@ -10326,7 +10240,7 @@
         },
         {
             "Name": "3_Story (33)",
-            "ShapeId": 155,
+            "ShapeId": 152,
             "Layer": 10,
             "Position": {
                 "X": -42.17248,
@@ -10340,7 +10254,7 @@
         },
         {
             "Name": "3_Story (34)",
-            "ShapeId": 155,
+            "ShapeId": 152,
             "Layer": 10,
             "Position": {
                 "X": -42.1723862,
@@ -10354,7 +10268,7 @@
         },
         {
             "Name": "3_Story (35)",
-            "ShapeId": 156,
+            "ShapeId": 153,
             "Layer": 10,
             "Position": {
                 "X": -39.172348,
@@ -10368,7 +10282,7 @@
         },
         {
             "Name": "3_Story (36)",
-            "ShapeId": 156,
+            "ShapeId": 153,
             "Layer": 10,
             "Position": {
                 "X": -39.1725273,
@@ -10382,7 +10296,7 @@
         },
         {
             "Name": "3_Story (37)",
-            "ShapeId": 156,
+            "ShapeId": 153,
             "Layer": 16,
             "Position": {
                 "X": -39.1725273,
@@ -10396,7 +10310,7 @@
         },
         {
             "Name": "3_Story (38)",
-            "ShapeId": 156,
+            "ShapeId": 153,
             "Layer": 10,
             "Position": {
                 "X": -39.172348,
@@ -10410,7 +10324,7 @@
         },
         {
             "Name": "3_Story (39)",
-            "ShapeId": 155,
+            "ShapeId": 152,
             "Layer": 10,
             "Position": {
                 "X": -43.1723862,
@@ -10424,7 +10338,7 @@
         },
         {
             "Name": "3_Story (40)",
-            "ShapeId": 155,
+            "ShapeId": 152,
             "Layer": 10,
             "Position": {
                 "X": -43.17248,
@@ -10438,7 +10352,7 @@
         },
         {
             "Name": "3_Story (41)",
-            "ShapeId": 155,
+            "ShapeId": 152,
             "Layer": 10,
             "Position": {
                 "X": -42.17248,
@@ -10452,7 +10366,7 @@
         },
         {
             "Name": "3_Story (42)",
-            "ShapeId": 155,
+            "ShapeId": 152,
             "Layer": 10,
             "Position": {
                 "X": -42.1723862,
@@ -10466,7 +10380,7 @@
         },
         {
             "Name": "3_Story (43)",
-            "ShapeId": 156,
+            "ShapeId": 153,
             "Layer": 16,
             "Position": {
                 "X": -39.172348,
@@ -10480,7 +10394,7 @@
         },
         {
             "Name": "3_Story (44)",
-            "ShapeId": 156,
+            "ShapeId": 153,
             "Layer": 10,
             "Position": {
                 "X": -39.1725273,
@@ -10494,7 +10408,7 @@
         },
         {
             "Name": "3_Story (45)",
-            "ShapeId": 155,
+            "ShapeId": 152,
             "Layer": 10,
             "Position": {
                 "X": -43.1723862,
@@ -10508,7 +10422,7 @@
         },
         {
             "Name": "3_Story (46)",
-            "ShapeId": 155,
+            "ShapeId": 152,
             "Layer": 10,
             "Position": {
                 "X": -43.17248,
@@ -10522,7 +10436,7 @@
         },
         {
             "Name": "3_Story (29)",
-            "ShapeId": 155,
+            "ShapeId": 152,
             "Layer": 10,
             "Position": {
                 "X": 43.79753,
@@ -10536,7 +10450,7 @@
         },
         {
             "Name": "3_Story (30)",
-            "ShapeId": 155,
+            "ShapeId": 152,
             "Layer": 10,
             "Position": {
                 "X": 43.7975464,
@@ -10550,7 +10464,7 @@
         },
         {
             "Name": "3_Story (31)",
-            "ShapeId": 156,
+            "ShapeId": 153,
             "Layer": 10,
             "Position": {
                 "X": 40.79753,
@@ -10564,7 +10478,7 @@
         },
         {
             "Name": "3_Story (32)",
-            "ShapeId": 156,
+            "ShapeId": 153,
             "Layer": 10,
             "Position": {
                 "X": 40.7975464,
@@ -10578,7 +10492,7 @@
         },
         {
             "Name": "3_Story (33)",
-            "ShapeId": 156,
+            "ShapeId": 153,
             "Layer": 16,
             "Position": {
                 "X": 40.7975464,
@@ -10592,7 +10506,7 @@
         },
         {
             "Name": "3_Story (34)",
-            "ShapeId": 155,
+            "ShapeId": 152,
             "Layer": 10,
             "Position": {
                 "X": 43.79753,
@@ -10606,7 +10520,7 @@
         },
         {
             "Name": "3_Story (35)",
-            "ShapeId": 156,
+            "ShapeId": 153,
             "Layer": 16,
             "Position": {
                 "X": 40.79753,
@@ -10620,7 +10534,7 @@
         },
         {
             "Name": "3_Story (36)",
-            "ShapeId": 155,
+            "ShapeId": 152,
             "Layer": 10,
             "Position": {
                 "X": 43.7975464,
@@ -10634,7 +10548,7 @@
         },
         {
             "Name": "3_Story (37)",
-            "ShapeId": 155,
+            "ShapeId": 152,
             "Layer": 10,
             "Position": {
                 "X": 44.79753,
@@ -10648,7 +10562,7 @@
         },
         {
             "Name": "3_Story (38)",
-            "ShapeId": 155,
+            "ShapeId": 152,
             "Layer": 10,
             "Position": {
                 "X": 44.79753,
@@ -10662,7 +10576,7 @@
         },
         {
             "Name": "3_Story (39)",
-            "ShapeId": 155,
+            "ShapeId": 152,
             "Layer": 10,
             "Position": {
                 "X": 44.7975464,
@@ -10676,7 +10590,7 @@
         },
         {
             "Name": "3_Story (40)",
-            "ShapeId": 155,
+            "ShapeId": 152,
             "Layer": 10,
             "Position": {
                 "X": 44.7975464,
@@ -10690,7 +10604,7 @@
         },
         {
             "Name": "3_Story (16)",
-            "ShapeId": 157,
+            "ShapeId": 154,
             "Layer": 10,
             "Position": {
                 "X": 32.3375549,
@@ -10704,7 +10618,7 @@
         },
         {
             "Name": "3_Story (17)",
-            "ShapeId": 158,
+            "ShapeId": 155,
             "Layer": 10,
             "Position": {
                 "X": 32.3375549,
@@ -10718,7 +10632,7 @@
         },
         {
             "Name": "3_Story (25)",
-            "ShapeId": 159,
+            "ShapeId": 156,
             "Layer": 10,
             "Position": {
                 "X": 36.3375549,
@@ -10732,7 +10646,7 @@
         },
         {
             "Name": "3_Story (26)",
-            "ShapeId": 160,
+            "ShapeId": 157,
             "Layer": 10,
             "Position": {
                 "X": 32.88356,
@@ -10748,7 +10662,7 @@
         },
         {
             "Name": "3_Story (27)",
-            "ShapeId": 161,
+            "ShapeId": 158,
             "Layer": 16,
             "Position": {
                 "X": 27.8375854,
@@ -10762,7 +10676,7 @@
         },
         {
             "Name": "3_Story (28)",
-            "ShapeId": 161,
+            "ShapeId": 158,
             "Layer": 16,
             "Position": {
                 "X": 27.8375244,
@@ -10776,7 +10690,7 @@
         },
         {
             "Name": "3_Story (16)",
-            "ShapeId": 157,
+            "ShapeId": 154,
             "Layer": 10,
             "Position": {
                 "X": -30.5524559,
@@ -10790,7 +10704,7 @@
         },
         {
             "Name": "3_Story (17)",
-            "ShapeId": 158,
+            "ShapeId": 155,
             "Layer": 10,
             "Position": {
                 "X": -30.5524559,
@@ -10804,7 +10718,7 @@
         },
         {
             "Name": "3_Story (25)",
-            "ShapeId": 159,
+            "ShapeId": 156,
             "Layer": 10,
             "Position": {
                 "X": -34.5524559,
@@ -10818,7 +10732,7 @@
         },
         {
             "Name": "3_Story (26)",
-            "ShapeId": 160,
+            "ShapeId": 157,
             "Layer": 10,
             "Position": {
                 "X": -31.0984535,
@@ -10834,7 +10748,7 @@
         },
         {
             "Name": "3_Story (27)",
-            "ShapeId": 161,
+            "ShapeId": 158,
             "Layer": 16,
             "Position": {
                 "X": -26.0524559,
@@ -10848,7 +10762,7 @@
         },
         {
             "Name": "3_Story (28)",
-            "ShapeId": 161,
+            "ShapeId": 158,
             "Layer": 16,
             "Position": {
                 "X": -26.0524521,
@@ -10862,7 +10776,7 @@
         },
         {
             "Name": "3_Story (29)",
-            "ShapeId": 162,
+            "ShapeId": 159,
             "Layer": 10,
             "Position": {
                 "X": -38.4524574,
@@ -10876,7 +10790,7 @@
         },
         {
             "Name": "3_Story (30)",
-            "ShapeId": 162,
+            "ShapeId": 159,
             "Layer": 10,
             "Position": {
                 "X": 40.22754,
@@ -10890,7 +10804,7 @@
         },
         {
             "Name": "3_Story (17)",
-            "ShapeId": 163,
+            "ShapeId": 160,
             "Layer": 10,
             "Position": {
                 "X": -30.5524559,
@@ -10904,7 +10818,7 @@
         },
         {
             "Name": "3_Story (17)",
-            "ShapeId": 164,
+            "ShapeId": 161,
             "Layer": 10,
             "Position": {
                 "X": 32.3875351,
@@ -10918,7 +10832,7 @@
         },
         {
             "Name": "3_Story (22)",
-            "ShapeId": 165,
+            "ShapeId": 162,
             "Layer": 10,
             "Position": {
                 "X": 31.1375427,
@@ -10932,7 +10846,7 @@
         },
         {
             "Name": "3_Story (17)",
-            "ShapeId": 166,
+            "ShapeId": 163,
             "Layer": 10,
             "Position": {
                 "X": 32.33754,
@@ -10946,7 +10860,7 @@
         },
         {
             "Name": "3_Story (17)",
-            "ShapeId": 167,
+            "ShapeId": 164,
             "Layer": 10,
             "Position": {
                 "X": -30.5224533,
@@ -10960,7 +10874,7 @@
         },
         {
             "Name": "3_Story (22)",
-            "ShapeId": 168,
+            "ShapeId": 165,
             "Layer": 10,
             "Position": {
                 "X": -29.342453,
@@ -10974,7 +10888,7 @@
         },
         {
             "Name": "turret stumps",
-            "ShapeId": 169,
+            "ShapeId": 166,
             "Layer": 10,
             "Position": {
                 "X": -63.0724564,
@@ -10988,7 +10902,7 @@
         },
         {
             "Name": "turret stumps",
-            "ShapeId": 170,
+            "ShapeId": 167,
             "Layer": 10,
             "Position": {
                 "X": 66.41753,
@@ -11002,7 +10916,7 @@
         },
         {
             "Name": "3_Story (13)",
-            "ShapeId": 171,
+            "ShapeId": 168,
             "Layer": 10,
             "Position": {
                 "X": -28.9624672,
@@ -11016,7 +10930,7 @@
         },
         {
             "Name": "3_Story (13)",
-            "ShapeId": 171,
+            "ShapeId": 168,
             "Layer": 10,
             "Position": {
                 "X": 31.127533,
@@ -11030,7 +10944,7 @@
         },
         {
             "Name": "3_Story (14)",
-            "ShapeId": 171,
+            "ShapeId": 168,
             "Layer": 10,
             "Position": {
                 "X": 49.08754,
@@ -11044,7 +10958,7 @@
         },
         {
             "Name": "3_Story (15)",
-            "ShapeId": 171,
+            "ShapeId": 168,
             "Layer": 10,
             "Position": {
                 "X": 49.08754,
@@ -11058,7 +10972,7 @@
         },
         {
             "Name": "3_Story (16)",
-            "ShapeId": 171,
+            "ShapeId": 168,
             "Layer": 10,
             "Position": {
                 "X": -46.9124527,
@@ -11072,7 +10986,7 @@
         },
         {
             "Name": "3_Story (17)",
-            "ShapeId": 171,
+            "ShapeId": 168,
             "Layer": 10,
             "Position": {
                 "X": -46.91245,
@@ -11086,7 +11000,7 @@
         },
         {
             "Name": "3_Story (15)",
-            "ShapeId": 172,
+            "ShapeId": 169,
             "Layer": 10,
             "Position": {
                 "X": 10.3075409,
@@ -11099,7 +11013,7 @@
         },
         {
             "Name": "3_Story (17)",
-            "ShapeId": 173,
+            "ShapeId": 170,
             "Layer": 10,
             "Position": {
                 "X": 3.31752014,
@@ -11113,7 +11027,7 @@
         },
         {
             "Name": "3_Story (2)",
-            "ShapeId": 174,
+            "ShapeId": 171,
             "Layer": 10,
             "Position": {
                 "X": -5.17246246,
@@ -11126,7 +11040,7 @@
         },
         {
             "Name": "cover mesh",
-            "ShapeId": 175,
+            "ShapeId": 172,
             "Layer": 16,
             "Position": {
                 "X": 13.3075333,
@@ -11140,7 +11054,7 @@
         },
         {
             "Name": "cover mesh",
-            "ShapeId": 175,
+            "ShapeId": 172,
             "Layer": 16,
             "Position": {
                 "X": 7.307541,
@@ -11154,7 +11068,7 @@
         },
         {
             "Name": "cover mesh",
-            "ShapeId": 176,
+            "ShapeId": 173,
             "Layer": 16,
             "Position": {
                 "X": 21.0975342,
@@ -11168,7 +11082,7 @@
         },
         {
             "Name": "cover mesh",
-            "ShapeId": 177,
+            "ShapeId": 174,
             "Layer": 16,
             "Position": {
                 "X": 19.0975418,
@@ -11182,7 +11096,7 @@
         },
         {
             "Name": "cover mesh",
-            "ShapeId": 177,
+            "ShapeId": 174,
             "Layer": 16,
             "Position": {
                 "X": -16.9225159,
@@ -11196,7 +11110,7 @@
         },
         {
             "Name": "Cover Mesh",
-            "ShapeId": 178,
+            "ShapeId": 175,
             "Layer": 16,
             "Position": {
                 "X": -18.9225159,
@@ -11210,7 +11124,7 @@
         },
         {
             "Name": "cover mesh (1)",
-            "ShapeId": 177,
+            "ShapeId": 174,
             "Layer": 16,
             "Position": {
                 "X": 27.8845139,
@@ -11224,7 +11138,7 @@
         },
         {
             "Name": "cover mesh (2)",
-            "ShapeId": 179,
+            "ShapeId": 176,
             "Layer": 16,
             "Position": {
                 "X": 27.8875122,
@@ -11238,7 +11152,7 @@
         },
         {
             "Name": "cover mesh (3)",
-            "ShapeId": 180,
+            "ShapeId": 177,
             "Layer": 16,
             "Position": {
                 "X": -26.1824875,
@@ -11252,7 +11166,7 @@
         },
         {
             "Name": "cover mesh (4)",
-            "ShapeId": 179,
+            "ShapeId": 176,
             "Layer": 16,
             "Position": {
                 "X": -26.18248,
@@ -11266,7 +11180,7 @@
         },
         {
             "Name": "cover mesh (5)",
-            "ShapeId": 181,
+            "ShapeId": 178,
             "Layer": 16,
             "Position": {
                 "X": -29.3724976,
@@ -11280,7 +11194,7 @@
         },
         {
             "Name": "cover mesh (6)",
-            "ShapeId": 182,
+            "ShapeId": 179,
             "Layer": 16,
             "Position": {
                 "X": 31.0875244,
@@ -11294,7 +11208,7 @@
         },
         {
             "Name": "3_Story (15)",
-            "ShapeId": 172,
+            "ShapeId": 169,
             "Layer": 10,
             "Position": {
                 "X": -8.672447,
@@ -11308,7 +11222,7 @@
         },
         {
             "Name": "3_Story (16)",
-            "ShapeId": 173,
+            "ShapeId": 170,
             "Layer": 10,
             "Position": {
                 "X": -1.68244934,
@@ -11322,7 +11236,7 @@
         },
         {
             "Name": "3_Story (2)",
-            "ShapeId": 174,
+            "ShapeId": 171,
             "Layer": 10,
             "Position": {
                 "X": 6.80754852,
@@ -11336,7 +11250,7 @@
         },
         {
             "Name": "cover mesh",
-            "ShapeId": 175,
+            "ShapeId": 172,
             "Layer": 16,
             "Position": {
                 "X": -49.51245,
@@ -11350,7 +11264,7 @@
         },
         {
             "Name": "cover mesh",
-            "ShapeId": 175,
+            "ShapeId": 172,
             "Layer": 16,
             "Position": {
                 "X": -43.51245,
@@ -11364,7 +11278,7 @@
         },
         {
             "Name": "Plane",
-            "ShapeId": 183,
+            "ShapeId": 180,
             "Position": {},
             "Rotation": {
                 "W": 1.0

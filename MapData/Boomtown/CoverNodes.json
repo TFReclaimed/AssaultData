@@ -2,32 +2,6 @@
     {
         "Transform": {
             "Position": {
-                "X": -27.3178825,
-                "Y": 3.018,
-                "Z": -46.4800034
-            },
-            "Rotation": {
-                "X": 0.0,
-                "Y": -2.44379044E-06,
-                "Z": 0.0,
-                "W": -1.0
-            },
-            "Scale": {
-                "X": 1.00000024,
-                "Y": 1.0,
-                "Z": 1.00000024
-            }
-        },
-        "CoverTeamColor": 3,
-        "NorthCoverType": 2,
-        "SouthCoverType": 0,
-        "EastCoverType": 0,
-        "WestCoverType": 0,
-        "UniqueId": "4be0e781-f1ef-411c-9e07-7641f862251d"
-    },
-    {
-        "Transform": {
-            "Position": {
                 "X": -3.81790161,
                 "Y": 9.016724,
                 "Z": -47.2600021
@@ -262,58 +236,6 @@
     {
         "Transform": {
             "Position": {
-                "X": -30.3678856,
-                "Y": 3.018,
-                "Z": -45.0700035
-            },
-            "Rotation": {
-                "X": 0.0,
-                "Y": -0.382684946,
-                "Z": 0.0,
-                "W": -0.923878968
-            },
-            "Scale": {
-                "X": 1.00000012,
-                "Y": 1.0,
-                "Z": 1.00000012
-            }
-        },
-        "CoverTeamColor": 3,
-        "NorthCoverType": 2,
-        "SouthCoverType": 0,
-        "EastCoverType": 0,
-        "WestCoverType": 0,
-        "UniqueId": "1eb7e5a5-9bd4-43e9-94c8-eedbe2694ecc"
-    },
-    {
-        "Transform": {
-            "Position": {
-                "X": 30.222105,
-                "Y": 3.018,
-                "Z": -45.03001
-            },
-            "Rotation": {
-                "X": 0.0,
-                "Y": 0.38268137,
-                "Z": 0.0,
-                "W": -0.9238803
-            },
-            "Scale": {
-                "X": 1.00000072,
-                "Y": 1.0,
-                "Z": 1.00000072
-            }
-        },
-        "CoverTeamColor": 3,
-        "NorthCoverType": 2,
-        "SouthCoverType": 0,
-        "EastCoverType": 0,
-        "WestCoverType": 0,
-        "UniqueId": "036b8595-1ec2-41df-802f-52902ed2b766"
-    },
-    {
-        "Transform": {
-            "Position": {
                 "X": -51.0468826,
                 "Y": 5.892723,
                 "Z": -14.3599987
@@ -414,32 +336,6 @@
         "EastCoverType": 0,
         "WestCoverType": 1,
         "UniqueId": "817cc1aa-418a-4740-a44d-5b1852cc2ec1"
-    },
-    {
-        "Transform": {
-            "Position": {
-                "X": -32.3778839,
-                "Y": 3.018,
-                "Z": -43.22
-            },
-            "Rotation": {
-                "X": 0.0,
-                "Y": -1.9967556E-06,
-                "Z": 0.0,
-                "W": -1.0
-            },
-            "Scale": {
-                "X": 1.00000024,
-                "Y": 1.0,
-                "Z": 1.00000024
-            }
-        },
-        "CoverTeamColor": 3,
-        "NorthCoverType": 2,
-        "SouthCoverType": 0,
-        "EastCoverType": 0,
-        "WestCoverType": 0,
-        "UniqueId": "04d72e73-e68b-4c32-a402-617d653ec013"
     },
     {
         "Transform": {
@@ -548,58 +444,6 @@
     {
         "Transform": {
             "Position": {
-                "X": 22.3621178,
-                "Y": 3.018,
-                "Z": -46.48501
-            },
-            "Rotation": {
-                "X": 0.0,
-                "Y": -2.44379044E-06,
-                "Z": 0.0,
-                "W": -1.0
-            },
-            "Scale": {
-                "X": 1.00000024,
-                "Y": 1.0,
-                "Z": 1.00000024
-            }
-        },
-        "CoverTeamColor": 3,
-        "NorthCoverType": 2,
-        "SouthCoverType": 0,
-        "EastCoverType": 0,
-        "WestCoverType": 0,
-        "UniqueId": "7e7e0314-eb57-40a7-bab7-26e158d72c39"
-    },
-    {
-        "Transform": {
-            "Position": {
-                "X": -22.48788,
-                "Y": 3.018,
-                "Z": -46.48
-            },
-            "Rotation": {
-                "X": 0.0,
-                "Y": -2.44379044E-06,
-                "Z": 0.0,
-                "W": -1.0
-            },
-            "Scale": {
-                "X": 1.00000024,
-                "Y": 1.0,
-                "Z": 1.00000024
-            }
-        },
-        "CoverTeamColor": 3,
-        "NorthCoverType": 2,
-        "SouthCoverType": 0,
-        "EastCoverType": 0,
-        "WestCoverType": 0,
-        "UniqueId": "917d686e-a105-49cb-8b6b-57e742724f3d"
-    },
-    {
-        "Transform": {
-            "Position": {
                 "X": 28.7521038,
                 "Y": 0.319725037,
                 "Z": -31.3400078
@@ -622,32 +466,6 @@
         "EastCoverType": 2,
         "WestCoverType": 0,
         "UniqueId": "675112fa-85a7-4e9f-ba81-6a4f21348152"
-    },
-    {
-        "Transform": {
-            "Position": {
-                "X": -39.4678879,
-                "Y": 3.018,
-                "Z": -43.2199974
-            },
-            "Rotation": {
-                "X": 0.0,
-                "Y": -1.9967556E-06,
-                "Z": 0.0,
-                "W": -1.0
-            },
-            "Scale": {
-                "X": 1.00000024,
-                "Y": 1.0,
-                "Z": 1.00000024
-            }
-        },
-        "CoverTeamColor": 3,
-        "NorthCoverType": 2,
-        "SouthCoverType": 0,
-        "EastCoverType": 0,
-        "WestCoverType": 0,
-        "UniqueId": "5021ee9d-dd20-49d2-8144-badaf4ab42e9"
     },
     {
         "Transform": {
@@ -730,32 +548,6 @@
     {
         "Transform": {
             "Position": {
-                "X": 32.4120941,
-                "Y": 3.018,
-                "Z": -43.22001
-            },
-            "Rotation": {
-                "X": 0.0,
-                "Y": -1.9967556E-06,
-                "Z": 0.0,
-                "W": -1.0
-            },
-            "Scale": {
-                "X": 1.00000024,
-                "Y": 1.0,
-                "Z": 1.00000024
-            }
-        },
-        "CoverTeamColor": 3,
-        "NorthCoverType": 2,
-        "SouthCoverType": 0,
-        "EastCoverType": 0,
-        "WestCoverType": 0,
-        "UniqueId": "0ad5176b-a347-4875-98b4-c7aa7921c770"
-    },
-    {
-        "Transform": {
-            "Position": {
                 "X": -5.637879,
                 "Y": 0.3837242,
                 "Z": 22.07999
@@ -782,32 +574,6 @@
     {
         "Transform": {
             "Position": {
-                "X": -35.8178864,
-                "Y": 3.018,
-                "Z": -43.2199974
-            },
-            "Rotation": {
-                "X": 0.0,
-                "Y": -1.9967556E-06,
-                "Z": 0.0,
-                "W": -1.0
-            },
-            "Scale": {
-                "X": 1.00000024,
-                "Y": 1.0,
-                "Z": 1.00000024
-            }
-        },
-        "CoverTeamColor": 3,
-        "NorthCoverType": 2,
-        "SouthCoverType": 0,
-        "EastCoverType": 0,
-        "WestCoverType": 0,
-        "UniqueId": "e3da7f28-4aa9-455c-88a5-d2ddf3a22303"
-    },
-    {
-        "Transform": {
-            "Position": {
                 "X": 50.9221039,
                 "Y": 5.892723,
                 "Z": -14.1100044
@@ -830,32 +596,6 @@
         "EastCoverType": 0,
         "WestCoverType": 0,
         "UniqueId": "874d73b4-3f7c-4192-9ac7-b0ce1d9d888e"
-    },
-    {
-        "Transform": {
-            "Position": {
-                "X": 36.06212,
-                "Y": 3.018,
-                "Z": -43.22
-            },
-            "Rotation": {
-                "X": 0.0,
-                "Y": -1.9967556E-06,
-                "Z": 0.0,
-                "W": -1.0
-            },
-            "Scale": {
-                "X": 1.00000024,
-                "Y": 1.0,
-                "Z": 1.00000024
-            }
-        },
-        "CoverTeamColor": 3,
-        "NorthCoverType": 2,
-        "SouthCoverType": 0,
-        "EastCoverType": 0,
-        "WestCoverType": 0,
-        "UniqueId": "8363a669-0cf6-474a-bf3e-693202e6bee4"
     },
     {
         "Transform": {
@@ -964,32 +704,6 @@
     {
         "Transform": {
             "Position": {
-                "X": 27.1921043,
-                "Y": 3.018,
-                "Z": -46.4800148
-            },
-            "Rotation": {
-                "X": 0.0,
-                "Y": -2.44379044E-06,
-                "Z": 0.0,
-                "W": -1.0
-            },
-            "Scale": {
-                "X": 1.00000024,
-                "Y": 1.0,
-                "Z": 1.00000024
-            }
-        },
-        "CoverTeamColor": 3,
-        "NorthCoverType": 2,
-        "SouthCoverType": 0,
-        "EastCoverType": 0,
-        "WestCoverType": 0,
-        "UniqueId": "14fe0c07-eeaf-4f22-afba-421ecdd22abb"
-    },
-    {
-        "Transform": {
-            "Position": {
                 "X": 4.312117,
                 "Y": 5.970722,
                 "Z": 49.09999
@@ -1016,32 +730,6 @@
     {
         "Transform": {
             "Position": {
-                "X": -41.65788,
-                "Y": 3.018,
-                "Z": -45.0300026
-            },
-            "Rotation": {
-                "X": 0.0,
-                "Y": 0.38268137,
-                "Z": 0.0,
-                "W": -0.9238803
-            },
-            "Scale": {
-                "X": 1.00000083,
-                "Y": 1.0,
-                "Z": 1.00000083
-            }
-        },
-        "CoverTeamColor": 3,
-        "NorthCoverType": 2,
-        "SouthCoverType": 0,
-        "EastCoverType": 0,
-        "WestCoverType": 0,
-        "UniqueId": "14a08193-1289-4c77-97ab-cb19ec899d68"
-    },
-    {
-        "Transform": {
-            "Position": {
                 "X": -44.41789,
                 "Y": 5.892723,
                 "Z": -15.7199974
@@ -1064,58 +752,6 @@
         "EastCoverType": 0,
         "WestCoverType": 0,
         "UniqueId": "4ea0ee4b-18a1-4f0c-aa59-85efe27fdd79"
-    },
-    {
-        "Transform": {
-            "Position": {
-                "X": 41.51211,
-                "Y": 3.018,
-                "Z": -45.070015
-            },
-            "Rotation": {
-                "X": 0.0,
-                "Y": -0.382684946,
-                "Z": 0.0,
-                "W": -0.923878968
-            },
-            "Scale": {
-                "X": 1.00000012,
-                "Y": 1.0,
-                "Z": 1.00000012
-            }
-        },
-        "CoverTeamColor": 3,
-        "NorthCoverType": 2,
-        "SouthCoverType": 0,
-        "EastCoverType": 0,
-        "WestCoverType": 0,
-        "UniqueId": "83ed4dac-2a00-4d62-b3b1-bbeb81144932"
-    },
-    {
-        "Transform": {
-            "Position": {
-                "X": 39.50212,
-                "Y": 3.018,
-                "Z": -43.2200127
-            },
-            "Rotation": {
-                "X": 0.0,
-                "Y": -1.9967556E-06,
-                "Z": 0.0,
-                "W": -1.0
-            },
-            "Scale": {
-                "X": 1.00000024,
-                "Y": 1.0,
-                "Z": 1.00000024
-            }
-        },
-        "CoverTeamColor": 3,
-        "NorthCoverType": 2,
-        "SouthCoverType": 0,
-        "EastCoverType": 0,
-        "WestCoverType": 0,
-        "UniqueId": "4a7812e5-18d6-44a9-a9b3-c0bad55c5acd"
     },
     {
         "Transform": {

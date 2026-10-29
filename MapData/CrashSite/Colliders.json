@@ -3223,54 +3223,9 @@
                     "Type": "Box",
                     "Offset": {},
                     "Size": {
-                        "X": 3.99999928,
-                        "Y": 3.00000024,
-                        "Z": 3.99999928
-                    },
-                    "Vertices": [],
-                    "Triangles": []
-                }
-            ]
-        },
-        {
-            "Colliders": [
-                {
-                    "Type": "Box",
-                    "Offset": {},
-                    "Size": {
-                        "X": 3.49999928,
-                        "Y": 3.00000024,
-                        "Z": 7.340475
-                    },
-                    "Vertices": [],
-                    "Triangles": []
-                }
-            ]
-        },
-        {
-            "Colliders": [
-                {
-                    "Type": "Box",
-                    "Offset": {},
-                    "Size": {
                         "X": 3.99999952,
                         "Y": 0.226824969,
                         "Z": 7.014544
-                    },
-                    "Vertices": [],
-                    "Triangles": []
-                }
-            ]
-        },
-        {
-            "Colliders": [
-                {
-                    "Type": "Box",
-                    "Offset": {},
-                    "Size": {
-                        "X": 3.99999881,
-                        "Y": 3.00000024,
-                        "Z": 3.99999881
                     },
                     "Vertices": [],
                     "Triangles": []
@@ -6567,35 +6522,8 @@
             }
         },
         {
-            "Name": "Destroyable Block east",
-            "ShapeId": 144,
-            "Position": {
-                "X": 15.01741,
-                "Y": 5.699997,
-                "Z": 0.571495056
-            },
-            "Rotation": {
-                "Y": 0.7071021,
-                "W": -0.7071114
-            }
-        },
-        {
-            "Name": "los blocker 1",
-            "ShapeId": 145,
-            "Layer": 12,
-            "Position": {
-                "X": 14.3387833,
-                "Y": 6.0,
-                "Z": 0.599601746
-            },
-            "Rotation": {
-                "Y": 0.707108259,
-                "W": -0.7071053
-            }
-        },
-        {
             "Name": "Floor east Collision",
-            "ShapeId": 146,
+            "ShapeId": 144,
             "Layer": 10,
             "Position": {
                 "X": 14.2074585,
@@ -6609,7 +6537,7 @@
         },
         {
             "Name": "Floor West Collision ",
-            "ShapeId": 146,
+            "ShapeId": 144,
             "Layer": 10,
             "Position": {
                 "X": -20.7925568,
@@ -6622,35 +6550,8 @@
             }
         },
         {
-            "Name": "Destroyable Block west",
-            "ShapeId": 147,
-            "Position": {
-                "X": -21.7825928,
-                "Y": 5.699997,
-                "Z": 10.681488
-            },
-            "Rotation": {
-                "Y": -0.70711,
-                "W": -0.707103431
-            }
-        },
-        {
-            "Name": "los blocker",
-            "ShapeId": 145,
-            "Layer": 12,
-            "Position": {
-                "X": -20.48259,
-                "Y": 6.0,
-                "Z": 10.7414894
-            },
-            "Rotation": {
-                "Y": 0.707108259,
-                "W": -0.7071053
-            }
-        },
-        {
             "Name": "Max Floor",
-            "ShapeId": 148,
+            "ShapeId": 145,
             "Layer": 17,
             "Position": {
                 "X": -3.595848,
@@ -6664,7 +6565,7 @@
         },
         {
             "Name": "3_Story (16)",
-            "ShapeId": 149,
+            "ShapeId": 146,
             "Layer": 10,
             "Position": {
                 "X": 41.9375763,
@@ -6678,7 +6579,7 @@
         },
         {
             "Name": "3_Story (17)",
-            "ShapeId": 150,
+            "ShapeId": 147,
             "Layer": 10,
             "Position": {
                 "X": 18.59755,
@@ -6692,7 +6593,7 @@
         },
         {
             "Name": "3_Story (18)",
-            "ShapeId": 151,
+            "ShapeId": 148,
             "Layer": 10,
             "Position": {
                 "X": 49.1776276,
@@ -6706,7 +6607,7 @@
         },
         {
             "Name": "3_Story (21)",
-            "ShapeId": 152,
+            "ShapeId": 149,
             "Layer": 10,
             "Position": {
                 "X": 11.5174866,
@@ -6720,7 +6621,7 @@
         },
         {
             "Name": "3_Story (22)",
-            "ShapeId": 153,
+            "ShapeId": 150,
             "Layer": 10,
             "Position": {
                 "X": 54.4376678,
@@ -6734,7 +6635,7 @@
         },
         {
             "Name": "3_Story (23)",
-            "ShapeId": 154,
+            "ShapeId": 151,
             "Layer": 10,
             "Position": {
                 "X": 15.0175018,
@@ -6748,7 +6649,7 @@
         },
         {
             "Name": "3_Story (19)",
-            "ShapeId": 155,
+            "ShapeId": 152,
             "Layer": 10,
             "Position": {
                 "X": 17.4774933,
@@ -6762,7 +6663,7 @@
         },
         {
             "Name": "3_Story (20)",
-            "ShapeId": 156,
+            "ShapeId": 153,
             "Layer": 10,
             "Position": {
                 "X": 13.4775238,
@@ -6776,7 +6677,7 @@
         },
         {
             "Name": "3_Story (21)",
-            "ShapeId": 157,
+            "ShapeId": 154,
             "Layer": 10,
             "Position": {
                 "X": 15.5175934,
@@ -6790,7 +6691,7 @@
         },
         {
             "Name": "3_Story (26)",
-            "ShapeId": 158,
+            "ShapeId": 155,
             "Layer": 10,
             "Position": {
                 "X": 60.4576874,
@@ -6804,7 +6705,7 @@
         },
         {
             "Name": "3_Story (26)",
-            "ShapeId": 159,
+            "ShapeId": 156,
             "Layer": 10,
             "Position": {
                 "X": 46.44771,
@@ -6818,7 +6719,7 @@
         },
         {
             "Name": "3_Story (26)",
-            "ShapeId": 160,
+            "ShapeId": 157,
             "Layer": 10,
             "Position": {
                 "X": 38.95775,
@@ -6832,7 +6733,7 @@
         },
         {
             "Name": "3_Story (27)",
-            "ShapeId": 161,
+            "ShapeId": 158,
             "Layer": 10,
             "Position": {
                 "X": 36.45778,
@@ -6846,7 +6747,7 @@
         },
         {
             "Name": "3_Story (25)",
-            "ShapeId": 162,
+            "ShapeId": 159,
             "Layer": 10,
             "Position": {
                 "X": 30.9276276,
@@ -6860,7 +6761,7 @@
         },
         {
             "Name": "3_Story (26)",
-            "ShapeId": 163,
+            "ShapeId": 160,
             "Layer": 10,
             "Position": {
                 "X": 29.4276886,
@@ -6874,7 +6775,7 @@
         },
         {
             "Name": "3_Story (27)",
-            "ShapeId": 162,
+            "ShapeId": 159,
             "Layer": 10,
             "Position": {
                 "X": 22.9276886,
@@ -6888,7 +6789,7 @@
         },
         {
             "Name": "3_Story (28)",
-            "ShapeId": 164,
+            "ShapeId": 161,
             "Layer": 10,
             "Position": {
                 "X": 30.9676666,
@@ -6902,7 +6803,7 @@
         },
         {
             "Name": "3_Story (31)",
-            "ShapeId": 165,
+            "ShapeId": 162,
             "Layer": 10,
             "Position": {
                 "X": 26.4576874,
@@ -6916,7 +6817,7 @@
         },
         {
             "Name": "3_Story (32)",
-            "ShapeId": 166,
+            "ShapeId": 163,
             "Layer": 10,
             "Position": {
                 "X": 30.9276886,
@@ -6930,7 +6831,7 @@
         },
         {
             "Name": "3_Story (24)",
-            "ShapeId": 167,
+            "ShapeId": 164,
             "Layer": 10,
             "Position": {
                 "X": 10.6976776,
@@ -6944,7 +6845,7 @@
         },
         {
             "Name": "3_Story (16)",
-            "ShapeId": 168,
+            "ShapeId": 165,
             "Layer": 10,
             "Position": {
                 "X": -48.702507,
@@ -6958,7 +6859,7 @@
         },
         {
             "Name": "3_Story (17)",
-            "ShapeId": 150,
+            "ShapeId": 147,
             "Layer": 10,
             "Position": {
                 "X": -25.36251,
@@ -6972,7 +6873,7 @@
         },
         {
             "Name": "3_Story (18)",
-            "ShapeId": 151,
+            "ShapeId": 148,
             "Layer": 10,
             "Position": {
                 "X": -55.94262,
@@ -6986,7 +6887,7 @@
         },
         {
             "Name": "3_Story (21)",
-            "ShapeId": 152,
+            "ShapeId": 149,
             "Layer": 10,
             "Position": {
                 "X": -18.2823334,
@@ -7000,7 +6901,7 @@
         },
         {
             "Name": "3_Story (22)",
-            "ShapeId": 169,
+            "ShapeId": 166,
             "Layer": 10,
             "Position": {
                 "X": -61.2026939,
@@ -7014,7 +6915,7 @@
         },
         {
             "Name": "3_Story (23)",
-            "ShapeId": 170,
+            "ShapeId": 167,
             "Layer": 10,
             "Position": {
                 "X": -21.7823639,
@@ -7028,7 +6929,7 @@
         },
         {
             "Name": "3_Story (19)",
-            "ShapeId": 155,
+            "ShapeId": 152,
             "Layer": 10,
             "Position": {
                 "X": -24.2424774,
@@ -7042,7 +6943,7 @@
         },
         {
             "Name": "3_Story (20)",
-            "ShapeId": 156,
+            "ShapeId": 153,
             "Layer": 10,
             "Position": {
                 "X": -20.2424774,
@@ -7056,7 +6957,7 @@
         },
         {
             "Name": "3_Story (21)",
-            "ShapeId": 157,
+            "ShapeId": 154,
             "Layer": 10,
             "Position": {
                 "X": -22.28247,
@@ -7070,7 +6971,7 @@
         },
         {
             "Name": "3_Story (23)",
-            "ShapeId": 171,
+            "ShapeId": 168,
             "Layer": 10,
             "Position": {
                 "X": -20.2424774,
@@ -7084,7 +6985,7 @@
         },
         {
             "Name": "3_Story (24)",
-            "ShapeId": 171,
+            "ShapeId": 168,
             "Layer": 10,
             "Position": {
                 "X": 13.4775238,
@@ -7098,7 +6999,7 @@
         },
         {
             "Name": "3_Story (26)",
-            "ShapeId": 172,
+            "ShapeId": 169,
             "Layer": 10,
             "Position": {
                 "X": -53.34245,
@@ -7112,7 +7013,7 @@
         },
         {
             "Name": "3_Story (26)",
-            "ShapeId": 173,
+            "ShapeId": 170,
             "Layer": 10,
             "Position": {
                 "X": -67.34251,
@@ -7126,7 +7027,7 @@
         },
         {
             "Name": "3_Story (26)",
-            "ShapeId": 174,
+            "ShapeId": 171,
             "Layer": 10,
             "Position": {
                 "X": -45.84253,
@@ -7140,7 +7041,7 @@
         },
         {
             "Name": "3_Story (25)",
-            "ShapeId": 162,
+            "ShapeId": 159,
             "Layer": 10,
             "Position": {
                 "X": -37.842453,
@@ -7154,7 +7055,7 @@
         },
         {
             "Name": "3_Story (26)",
-            "ShapeId": 163,
+            "ShapeId": 160,
             "Layer": 10,
             "Position": {
                 "X": -36.342453,
@@ -7168,7 +7069,7 @@
         },
         {
             "Name": "3_Story (27)",
-            "ShapeId": 162,
+            "ShapeId": 159,
             "Layer": 10,
             "Position": {
                 "X": -29.842453,
@@ -7182,7 +7083,7 @@
         },
         {
             "Name": "3_Story (28)",
-            "ShapeId": 164,
+            "ShapeId": 161,
             "Layer": 10,
             "Position": {
                 "X": -37.8824539,
@@ -7196,7 +7097,7 @@
         },
         {
             "Name": "3_Story (31)",
-            "ShapeId": 165,
+            "ShapeId": 162,
             "Layer": 10,
             "Position": {
                 "X": -33.37245,
@@ -7210,7 +7111,7 @@
         },
         {
             "Name": "3_Story (32)",
-            "ShapeId": 166,
+            "ShapeId": 163,
             "Layer": 10,
             "Position": {
                 "X": -37.842453,
@@ -7224,7 +7125,7 @@
         },
         {
             "Name": "3_Story (24)",
-            "ShapeId": 175,
+            "ShapeId": 172,
             "Layer": 10,
             "Position": {
                 "X": -17.2624512,
@@ -7238,7 +7139,7 @@
         },
         {
             "Name": "Objective1",
-            "ShapeId": 176,
+            "ShapeId": 173,
             "Layer": 12,
             "Position": {
                 "X": -48.66799,
@@ -7252,7 +7153,7 @@
         },
         {
             "Name": "Objective2",
-            "ShapeId": 176,
+            "ShapeId": 173,
             "Layer": 12,
             "Position": {
                 "X": -3.267994,
@@ -7266,7 +7167,7 @@
         },
         {
             "Name": "Objective3",
-            "ShapeId": 176,
+            "ShapeId": 173,
             "Layer": 12,
             "Position": {
                 "X": 42.5320053,
@@ -7280,7 +7181,7 @@
         },
         {
             "Name": "Box for Zipline Highlight",
-            "ShapeId": 177,
+            "ShapeId": 174,
             "Position": {
                 "X": 6.49,
                 "Y": 9.59,
@@ -7293,7 +7194,7 @@
         },
         {
             "Name": "Box for Zipline Highlight (1)",
-            "ShapeId": 178,
+            "ShapeId": 175,
             "Position": {
                 "X": -13.77,
                 "Y": 9.59,

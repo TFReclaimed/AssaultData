@@ -451,47 +451,6 @@
         "ToggleOnEnable": true
     },
     {
-        "Name": "Cover Mesh (18)",
-        "Transform": {
-            "Position": {
-                "X": -22.3878822,
-                "Y": 3.75,
-                "Z": -45.2600021
-            },
-            "Rotation": {
-                "X": 0.0,
-                "Y": 5.662441E-07,
-                "Z": 0.0,
-                "W": 1.0
-            },
-            "Scale": {
-                "X": 2.00000048,
-                "Y": 1.5,
-                "Z": 0.499999553
-            }
-        },
-        "Bounds": {
-            "Center": {
-                "X": 0.0,
-                "Y": 0.0,
-                "Z": 0.0
-            },
-            "Size": {
-                "X": 1.2,
-                "Y": 1.4,
-                "Z": 1.0
-            }
-        },
-        "BoundsColor": {
-            "R": 255,
-            "G": 0,
-            "B": 0,
-            "A": 102
-        },
-        "ExceptionsMask": 0,
-        "ToggleOnEnable": true
-    },
-    {
         "Name": "No Titan (2)",
         "Transform": {
             "Position": {
@@ -981,47 +940,6 @@
             "A": 102
         },
         "ExceptionsMask": -9,
-        "ToggleOnEnable": true
-    },
-    {
-        "Name": "no walk (5)",
-        "Transform": {
-            "Position": {
-                "X": 56.2295647,
-                "Y": -13.4,
-                "Z": 42.3814659
-            },
-            "Rotation": {
-                "X": 0.0,
-                "Y": -0.923877537,
-                "Z": 0.0,
-                "W": -0.382688165
-            },
-            "Scale": {
-                "X": 12.5721016,
-                "Y": 33.9,
-                "Z": 35.3164063
-            }
-        },
-        "Bounds": {
-            "Center": {
-                "X": 0.0,
-                "Y": 0.0,
-                "Z": 0.0
-            },
-            "Size": {
-                "X": 2.0,
-                "Y": 2.0,
-                "Z": 2.0
-            }
-        },
-        "BoundsColor": {
-            "R": 0,
-            "G": 255,
-            "B": 0,
-            "A": 102
-        },
-        "ExceptionsMask": 0,
         "ToggleOnEnable": true
     },
     {
@@ -1555,47 +1473,6 @@
             "A": 102
         },
         "ExceptionsMask": 949,
-        "ToggleOnEnable": true
-    },
-    {
-        "Name": "Cover Mesh (10)",
-        "Transform": {
-            "Position": {
-                "X": 39.4920959,
-                "Y": 3.75,
-                "Z": -42.1600151
-            },
-            "Rotation": {
-                "X": 0.0,
-                "Y": 1.16229057E-06,
-                "Z": 0.0,
-                "W": 1.0
-            },
-            "Scale": {
-                "X": 1.99999964,
-                "Y": 1.5,
-                "Z": 0.499999374
-            }
-        },
-        "Bounds": {
-            "Center": {
-                "X": 0.0,
-                "Y": 0.0,
-                "Z": 0.0
-            },
-            "Size": {
-                "X": 1.2,
-                "Y": 1.4,
-                "Z": 1.0
-            }
-        },
-        "BoundsColor": {
-            "R": 255,
-            "G": 0,
-            "B": 0,
-            "A": 102
-        },
-        "ExceptionsMask": 0,
         "ToggleOnEnable": true
     },
     {
@@ -2296,47 +2173,6 @@
         "ToggleOnEnable": true
     },
     {
-        "Name": "no walk (7)",
-        "Transform": {
-            "Position": {
-                "X": -24.8404369,
-                "Y": -13.4,
-                "Z": 5.10146332
-            },
-            "Rotation": {
-                "X": 0.0,
-                "Y": 0.7071088,
-                "Z": 0.0,
-                "W": -0.707104743
-            },
-            "Scale": {
-                "X": 5.827743,
-                "Y": 33.9,
-                "Z": 5.15955
-            }
-        },
-        "Bounds": {
-            "Center": {
-                "X": 0.0,
-                "Y": 0.0,
-                "Z": 0.0
-            },
-            "Size": {
-                "X": 2.0,
-                "Y": 2.0,
-                "Z": 2.0
-            }
-        },
-        "BoundsColor": {
-            "R": 0,
-            "G": 255,
-            "B": 0,
-            "A": 102
-        },
-        "ExceptionsMask": 0,
-        "ToggleOnEnable": true
-    },
-    {
         "Name": "No Titan (16)",
         "Transform": {
             "Position": {
@@ -2501,47 +2337,6 @@
         "ToggleOnEnable": true
     },
     {
-        "Name": "no walk (3)",
-        "Transform": {
-            "Position": {
-                "X": 36.44616,
-                "Y": -13.4,
-                "Z": -54.316185
-            },
-            "Rotation": {
-                "X": 0.0,
-                "Y": 0.7071088,
-                "Z": 0.0,
-                "W": -0.707104743
-            },
-            "Scale": {
-                "X": 12.572093,
-                "Y": 33.9,
-                "Z": 8.129174
-            }
-        },
-        "Bounds": {
-            "Center": {
-                "X": 0.0,
-                "Y": 0.0,
-                "Z": 0.0
-            },
-            "Size": {
-                "X": 2.0,
-                "Y": 2.0,
-                "Z": 2.0
-            }
-        },
-        "BoundsColor": {
-            "R": 0,
-            "G": 255,
-            "B": 0,
-            "A": 102
-        },
-        "ExceptionsMask": 0,
-        "ToggleOnEnable": true
-    },
-    {
         "Name": "No Titan (10)",
         "Transform": {
             "Position": {
@@ -2665,47 +2460,6 @@
         "ToggleOnEnable": true
     },
     {
-        "Name": "no walk (6)",
-        "Transform": {
-            "Position": {
-                "X": 24.98956,
-                "Y": -13.4,
-                "Z": 5.15146
-            },
-            "Rotation": {
-                "X": 0.0,
-                "Y": 0.7071088,
-                "Z": 0.0,
-                "W": -0.707104743
-            },
-            "Scale": {
-                "X": 5.82774544,
-                "Y": 33.9,
-                "Z": 5.159552
-            }
-        },
-        "Bounds": {
-            "Center": {
-                "X": 0.0,
-                "Y": 0.0,
-                "Z": 0.0
-            },
-            "Size": {
-                "X": 2.0,
-                "Y": 2.0,
-                "Z": 2.0
-            }
-        },
-        "BoundsColor": {
-            "R": 0,
-            "G": 255,
-            "B": 0,
-            "A": 102
-        },
-        "ExceptionsMask": 0,
-        "ToggleOnEnable": true
-    },
-    {
         "Name": "No Titan (6)",
         "Transform": {
             "Position": {
@@ -2744,47 +2498,6 @@
             "A": 102
         },
         "ExceptionsMask": 949,
-        "ToggleOnEnable": true
-    },
-    {
-        "Name": "no walk (1)",
-        "Transform": {
-            "Position": {
-                "X": 11.6861954,
-                "Y": -13.4,
-                "Z": -33.9261856
-            },
-            "Rotation": {
-                "X": 0.0,
-                "Y": 4.41074371E-06,
-                "Z": 0.0,
-                "W": -1.0
-            },
-            "Scale": {
-                "X": 4.785257,
-                "Y": 33.9,
-                "Z": 4.60654
-            }
-        },
-        "Bounds": {
-            "Center": {
-                "X": 0.0,
-                "Y": 0.0,
-                "Z": 0.0
-            },
-            "Size": {
-                "X": 2.0,
-                "Y": 2.0,
-                "Z": 2.0
-            }
-        },
-        "BoundsColor": {
-            "R": 0,
-            "G": 255,
-            "B": 0,
-            "A": 102
-        },
-        "ExceptionsMask": 0,
         "ToggleOnEnable": true
     },
     {
@@ -3034,47 +2747,6 @@
         "ToggleOnEnable": true
     },
     {
-        "Name": "no walk (1)",
-        "Transform": {
-            "Position": {
-                "X": 0.306150615,
-                "Y": -13.4,
-                "Z": -64.5061951
-            },
-            "Rotation": {
-                "X": 0.0,
-                "Y": 0.7071088,
-                "Z": 0.0,
-                "W": -0.707104743
-            },
-            "Scale": {
-                "X": 12.572093,
-                "Y": 33.9,
-                "Z": 24.0861969
-            }
-        },
-        "Bounds": {
-            "Center": {
-                "X": 0.0,
-                "Y": 0.0,
-                "Z": 0.0
-            },
-            "Size": {
-                "X": 2.0,
-                "Y": 2.0,
-                "Z": 2.0
-            }
-        },
-        "BoundsColor": {
-            "R": 0,
-            "G": 255,
-            "B": 0,
-            "A": 102
-        },
-        "ExceptionsMask": 0,
-        "ToggleOnEnable": true
-    },
-    {
         "Name": "No Titan (14)",
         "Transform": {
             "Position": {
@@ -3157,47 +2829,6 @@
         "ToggleOnEnable": true
     },
     {
-        "Name": "no walk (2)",
-        "Transform": {
-            "Position": {
-                "X": 65.0295639,
-                "Y": -13.4,
-                "Z": 50.08146
-            },
-            "Rotation": {
-                "X": 0.0,
-                "Y": 4.32133675E-06,
-                "Z": 0.0,
-                "W": -1.0
-            },
-            "Scale": {
-                "X": 12.5720959,
-                "Y": 33.9,
-                "Z": 35.3164024
-            }
-        },
-        "Bounds": {
-            "Center": {
-                "X": 0.0,
-                "Y": 0.0,
-                "Z": 0.0
-            },
-            "Size": {
-                "X": 2.0,
-                "Y": 2.0,
-                "Z": 2.0
-            }
-        },
-        "BoundsColor": {
-            "R": 0,
-            "G": 255,
-            "B": 0,
-            "A": 102
-        },
-        "ExceptionsMask": 0,
-        "ToggleOnEnable": true
-    },
-    {
         "Name": "No Titan (20)",
         "Transform": {
             "Position": {
@@ -3256,47 +2887,6 @@
                 "X": 5.42777538,
                 "Y": 25.1100025,
                 "Z": 34.81896
-            }
-        },
-        "Bounds": {
-            "Center": {
-                "X": 0.0,
-                "Y": 0.0,
-                "Z": 0.0
-            },
-            "Size": {
-                "X": 2.0,
-                "Y": 2.0,
-                "Z": 2.0
-            }
-        },
-        "BoundsColor": {
-            "R": 0,
-            "G": 255,
-            "B": 0,
-            "A": 102
-        },
-        "ExceptionsMask": 0,
-        "ToggleOnEnable": true
-    },
-    {
-        "Name": "no walk (4)",
-        "Transform": {
-            "Position": {
-                "X": -48.913826,
-                "Y": -13.4,
-                "Z": -50.9961853
-            },
-            "Rotation": {
-                "X": 0.0,
-                "Y": 0.7071088,
-                "Z": 0.0,
-                "W": -0.707104743
-            },
-            "Scale": {
-                "X": 12.572094,
-                "Y": 33.8999977,
-                "Z": 8.129174
             }
         },
         "Bounds": {
@@ -3396,47 +2986,6 @@
         "BoundsColor": {
             "R": 0,
             "G": 255,
-            "B": 0,
-            "A": 102
-        },
-        "ExceptionsMask": 0,
-        "ToggleOnEnable": true
-    },
-    {
-        "Name": "Cover Mesh (9)",
-        "Transform": {
-            "Position": {
-                "X": 32.4920959,
-                "Y": 3.75,
-                "Z": -42.1600151
-            },
-            "Rotation": {
-                "X": 0.0,
-                "Y": 1.16229057E-06,
-                "Z": 0.0,
-                "W": 1.0
-            },
-            "Scale": {
-                "X": 1.99999976,
-                "Y": 1.5,
-                "Z": 0.4999994
-            }
-        },
-        "Bounds": {
-            "Center": {
-                "X": 0.0,
-                "Y": 0.0,
-                "Z": 0.0
-            },
-            "Size": {
-                "X": 1.2,
-                "Y": 1.4,
-                "Z": 1.0
-            }
-        },
-        "BoundsColor": {
-            "R": 255,
-            "G": 0,
             "B": 0,
             "A": 102
         },
@@ -4674,88 +4223,6 @@
         "ToggleOnEnable": true
     },
     {
-        "Name": "Cover Mesh (13)",
-        "Transform": {
-            "Position": {
-                "X": 29.483099,
-                "Y": 3.75,
-                "Z": -44.159008
-            },
-            "Rotation": {
-                "X": 0.0,
-                "Y": -0.382682979,
-                "Z": 0.0,
-                "W": 0.9238797
-            },
-            "Scale": {
-                "X": 1.99999964,
-                "Y": 1.5,
-                "Z": 0.4999993
-            }
-        },
-        "Bounds": {
-            "Center": {
-                "X": 0.0,
-                "Y": 0.0,
-                "Z": 0.0
-            },
-            "Size": {
-                "X": 1.2,
-                "Y": 1.4,
-                "Z": 1.0
-            }
-        },
-        "BoundsColor": {
-            "R": 255,
-            "G": 0,
-            "B": 0,
-            "A": 102
-        },
-        "ExceptionsMask": 0,
-        "ToggleOnEnable": true
-    },
-    {
-        "Name": "no walk",
-        "Transform": {
-            "Position": {
-                "X": 33.40616,
-                "Y": -13.4,
-                "Z": -55.51619
-            },
-            "Rotation": {
-                "X": 0.0,
-                "Y": 0.7071088,
-                "Z": 0.0,
-                "W": -0.707104743
-            },
-            "Scale": {
-                "X": 12.5720959,
-                "Y": 33.9,
-                "Z": 24.0862026
-            }
-        },
-        "Bounds": {
-            "Center": {
-                "X": 0.0,
-                "Y": 0.0,
-                "Z": 0.0
-            },
-            "Size": {
-                "X": 2.0,
-                "Y": 2.0,
-                "Z": 2.0
-            }
-        },
-        "BoundsColor": {
-            "R": 0,
-            "G": 255,
-            "B": 0,
-            "A": 102
-        },
-        "ExceptionsMask": 0,
-        "ToggleOnEnable": true
-    },
-    {
         "Name": "Cover Mesh",
         "Transform": {
             "Position": {
@@ -4784,47 +4251,6 @@
             "Size": {
                 "X": 1.0,
                 "Y": 1.2,
-                "Z": 1.0
-            }
-        },
-        "BoundsColor": {
-            "R": 255,
-            "G": 0,
-            "B": 0,
-            "A": 102
-        },
-        "ExceptionsMask": 0,
-        "ToggleOnEnable": true
-    },
-    {
-        "Name": "Cover Mesh (21)",
-        "Transform": {
-            "Position": {
-                "X": -29.580883,
-                "Y": 3.75,
-                "Z": -44.165
-            },
-            "Rotation": {
-                "X": 0.0,
-                "Y": 0.382683784,
-                "Z": 0.0,
-                "W": 0.9238795
-            },
-            "Scale": {
-                "X": 1.99999964,
-                "Y": 1.5,
-                "Z": 0.4999993
-            }
-        },
-        "Bounds": {
-            "Center": {
-                "X": 0.0,
-                "Y": 0.0,
-                "Z": 0.0
-            },
-            "Size": {
-                "X": 1.2,
-                "Y": 1.4,
                 "Z": 1.0
             }
         },
@@ -4961,47 +4387,6 @@
         "ToggleOnEnable": true
     },
     {
-        "Name": "no walk",
-        "Transform": {
-            "Position": {
-                "X": -11.8238077,
-                "Y": -13.4,
-                "Z": -33.9261856
-            },
-            "Rotation": {
-                "X": 0.0,
-                "Y": 4.41074371E-06,
-                "Z": 0.0,
-                "W": -1.0
-            },
-            "Scale": {
-                "X": 4.785258,
-                "Y": 33.9,
-                "Z": 4.606541
-            }
-        },
-        "Bounds": {
-            "Center": {
-                "X": 0.0,
-                "Y": 0.0,
-                "Z": 0.0
-            },
-            "Size": {
-                "X": 2.0,
-                "Y": 2.0,
-                "Z": 2.0
-            }
-        },
-        "BoundsColor": {
-            "R": 0,
-            "G": 255,
-            "B": 0,
-            "A": 102
-        },
-        "ExceptionsMask": 0,
-        "ToggleOnEnable": true
-    },
-    {
         "Name": "No Titan (13)",
         "Transform": {
             "Position": {
@@ -5036,88 +4421,6 @@
         "BoundsColor": {
             "R": 0,
             "G": 255,
-            "B": 0,
-            "A": 102
-        },
-        "ExceptionsMask": 0,
-        "ToggleOnEnable": true
-    },
-    {
-        "Name": "no walk (4)",
-        "Transform": {
-            "Position": {
-                "X": -57.17043,
-                "Y": -13.4,
-                "Z": 42.38147
-            },
-            "Rotation": {
-                "X": 0.0,
-                "Y": -0.3826787,
-                "Z": 0.0,
-                "W": -0.9238815
-            },
-            "Scale": {
-                "X": 12.5721025,
-                "Y": 33.9,
-                "Z": 35.3164063
-            }
-        },
-        "Bounds": {
-            "Center": {
-                "X": 0.0,
-                "Y": 0.0,
-                "Z": 0.0
-            },
-            "Size": {
-                "X": 2.0,
-                "Y": 2.0,
-                "Z": 2.0
-            }
-        },
-        "BoundsColor": {
-            "R": 0,
-            "G": 255,
-            "B": 0,
-            "A": 102
-        },
-        "ExceptionsMask": 0,
-        "ToggleOnEnable": true
-    },
-    {
-        "Name": "Cover Mesh (22)",
-        "Transform": {
-            "Position": {
-                "X": -35.98089,
-                "Y": 3.75,
-                "Z": -42.1649971
-            },
-            "Rotation": {
-                "X": 0.0,
-                "Y": 1.16229057E-06,
-                "Z": 0.0,
-                "W": 1.0
-            },
-            "Scale": {
-                "X": 1.9999994,
-                "Y": 1.5,
-                "Z": 0.4999993
-            }
-        },
-        "Bounds": {
-            "Center": {
-                "X": 0.0,
-                "Y": 0.0,
-                "Z": 0.0
-            },
-            "Size": {
-                "X": 1.2,
-                "Y": 1.4,
-                "Z": 1.0
-            }
-        },
-        "BoundsColor": {
-            "R": 255,
-            "G": 0,
             "B": 0,
             "A": 102
         },
@@ -5224,47 +4527,6 @@
                 "X": 9.00001049,
                 "Y": 2.0,
                 "Z": 0.5000009
-            }
-        },
-        "Bounds": {
-            "Center": {
-                "X": 0.0,
-                "Y": 0.0,
-                "Z": 0.0
-            },
-            "Size": {
-                "X": 1.2,
-                "Y": 1.4,
-                "Z": 1.0
-            }
-        },
-        "BoundsColor": {
-            "R": 255,
-            "G": 0,
-            "B": 0,
-            "A": 102
-        },
-        "ExceptionsMask": 0,
-        "ToggleOnEnable": true
-    },
-    {
-        "Name": "Cover Mesh (19)",
-        "Transform": {
-            "Position": {
-                "X": -27.3878822,
-                "Y": 3.75,
-                "Z": -45.26
-            },
-            "Rotation": {
-                "X": 0.0,
-                "Y": 5.662441E-07,
-                "Z": 0.0,
-                "W": 1.0
-            },
-            "Scale": {
-                "X": 2.00000048,
-                "Y": 1.5,
-                "Z": 0.4999994
             }
         },
         "Bounds": {
@@ -5450,47 +4712,6 @@
             "A": 102
         },
         "ExceptionsMask": -9,
-        "ToggleOnEnable": true
-    },
-    {
-        "Name": "Cover Mesh (20)",
-        "Transform": {
-            "Position": {
-                "X": -42.40288,
-                "Y": 3.75,
-                "Z": -44.191
-            },
-            "Rotation": {
-                "X": 0.0,
-                "Y": -0.382682979,
-                "Z": 0.0,
-                "W": 0.9238797
-            },
-            "Scale": {
-                "X": 2.0,
-                "Y": 1.5,
-                "Z": 0.499999464
-            }
-        },
-        "Bounds": {
-            "Center": {
-                "X": 0.0,
-                "Y": 0.0,
-                "Z": 0.0
-            },
-            "Size": {
-                "X": 1.2,
-                "Y": 1.4,
-                "Z": 1.0
-            }
-        },
-        "BoundsColor": {
-            "R": 255,
-            "G": 0,
-            "B": 0,
-            "A": 102
-        },
-        "ExceptionsMask": 0,
         "ToggleOnEnable": true
     },
     {
@@ -6150,47 +5371,6 @@
         "ToggleOnEnable": true
     },
     {
-        "Name": "Cover Mesh (11)",
-        "Transform": {
-            "Position": {
-                "X": 35.9960938,
-                "Y": 3.75,
-                "Z": -42.1600151
-            },
-            "Rotation": {
-                "X": 0.0,
-                "Y": 1.16229057E-06,
-                "Z": 0.0,
-                "W": 1.0
-            },
-            "Scale": {
-                "X": 1.99999952,
-                "Y": 1.5,
-                "Z": 0.499999344
-            }
-        },
-        "Bounds": {
-            "Center": {
-                "X": 0.0,
-                "Y": 0.0,
-                "Z": 0.0
-            },
-            "Size": {
-                "X": 1.2,
-                "Y": 1.4,
-                "Z": 1.0
-            }
-        },
-        "BoundsColor": {
-            "R": 255,
-            "G": 0,
-            "B": 0,
-            "A": 102
-        },
-        "ExceptionsMask": 0,
-        "ToggleOnEnable": true
-    },
-    {
         "Name": "Cover Mesh (34)",
         "Transform": {
             "Position": {
@@ -6314,47 +5494,6 @@
         "ToggleOnEnable": true
     },
     {
-        "Name": "no walk",
-        "Transform": {
-            "Position": {
-                "X": -48.7704239,
-                "Y": -13.4,
-                "Z": 51.8814735
-            },
-            "Rotation": {
-                "X": 0.0,
-                "Y": 0.7071088,
-                "Z": 0.0,
-                "W": -0.707104743
-            },
-            "Scale": {
-                "X": 12.5720987,
-                "Y": 33.9,
-                "Z": 35.3164177
-            }
-        },
-        "Bounds": {
-            "Center": {
-                "X": 0.0,
-                "Y": 0.0,
-                "Z": 0.0
-            },
-            "Size": {
-                "X": 2.0,
-                "Y": 2.0,
-                "Z": 2.0
-            }
-        },
-        "BoundsColor": {
-            "R": 0,
-            "G": 255,
-            "B": 0,
-            "A": 102
-        },
-        "ExceptionsMask": 0,
-        "ToggleOnEnable": true
-    },
-    {
         "Name": "No Titan (3)",
         "Transform": {
             "Position": {
@@ -6393,47 +5532,6 @@
             "A": 102
         },
         "ExceptionsMask": 949,
-        "ToggleOnEnable": true
-    },
-    {
-        "Name": "Cover Mesh (12)",
-        "Transform": {
-            "Position": {
-                "X": 42.4061,
-                "Y": 3.75,
-                "Z": -44.1840057
-            },
-            "Rotation": {
-                "X": 0.0,
-                "Y": 0.382683784,
-                "Z": 0.0,
-                "W": 0.9238795
-            },
-            "Scale": {
-                "X": 1.99999976,
-                "Y": 1.5,
-                "Z": 0.4999994
-            }
-        },
-        "Bounds": {
-            "Center": {
-                "X": 0.0,
-                "Y": 0.0,
-                "Z": 0.0
-            },
-            "Size": {
-                "X": 1.2,
-                "Y": 1.4,
-                "Z": 1.0
-            }
-        },
-        "BoundsColor": {
-            "R": 255,
-            "G": 0,
-            "B": 0,
-            "A": 102
-        },
-        "ExceptionsMask": 0,
         "ToggleOnEnable": true
     },
     {
@@ -6970,88 +6068,6 @@
         "ToggleOnEnable": true
     },
     {
-        "Name": "Cover Mesh (15)",
-        "Transform": {
-            "Position": {
-                "X": 27.2721119,
-                "Y": 3.75,
-                "Z": -45.2700043
-            },
-            "Rotation": {
-                "X": 0.0,
-                "Y": 5.662441E-07,
-                "Z": 0.0,
-                "W": 1.0
-            },
-            "Scale": {
-                "X": 2.00000048,
-                "Y": 1.5,
-                "Z": 0.4999994
-            }
-        },
-        "Bounds": {
-            "Center": {
-                "X": 0.0,
-                "Y": 0.0,
-                "Z": 0.0
-            },
-            "Size": {
-                "X": 1.2,
-                "Y": 1.4,
-                "Z": 1.0
-            }
-        },
-        "BoundsColor": {
-            "R": 255,
-            "G": 0,
-            "B": 0,
-            "A": 102
-        },
-        "ExceptionsMask": 0,
-        "ToggleOnEnable": true
-    },
-    {
-        "Name": "Cover Mesh (24)",
-        "Transform": {
-            "Position": {
-                "X": -39.48089,
-                "Y": 3.75,
-                "Z": -42.1649971
-            },
-            "Rotation": {
-                "X": 0.0,
-                "Y": 1.16229057E-06,
-                "Z": 0.0,
-                "W": 1.0
-            },
-            "Scale": {
-                "X": 1.99999964,
-                "Y": 1.5,
-                "Z": 0.499999374
-            }
-        },
-        "Bounds": {
-            "Center": {
-                "X": 0.0,
-                "Y": 0.0,
-                "Z": 0.0
-            },
-            "Size": {
-                "X": 1.2,
-                "Y": 1.4,
-                "Z": 1.0
-            }
-        },
-        "BoundsColor": {
-            "R": 255,
-            "G": 0,
-            "B": 0,
-            "A": 102
-        },
-        "ExceptionsMask": 0,
-        "ToggleOnEnable": true
-    },
-    {
         "Name": "Cover Mesh (26)",
         "Transform": {
             "Position": {
@@ -7503,47 +6519,6 @@
         "ToggleOnEnable": true
     },
     {
-        "Name": "no walk (3)",
-        "Transform": {
-            "Position": {
-                "X": -64.87043,
-                "Y": -13.4,
-                "Z": 50.08147
-            },
-            "Rotation": {
-                "X": 0.0,
-                "Y": 4.32133675E-06,
-                "Z": 0.0,
-                "W": -1.0
-            },
-            "Scale": {
-                "X": 12.5721006,
-                "Y": 33.9,
-                "Z": 35.31641
-            }
-        },
-        "Bounds": {
-            "Center": {
-                "X": 0.0,
-                "Y": 0.0,
-                "Z": 0.0
-            },
-            "Size": {
-                "X": 2.0,
-                "Y": 2.0,
-                "Z": 2.0
-            }
-        },
-        "BoundsColor": {
-            "R": 0,
-            "G": 255,
-            "B": 0,
-            "A": 102
-        },
-        "ExceptionsMask": 0,
-        "ToggleOnEnable": true
-    },
-    {
         "Name": "No Titan (14)",
         "Transform": {
             "Position": {
@@ -7626,47 +6601,6 @@
         "ToggleOnEnable": true
     },
     {
-        "Name": "Cover Mesh (14)",
-        "Transform": {
-            "Position": {
-                "X": 22.2721119,
-                "Y": 3.75,
-                "Z": -45.2700157
-            },
-            "Rotation": {
-                "X": 0.0,
-                "Y": 5.662441E-07,
-                "Z": 0.0,
-                "W": 1.0
-            },
-            "Scale": {
-                "X": 2.00000048,
-                "Y": 1.5,
-                "Z": 0.499999434
-            }
-        },
-        "Bounds": {
-            "Center": {
-                "X": 0.0,
-                "Y": 0.0,
-                "Z": 0.0
-            },
-            "Size": {
-                "X": 1.2,
-                "Y": 1.4,
-                "Z": 1.0
-            }
-        },
-        "BoundsColor": {
-            "R": 255,
-            "G": 0,
-            "B": 0,
-            "A": 102
-        },
-        "ExceptionsMask": 0,
-        "ToggleOnEnable": true
-    },
-    {
         "Name": "Cover Mesh (19)",
         "Transform": {
             "Position": {
@@ -7708,47 +6642,6 @@
         "ToggleOnEnable": true
     },
     {
-        "Name": "Cover Mesh (23)",
-        "Transform": {
-            "Position": {
-                "X": -32.48089,
-                "Y": 3.75,
-                "Z": -42.1649971
-            },
-            "Rotation": {
-                "X": 0.0,
-                "Y": 1.16229057E-06,
-                "Z": 0.0,
-                "W": 1.0
-            },
-            "Scale": {
-                "X": 1.99999952,
-                "Y": 1.5,
-                "Z": 0.499999344
-            }
-        },
-        "Bounds": {
-            "Center": {
-                "X": 0.0,
-                "Y": 0.0,
-                "Z": 0.0
-            },
-            "Size": {
-                "X": 1.2,
-                "Y": 1.4,
-                "Z": 1.0
-            }
-        },
-        "BoundsColor": {
-            "R": 255,
-            "G": 0,
-            "B": 0,
-            "A": 102
-        },
-        "ExceptionsMask": 0,
-        "ToggleOnEnable": true
-    },
-    {
         "Name": "Cover Mesh (29)",
         "Transform": {
             "Position": {
@@ -7787,47 +6680,6 @@
             "A": 102
         },
         "ExceptionsMask": 8,
-        "ToggleOnEnable": true
-    },
-    {
-        "Name": "no walk (2)",
-        "Transform": {
-            "Position": {
-                "X": -36.00383,
-                "Y": -13.4,
-                "Z": -54.31618
-            },
-            "Rotation": {
-                "X": 0.0,
-                "Y": 0.7071088,
-                "Z": 0.0,
-                "W": -0.707104743
-            },
-            "Scale": {
-                "X": 12.5720959,
-                "Y": 33.9,
-                "Z": 8.129178
-            }
-        },
-        "Bounds": {
-            "Center": {
-                "X": 0.0,
-                "Y": 0.0,
-                "Z": 0.0
-            },
-            "Size": {
-                "X": 2.0,
-                "Y": 2.0,
-                "Z": 2.0
-            }
-        },
-        "BoundsColor": {
-            "R": 0,
-            "G": 255,
-            "B": 0,
-            "A": 102
-        },
-        "ExceptionsMask": 0,
         "ToggleOnEnable": true
     },
     {
@@ -8282,47 +7134,6 @@
         "ToggleOnEnable": true
     },
     {
-        "Name": "no walk",
-        "Transform": {
-            "Position": {
-                "X": -33.6938324,
-                "Y": -13.4,
-                "Z": -55.51618
-            },
-            "Rotation": {
-                "X": 0.0,
-                "Y": 0.7071088,
-                "Z": 0.0,
-                "W": -0.707104743
-            },
-            "Scale": {
-                "X": 12.5720987,
-                "Y": 33.9,
-                "Z": 24.0862083
-            }
-        },
-        "Bounds": {
-            "Center": {
-                "X": 0.0,
-                "Y": 0.0,
-                "Z": 0.0
-            },
-            "Size": {
-                "X": 2.0,
-                "Y": 2.0,
-                "Z": 2.0
-            }
-        },
-        "BoundsColor": {
-            "R": 0,
-            "G": 255,
-            "B": 0,
-            "A": 102
-        },
-        "ExceptionsMask": 0,
-        "ToggleOnEnable": true
-    },
-    {
         "Name": "No Titan (1)",
         "Transform": {
             "Position": {
@@ -8610,47 +7421,6 @@
         "ToggleOnEnable": true
     },
     {
-        "Name": "no walk (1)",
-        "Transform": {
-            "Position": {
-                "X": 49.5295677,
-                "Y": -13.4,
-                "Z": 51.8814659
-            },
-            "Rotation": {
-                "X": 0.0,
-                "Y": 0.7071088,
-                "Z": 0.0,
-                "W": -0.707104743
-            },
-            "Scale": {
-                "X": 12.5720959,
-                "Y": 33.9,
-                "Z": 35.3164024
-            }
-        },
-        "Bounds": {
-            "Center": {
-                "X": 0.0,
-                "Y": 0.0,
-                "Z": 0.0
-            },
-            "Size": {
-                "X": 2.0,
-                "Y": 2.0,
-                "Z": 2.0
-            }
-        },
-        "BoundsColor": {
-            "R": 0,
-            "G": 255,
-            "B": 0,
-            "A": 102
-        },
-        "ExceptionsMask": 0,
-        "ToggleOnEnable": true
-    },
-    {
         "Name": "No Titan (19)",
         "Transform": {
             "Position": {
@@ -8668,47 +7438,6 @@
                 "X": 2.645214,
                 "Y": 25.1100483,
                 "Z": 3.64376259
-            }
-        },
-        "Bounds": {
-            "Center": {
-                "X": 0.0,
-                "Y": 0.0,
-                "Z": 0.0
-            },
-            "Size": {
-                "X": 2.0,
-                "Y": 2.0,
-                "Z": 2.0
-            }
-        },
-        "BoundsColor": {
-            "R": 0,
-            "G": 255,
-            "B": 0,
-            "A": 102
-        },
-        "ExceptionsMask": 0,
-        "ToggleOnEnable": true
-    },
-    {
-        "Name": "no walk (5)",
-        "Transform": {
-            "Position": {
-                "X": 48.86616,
-                "Y": -13.4,
-                "Z": -50.9962
-            },
-            "Rotation": {
-                "X": 0.0,
-                "Y": 0.7071088,
-                "Z": 0.0,
-                "W": -0.707104743
-            },
-            "Scale": {
-                "X": 12.5720844,
-                "Y": 33.8999977,
-                "Z": 8.129164
             }
         },
         "Bounds": {

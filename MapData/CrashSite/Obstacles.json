@@ -1,46 +1,5 @@
 [
     {
-        "Name": "No walk Island west",
-        "Transform": {
-            "Position": {
-                "X": -20.7184143,
-                "Y": -4.924019,
-                "Z": 10.7377777
-            },
-            "Rotation": {
-                "X": 0.0,
-                "Y": 0.707108259,
-                "Z": 0.0,
-                "W": -0.7071053
-            },
-            "Scale": {
-                "X": 0.09248964,
-                "Y": 0.879289448,
-                "Z": 0.616742551
-            }
-        },
-        "Bounds": {
-            "Center": {
-                "X": 0.0,
-                "Y": 0.0,
-                "Z": 0.0
-            },
-            "Size": {
-                "X": 95.2,
-                "Y": 50.58,
-                "Z": 24.0
-            }
-        },
-        "BoundsColor": {
-            "R": 0,
-            "G": 255,
-            "B": 0,
-            "A": 102
-        },
-        "ExceptionsMask": 0,
-        "ToggleOnEnable": true
-    },
-    {
         "Name": "No Titan (5)",
         "Transform": {
             "Position": {
@@ -4170,47 +4129,6 @@
                 "X": 2.0,
                 "Y": 2.0,
                 "Z": 2.0
-            }
-        },
-        "BoundsColor": {
-            "R": 0,
-            "G": 255,
-            "B": 0,
-            "A": 102
-        },
-        "ExceptionsMask": 0,
-        "ToggleOnEnable": true
-    },
-    {
-        "Name": "No walk Island east",
-        "Transform": {
-            "Position": {
-                "X": 14.3388672,
-                "Y": -4.924019,
-                "Z": 0.5995636
-            },
-            "Rotation": {
-                "X": 0.0,
-                "Y": 0.707108259,
-                "Z": 0.0,
-                "W": -0.7071053
-            },
-            "Scale": {
-                "X": 0.0907924846,
-                "Y": 0.879289448,
-                "Z": 0.616742432
-            }
-        },
-        "Bounds": {
-            "Center": {
-                "X": 0.0,
-                "Y": 0.0,
-                "Z": 0.0
-            },
-            "Size": {
-                "X": 95.2,
-                "Y": 50.58,
-                "Z": 24.0
             }
         },
         "BoundsColor": {

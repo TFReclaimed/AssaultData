@@ -1,0 +1,362 @@
+[
+    {
+        "Name": "Turn Off 1",
+        "ActivateAtTime": 0.0,
+        "DurationTime": 120.0,
+        "PhysicsBodies": [
+            {
+                "Transform": {
+                    "Position": {
+                        "X": -21.7825928,
+                        "Y": 5.699997,
+                        "Z": 10.681488
+                    },
+                    "Rotation": {
+                        "X": 0.0,
+                        "Y": -0.70711,
+                        "Z": 0.0,
+                        "W": -0.707103431
+                    },
+                    "Scale": {
+                        "X": 7.99999762,
+                        "Y": 6.00000048,
+                        "Z": 7.99999762
+                    }
+                },
+                "Layer": 0,
+                "Collider": {
+                    "Type": "Box",
+                    "Offset": {
+                        "X": 0.0,
+                        "Y": 0.0,
+                        "Z": 0.0
+                    },
+                    "Size": {
+                        "X": 3.99999881,
+                        "Y": 3.00000024,
+                        "Z": 3.99999881
+                    },
+                    "Vertices": [],
+                    "Triangles": []
+                }
+            },
+            {
+                "Transform": {
+                    "Position": {
+                        "X": -20.48259,
+                        "Y": 6.0,
+                        "Z": 10.7414894
+                    },
+                    "Rotation": {
+                        "X": 0.0,
+                        "Y": 0.707108259,
+                        "Z": 0.0,
+                        "W": -0.7071053
+                    },
+                    "Scale": {
+                        "X": 6.99999857,
+                        "Y": 6.00000048,
+                        "Z": 14.6809511
+                    }
+                },
+                "Layer": 12,
+                "Collider": {
+                    "Type": "Box",
+                    "Offset": {
+                        "X": 0.0,
+                        "Y": 0.0,
+                        "Z": 0.0
+                    },
+                    "Size": {
+                        "X": 3.49999928,
+                        "Y": 3.00000024,
+                        "Z": 7.34047556
+                    },
+                    "Vertices": [],
+                    "Triangles": []
+                }
+            }
+        ],
+        "Obstacles": [
+            {
+                "Name": "No walk Island west",
+                "Transform": {
+                    "Position": {
+                        "X": -20.7184143,
+                        "Y": -4.924019,
+                        "Z": 10.7377777
+                    },
+                    "Rotation": {
+                        "X": 0.0,
+                        "Y": 0.707108259,
+                        "Z": 0.0,
+                        "W": -0.7071053
+                    },
+                    "Scale": {
+                        "X": 0.09248964,
+                        "Y": 0.879289448,
+                        "Z": 0.616742551
+                    }
+                },
+                "Bounds": {
+                    "Center": {
+                        "X": 0.0,
+                        "Y": 0.0,
+                        "Z": 0.0
+                    },
+                    "Size": {
+                        "X": 95.2,
+                        "Y": 50.58,
+                        "Z": 24.0
+                    }
+                },
+                "BoundsColor": {
+                    "R": 0,
+                    "G": 255,
+                    "B": 0,
+                    "A": 102
+                },
+                "ExceptionsMask": 0,
+                "ToggleOnEnable": true
+            }
+        ],
+        "CoverNodes": [],
+        "Portals": [],
+        "Effects": [],
+        "BombShelters": [],
+        "UnitDeploymentBounds": []
+    },
+    {
+        "Name": "Turn Off 2",
+        "ActivateAtTime": 0.0,
+        "DurationTime": 120.0,
+        "PhysicsBodies": [
+            {
+                "Transform": {
+                    "Position": {
+                        "X": 15.01741,
+                        "Y": 5.699997,
+                        "Z": 0.571495056
+                    },
+                    "Rotation": {
+                        "X": 0.0,
+                        "Y": 0.7071021,
+                        "Z": 0.0,
+                        "W": -0.7071114
+                    },
+                    "Scale": {
+                        "X": 7.99999857,
+                        "Y": 6.00000048,
+                        "Z": 7.99999857
+                    }
+                },
+                "Layer": 0,
+                "Collider": {
+                    "Type": "Box",
+                    "Offset": {
+                        "X": 0.0,
+                        "Y": 0.0,
+                        "Z": 0.0
+                    },
+                    "Size": {
+                        "X": 3.99999928,
+                        "Y": 3.00000024,
+                        "Z": 3.99999928
+                    },
+                    "Vertices": [],
+                    "Triangles": []
+                }
+            },
+            {
+                "Transform": {
+                    "Position": {
+                        "X": 14.3387833,
+                        "Y": 6.0,
+                        "Z": 0.599601746
+                    },
+                    "Rotation": {
+                        "X": 0.0,
+                        "Y": 0.707108259,
+                        "Z": 0.0,
+                        "W": -0.7071053
+                    },
+                    "Scale": {
+                        "X": 6.99999857,
+                        "Y": 6.00000048,
+                        "Z": 14.68095
+                    }
+                },
+                "Layer": 12,
+                "Collider": {
+                    "Type": "Box",
+                    "Offset": {
+                        "X": 0.0,
+                        "Y": 0.0,
+                        "Z": 0.0
+                    },
+                    "Size": {
+                        "X": 3.49999928,
+                        "Y": 3.00000024,
+                        "Z": 7.340475
+                    },
+                    "Vertices": [],
+                    "Triangles": []
+                }
+            }
+        ],
+        "Obstacles": [
+            {
+                "Name": "No walk Island east",
+                "Transform": {
+                    "Position": {
+                        "X": 14.3388672,
+                        "Y": -4.924019,
+                        "Z": 0.5995636
+                    },
+                    "Rotation": {
+                        "X": 0.0,
+                        "Y": 0.707108259,
+                        "Z": 0.0,
+                        "W": -0.7071053
+                    },
+                    "Scale": {
+                        "X": 0.0907924846,
+                        "Y": 0.879289448,
+                        "Z": 0.616742432
+                    }
+                },
+                "Bounds": {
+                    "Center": {
+                        "X": 0.0,
+                        "Y": 0.0,
+                        "Z": 0.0
+                    },
+                    "Size": {
+                        "X": 95.2,
+                        "Y": 50.58,
+                        "Z": 24.0
+                    }
+                },
+                "BoundsColor": {
+                    "R": 0,
+                    "G": 255,
+                    "B": 0,
+                    "A": 102
+                },
+                "ExceptionsMask": 0,
+                "ToggleOnEnable": true
+            }
+        ],
+        "CoverNodes": [],
+        "Portals": [],
+        "Effects": [],
+        "BombShelters": [],
+        "UnitDeploymentBounds": []
+    },
+    {
+        "Name": "Turn On 1",
+        "ActivateAtTime": 120.0,
+        "DurationTime": 0.0,
+        "PhysicsBodies": [],
+        "Obstacles": [],
+        "CoverNodes": [],
+        "Portals": [],
+        "Effects": [],
+        "BombShelters": [],
+        "UnitDeploymentBounds": [
+            {
+                "Transform": {
+                    "Position": {
+                        "X": -18.9260254,
+                        "Y": 2.66999817,
+                        "Z": 10.6638374
+                    },
+                    "Rotation": {
+                        "X": 0.0,
+                        "Y": 0.99999994,
+                        "Z": 0.0,
+                        "W": 1.10268593E-06
+                    },
+                    "Scale": {
+                        "X": 0.744863331,
+                        "Y": 0.99999994,
+                        "Z": 0.0925329253
+                    }
+                },
+                "Bounds": {
+                    "Center": {
+                        "X": 0.0,
+                        "Y": 0.0,
+                        "Z": 0.0
+                    },
+                    "Size": {
+                        "X": 23.8,
+                        "Y": 52.32,
+                        "Z": 72.6
+                    }
+                },
+                "BoundsColor": {
+                    "R": 255,
+                    "G": 0,
+                    "B": 247,
+                    "A": 102
+                },
+                "Team": 3,
+                "Zone": 1
+            }
+        ]
+    },
+    {
+        "Name": "Turn On 2",
+        "ActivateAtTime": 120.0,
+        "DurationTime": 0.0,
+        "PhysicsBodies": [],
+        "Obstacles": [],
+        "CoverNodes": [],
+        "Portals": [],
+        "Effects": [],
+        "BombShelters": [],
+        "UnitDeploymentBounds": [
+            {
+                "Transform": {
+                    "Position": {
+                        "X": 12.3239136,
+                        "Y": 2.66999817,
+                        "Z": 0.423522949
+                    },
+                    "Rotation": {
+                        "X": 0.0,
+                        "Y": 0.99999994,
+                        "Z": 0.0,
+                        "W": 1.10268593E-06
+                    },
+                    "Scale": {
+                        "X": 0.7448634,
+                        "Y": 1.0,
+                        "Z": 0.0925329253
+                    }
+                },
+                "Bounds": {
+                    "Center": {
+                        "X": 0.0,
+                        "Y": 0.0,
+                        "Z": 0.0
+                    },
+                    "Size": {
+                        "X": 23.8,
+                        "Y": 52.32,
+                        "Z": 72.6
+                    }
+                },
+                "BoundsColor": {
+                    "R": 255,
+                    "G": 0,
+                    "B": 216,
+                    "A": 102
+                },
+                "Team": 3,
+                "Zone": 1
+            }
+        ]
+    }
+]

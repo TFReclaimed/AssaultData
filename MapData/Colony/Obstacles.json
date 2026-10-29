@@ -902,47 +902,6 @@
         "ToggleOnEnable": true
     },
     {
-        "Name": "no walk (1)",
-        "Transform": {
-            "Position": {
-                "X": -0.26,
-                "Y": 3.699997,
-                "Z": -60.87
-            },
-            "Rotation": {
-                "X": 0.0,
-                "Y": 0.7071068,
-                "Z": 0.0,
-                "W": 0.7071067
-            },
-            "Scale": {
-                "X": 6.638788,
-                "Y": 25.1099987,
-                "Z": 14.5499849
-            }
-        },
-        "Bounds": {
-            "Center": {
-                "X": 0.0,
-                "Y": 0.0,
-                "Z": 0.0
-            },
-            "Size": {
-                "X": 2.0,
-                "Y": 2.0,
-                "Z": 2.0
-            }
-        },
-        "BoundsColor": {
-            "R": 0,
-            "G": 255,
-            "B": 0,
-            "A": 102
-        },
-        "ExceptionsMask": 0,
-        "ToggleOnEnable": true
-    },
-    {
         "Name": "No Titan (13)",
         "Transform": {
             "Position": {
@@ -2665,47 +2624,6 @@
         "ToggleOnEnable": true
     },
     {
-        "Name": "no walk (2)",
-        "Transform": {
-            "Position": {
-                "X": -0.26,
-                "Y": 3.699997,
-                "Z": -80.82
-            },
-            "Rotation": {
-                "X": 0.0,
-                "Y": 0.7071068,
-                "Z": 0.0,
-                "W": 0.7071067
-            },
-            "Scale": {
-                "X": 5.475287,
-                "Y": 25.1099987,
-                "Z": 14.549984
-            }
-        },
-        "Bounds": {
-            "Center": {
-                "X": 0.0,
-                "Y": 0.0,
-                "Z": 0.0
-            },
-            "Size": {
-                "X": 2.0,
-                "Y": 2.0,
-                "Z": 2.0
-            }
-        },
-        "BoundsColor": {
-            "R": 0,
-            "G": 255,
-            "B": 0,
-            "A": 102
-        },
-        "ExceptionsMask": 0,
-        "ToggleOnEnable": true
-    },
-    {
         "Name": "no walk (1)",
         "Transform": {
             "Position": {
@@ -4141,47 +4059,6 @@
         "ToggleOnEnable": true
     },
     {
-        "Name": "3_Story (29)",
-        "Transform": {
-            "Position": {
-                "X": -10.12249,
-                "Y": 6.0,
-                "Z": -55.198555
-            },
-            "Rotation": {
-                "X": 0.0,
-                "Y": -8.940697E-08,
-                "Z": 0.0,
-                "W": -1.0
-            },
-            "Scale": {
-                "X": 19.0,
-                "Y": 6.0,
-                "Z": 2.0
-            }
-        },
-        "Bounds": {
-            "Center": {
-                "X": 0.0,
-                "Y": 0.0,
-                "Z": 0.0
-            },
-            "Size": {
-                "X": 1.1,
-                "Y": 2.0,
-                "Z": 2.4
-            }
-        },
-        "BoundsColor": {
-            "R": 0,
-            "G": 255,
-            "B": 0,
-            "A": 102
-        },
-        "ExceptionsMask": 933,
-        "ToggleOnEnable": true
-    },
-    {
         "Name": "No Titan (16)",
         "Transform": {
             "Position": {
@@ -5330,47 +5207,6 @@
         "ToggleOnEnable": true
     },
     {
-        "Name": "3_Story (28)",
-        "Transform": {
-            "Position": {
-                "X": 9.377494,
-                "Y": 6.0,
-                "Z": -55.19854
-            },
-            "Rotation": {
-                "X": 0.0,
-                "Y": 1.937151E-06,
-                "Z": 0.0,
-                "W": 1.0
-            },
-            "Scale": {
-                "X": 19.9999924,
-                "Y": 6.0,
-                "Z": 2.0
-            }
-        },
-        "Bounds": {
-            "Center": {
-                "X": 0.0,
-                "Y": 0.0,
-                "Z": 0.0
-            },
-            "Size": {
-                "X": 1.1,
-                "Y": 2.0,
-                "Z": 2.4
-            }
-        },
-        "BoundsColor": {
-            "R": 0,
-            "G": 255,
-            "B": 0,
-            "A": 102
-        },
-        "ExceptionsMask": 933,
-        "ToggleOnEnable": true
-    },
-    {
         "Name": "No Titan (10)",
         "Transform": {
             "Position": {
@@ -5860,47 +5696,6 @@
             "A": 102
         },
         "ExceptionsMask": 933,
-        "ToggleOnEnable": true
-    },
-    {
-        "Name": "no walk (2)",
-        "Transform": {
-            "Position": {
-                "X": -0.26,
-                "Y": 3.699997,
-                "Z": -80.82
-            },
-            "Rotation": {
-                "X": 0.0,
-                "Y": 0.7071068,
-                "Z": 0.0,
-                "W": 0.7071067
-            },
-            "Scale": {
-                "X": 5.475287,
-                "Y": 25.1099987,
-                "Z": 14.549983
-            }
-        },
-        "Bounds": {
-            "Center": {
-                "X": 0.0,
-                "Y": 0.0,
-                "Z": 0.0
-            },
-            "Size": {
-                "X": 2.0,
-                "Y": 2.0,
-                "Z": 2.0
-            }
-        },
-        "BoundsColor": {
-            "R": 0,
-            "G": 255,
-            "B": 0,
-            "A": 102
-        },
-        "ExceptionsMask": 0,
         "ToggleOnEnable": true
     },
     {
@@ -6475,47 +6270,6 @@
             "A": 102
         },
         "ExceptionsMask": 257,
-        "ToggleOnEnable": true
-    },
-    {
-        "Name": "no walk (1)",
-        "Transform": {
-            "Position": {
-                "X": -0.26,
-                "Y": 3.699997,
-                "Z": -60.87
-            },
-            "Rotation": {
-                "X": 0.0,
-                "Y": 0.7071068,
-                "Z": 0.0,
-                "W": 0.7071067
-            },
-            "Scale": {
-                "X": 6.638788,
-                "Y": 25.1099987,
-                "Z": 14.5499859
-            }
-        },
-        "Bounds": {
-            "Center": {
-                "X": 0.0,
-                "Y": 0.0,
-                "Z": 0.0
-            },
-            "Size": {
-                "X": 2.0,
-                "Y": 2.0,
-                "Z": 2.0
-            }
-        },
-        "BoundsColor": {
-            "R": 0,
-            "G": 255,
-            "B": 0,
-            "A": 102
-        },
-        "ExceptionsMask": 0,
         "ToggleOnEnable": true
     },
     {
