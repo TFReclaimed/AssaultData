@@ -1,6 +1,7 @@
 {
     "$type": "Troop",
     "Invulnerable": false,
+    "DashIgnoreNavigation": true,
     "Name": "Drone_Arc",
     "Transform": {
         "Position": {

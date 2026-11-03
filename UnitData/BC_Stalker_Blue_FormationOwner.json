@@ -1,6 +1,7 @@
 {
     "$type": "Troop",
     "Invulnerable": true,
+    "DashIgnoreNavigation": false,
     "Name": "BC_Stalker_Blue_FormationOwner",
     "Transform": {
         "Position": {

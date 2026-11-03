@@ -1,6 +1,7 @@
 {
     "$type": "Troop",
     "Invulnerable": false,
+    "DashIgnoreNavigation": false,
     "Name": "Pilot_01_blue",
     "Transform": {
         "Position": {

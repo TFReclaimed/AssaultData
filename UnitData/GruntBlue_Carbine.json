@@ -1,6 +1,7 @@
 {
     "$type": "Troop",
     "Invulnerable": false,
+    "DashIgnoreNavigation": false,
     "Name": "GruntBlue_Carbine",
     "Transform": {
         "Position": {

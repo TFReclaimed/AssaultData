@@ -1,6 +1,7 @@
 {
     "$type": "Troop",
     "Invulnerable": false,
+    "DashIgnoreNavigation": false,
     "Name": "BC_Stalker_Blue",
     "Transform": {
         "Position": {
